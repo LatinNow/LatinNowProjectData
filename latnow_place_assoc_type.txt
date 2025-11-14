@@ -1,0 +1,19 @@
+﻿id_code	category	connection	name
+0			unknown
+1			manual
+2	C	F	Country-Findspot
+3	C	M	Country-Modern
+4	C	O	Country-Origin
+5	O	F	Province-Findspot
+6	O	M	Province-Modern
+7	O	O	Province-Origin
+8	P	F	Place-Findspot
+9	P	M	Place-Modern
+10	P	O	Place Origin
+11	R	F	Region-Findspot
+12	R	M	Region-Modern
+13	R	O	Region-Origin
+14	R	R	Region-Research Area
+15	V	F	Civitas-Findspot
+16	V	O	Civitas-Origin
+17	Z	R	Research Zone

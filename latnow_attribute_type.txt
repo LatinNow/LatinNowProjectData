@@ -1,0 +1,13 @@
+﻿id_code	name
+8000	Personal status
+9000	Palaeography
+10000	Execution Method
+11000	Script
+12000	Multilingual
+7000	Sociolinguistic
+6000	Object Type
+5000	Related Identifier
+4000	Publication Authority
+3000	Text Type
+2000	Material
+1000	Text Language

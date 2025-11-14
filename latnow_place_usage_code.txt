@@ -1,0 +1,9 @@
+﻿1	C	Country
+2	E	Ethnicon
+3	F	Findspot
+4	M	Modern
+5	O	Origin
+6	P	Province
+7	R	Region
+8	V	Civitas
+9	Z	Zone

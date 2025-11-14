@@ -1,0 +1,1476 @@
+﻿id_code	name_full	type_id	name_short	name_sort	attr_ref	modified_datetime_iso	is_deprecated	rib_taxonomy_id	related_count	notes	modified_user	uri_pattern	parent_id
+6476	Vessel: Alabastron	6000	Albastron	Vessel: Alabastron		2024-08-01T00:39:21Z	False	0	1		Designer		6397
+12016	Text with biscriptal phenomena: Graphic interference	12000	Graphic interference	Text with biscriptal phenomena: Graphic interference		2025-02-14T19:34:18Z	False	16780	2		Designer		12007
+12015	Text with bilingual phenomena: Translingualism	12000	Translingualism	Text with bilingual phenomena: Translingualism		2025-02-14T19:34:18Z	False	16772	0		Designer		12002
+12014	Text with bilingual phenomena: Borrowing	12000	Borrowing	Text with bilingual phenomena: Borrowing		2025-02-14T19:34:18Z	False	16766	2		Designer		12002
+12013	Text with bilingual phenomena: Interference	12000	Interference	Text with bilingual phenomena: Interference		2025-02-14T19:34:18Z	False	16771	0		Designer		12002
+1113	Aramaic	1000	arc	Aramaic		2024-08-01T00:39:21Z	False	0	0		Designer		0
+5019	Inscriptiones Britanniae Christianae	5000	IBC	Inscriptiones Britanniae Christianae		2024-08-01T00:39:21Z	False	0	0		Designer		0
+4028	Roman Inscriptions of Britain (New)	4000	RIB (New)	Roman Inscriptions of Britain (New)		2025-10-17T10:49:21Z	False	0	221		Designer		0
+6482	Model	6000	Model	Model		2025-02-14T19:34:18Z	False	17507	1		Designer		0
+5020	Carmina Latina Epigraphica Online	5000	CLEO	Carmina Latina Epigraphica Online		2024-11-28T19:52:27Z	False	0	0		Designer	https://institucional.us.es/cleo/index.php/inscripcion/{$Ident_t$}/	0
+4029	Carmina Latina Epigraphica Online	4000	CLEO	Carmina Latina Epigraphica Online		2024-08-01T00:39:21Z	False	0	0		Designer		0
+3324	(epigraphic habit)	3000	(epigraphic habit)	(epigraphic habit)		2024-11-25T21:24:21Z	False	0	42414		Designer		0
+4030	Hispania Epigraphica	4000	Hisp Ep	Hispania Epigraphica		2024-08-01T00:39:21Z	False	0	0		Designer		0
+12012	Text with bilingual phenomena: Code-switching	12000	Code-switching	Text with bilingual phenomena: Code-switching		2025-10-20T11:20:24Z	False	16767	42		Designer		12002
+12011	Bi-version bilingual text: Complementary 	12000	Complementary	Bi-version bilingual text: Complementary		2025-02-14T19:34:18Z	False	16774	17		Designer		12001
+12010	Bi-version bilingual text: Overlapping 	12000	Overlapping	Bi-version bilingual text: Overlapping		2025-02-14T19:34:18Z	False	16776	2		Designer		12001
+12022	(not assigned)	12000	(not assigned)	(not assigned)		2024-08-01T00:39:21Z	False	0	0		Designer		0
+12009	Bi-version bilingual text: Partial	12000	Partial	Bi-version bilingual text: Partial		2025-02-14T19:34:18Z	False	16777	16		Designer		12001
+12008	Bi-version bilingual text: Duplicating	12000	Duplicating	Bi-version bilingual text: Duplicating		2025-02-14T19:34:18Z	False	16775	6		Designer		12001
+12007	Text with biscriptal phenomena	12000	Biscriptal phenomena	Biscriptal phenomena		2025-10-19T17:53:11Z	False	16778	54		Designer		0
+12006	Transliterated text	12000	Transliterated	Transliterated		2025-02-14T19:34:18Z	False	16784	2		Designer		0
+1010	Celtic	1000	cel	Celtic		2025-02-14T19:34:18Z	False	16591	978		Designer		0
+1011	British Celtic	1000	xbk	British Celtic		2024-08-01T00:39:21Z	False	0	3				0
+1014	Celtic (transcr. Greek)	1000	cel-Grek	Celtic (transcr. Greek)		2025-02-14T19:34:18Z	True	16600	0		Designer		0
+12005	Biscriptal text	12000	Biscriptal	Biscriptal		2025-02-14T19:34:18Z	False	16764	3		Designer		0
+12004	Translingual text	12000	Translingual	Translingual		2025-02-14T19:34:18Z	False	16783	6		Designer		0
+12003	Mixed-language text	12000	Mixed-language	Mixed-language		2025-02-14T19:34:18Z	False	16782	60		Designer		0
+12002	Text with bilingual phenomena	12000	Bilingual phenomena	Bilingual phenomena		2025-02-14T19:34:18Z	False	16765	247		Designer		0
+12001	Bi-version bilingual text	12000	Bi-version bilingual	Bi-version bilingual		2025-02-14T19:34:18Z	False	16773	60		Designer		0
+11220	South-western	11000	South-western	South-western		2024-08-01T00:39:21Z	False	0	106		Designer		0
+11210	Pseudo-script	11000	Pseudo-script	Pseudo-script		2024-08-01T00:39:21Z	False	0	1		Designer		0
+11200	Phoenician	11000	Phoenician	Phoenician		2024-08-01T00:39:21Z	True	0	0		Designer		0
+11190	Punic	11000	Punic	Punic		2024-08-01T00:39:21Z	False	0	313		Designer		0
+11180	Palaeohispanic	11000	Palaeohispanic	Palaeohispanic		2024-08-01T00:39:21Z	False	0	1		Designer		0
+11170	Celtiberian (Western)	11000	Celtiberian (Western)	Celtiberian (Western)		2024-08-01T00:39:21Z	False	0	35				11110
+11160	Phoenician	11000	Phoenician	Phoenician		2024-08-01T00:39:21Z	False	0	3		Designer		0
+11150	Hebrew	11000	Hebrew	Hebrew		2024-08-01T00:39:21Z	False	0	2				0
+11140	Celtiberian (Eastern)	11000	Celtiberian (Eastern)	Celtiberian (Eastern)		2024-08-01T00:39:21Z	False	0	66				11110
+11130	Iberian (North-eastern)	11000	Iberian (North-eastern)	Iberian (North-eastern)		2024-08-01T00:39:21Z	False	0	1574				11120
+11122	Iberian (South-eastern)	11000	Iberian (South-eastern)	Iberian (South-eastern)		2024-08-01T00:39:21Z	False	0	74		Designer		11120
+11121	Iberian (Greco-Iberian)	11000	Iberian (Greco-Iberian)	Iberian (Greco-Iberian)		2024-08-01T00:39:21Z	False	0	35		Designer		11120
+11120	Iberian	11000	Iberian	Iberian		2024-08-01T00:39:21Z	False	0	5				0
+11110	Celtiberian	11000	Celtiberian	Celtiberian		2024-08-01T00:39:21Z	False	0	91		Designer		0
+11100	Italic	11000	Ital	Italic		2024-08-20T22:48:09Z	False	0	13		Designer		0
+11070	Palmyrene	11000	Palmyrene	Palmyrene		2024-08-01T00:39:21Z	False	0	0		Designer		0
+11060	Coptic	11000	Copt	Coptic		2024-08-01T00:39:21Z	False	0	0		Designer		0
+11050	Anglo-Saxon	11000	Anglo-Saxon	Anglo-Saxon		2024-08-01T00:39:21Z	False	0	0		Designer		0
+11040	Neo-Punic	11000	Phnx	Neo-Punic		2024-08-01T00:39:21Z	False	0	0		Designer		0
+11030	Etruscan	11000	ett	Etruscan		2024-08-01T00:39:21Z	False	0	18		Designer		0
+11020	Greek	11000	Grek	Greek		2025-09-25T07:58:41Z	False	0	1419		Designer		0
+11010	Latin	11000	Latn	Latin		2024-08-01T00:39:21Z	False	0	16394		Designer		0
+10038	Openwork	10000	Openwork	Openwork		2024-08-01T00:39:21Z	False	0	22		Designer		10037
+10037	Cast	10000	Cast	Cast		2024-08-01T00:39:21Z	False	0	0				0
+10036	Applied (in letter beds)	10000	Applied (in letter beds)	Applied (in letter beds)	https://www.eagle-network.eu/voc/writing/lod/36	2024-08-01T00:39:21Z	False	0	25		Designer		10017
+10035	Applied (fastened with dowels)	10000	Applied	Applied	https://www.eagle-network.eu/voc/writing/lod/6	2024-08-01T00:39:21Z	False	0	26		Designer		10017
+10034	Niello	10000	writing.inset.niello	Niello		2025-02-14T19:34:18Z	False	16580	0		Designer		0
+10033	Finger-drawn	10000	writing.inscribed.finger	Finger-drawn	https://www.eagle-network.eu/voc/writing/lod/198	2024-08-01T00:39:21Z	False	0	0		Designer		10001
+10032	Relief	10000	writing.relief	Relief	https://www.eagle-network.eu/voc/writing/lod/7	2024-08-01T00:39:21Z	False	0	0		Designer		0
+10031	Retrograde	10000	writing.retrograde	Retrograde		2024-08-01T00:39:21Z	False	0	0				0
+10030	Embossed	10000	writing.impressed.embossed	Embossed	https://www.eagle-network.eu/voc/writing/lod/44	2024-08-01T00:39:21Z	False	0	3		Designer		10012
+10029	Stamped in relief	10000	writing.stamped.relief	Stamped: in relief	https://www.eagle-network.eu/voc/writing/lod/7	2025-02-14T19:34:18Z	False	16552	0		Designer		10027
+10028	Impressed	10000	writing.stamped.impressed	Stamped: Impressed		2025-02-14T19:34:18Z	False	16582	2		Designer		10027
+10027	Stamped	10000	writing.stamped	Stamped	https://www.eagle-network.eu/voc/writing/lod/8	2025-02-14T19:34:18Z	False	16551	855		Designer		0
+10026	Inlaid	10000	writing.inset.inlaid	Inset: Inlaid	https://www.eagle-network.eu/voc/writing/lod/4	2025-02-14T19:34:18Z	False	16579	2		Designer		10024
+10025	Mosaic	10000	writing.inset.mosaic	Inset: Mosaic	https://www.eagle-network.eu/voc/writing/lod/16	2025-02-14T19:34:18Z	False	16578	74		Designer		10024
+10024	Inset	10000	writing.inset	Inset		2025-02-14T19:34:18Z	False	16550	0		Designer		0
+10023	Painted with Other	10000	writing.painted.other	Painted: Other		2025-02-14T19:34:18Z	False	16577	0		Designer		10021
+10022	Painted with Brush	10000	writing.painted.brush	Painted: Brush	https://www.eagle-network.eu/voc/writing/lod/10	2025-02-14T19:34:18Z	False	16576	0		Designer		10021
+10021	Painted	10000	writing.painted	Painted	https://www.eagle-network.eu/voc/writing/lod/10	2025-10-08T18:37:01Z	False	16549	736		Designer		0
+10020	In Points (repoussé)	10000	writing.protruding.points	Protruding: In Points (repoussé)		2025-11-03T17:16:17Z	False	16575	0		Designer		10016
+10019	In Relief (cut)	10000	writing.protruding.relief	Protruding: In Relief (cut)	https://www.eagle-network.eu/voc/writing/lod/7	2025-02-14T19:34:18Z	False	16574	0		Designer		10016
+10018	Molded	10000	writing.protruding.molded	Protruding: Molded	https://www.eagle-network.eu/voc/writing/lod/8	2025-02-14T19:34:18Z	False	16573	10		Designer		10016
+10017	Applied	10000	writing.protruding.applied	Protruding: Applied	https://www.eagle-network.eu/voc/writing/lod/6	2025-02-14T19:34:18Z	False	16572	2		Designer		10016
+10016	Protruding	10000	writing.protruding	Protruding		2025-02-14T19:34:18Z	False	16548	0		Designer		0
+10015	Other Impressed	10000	writing.impressed.other	Impressed: Other		2025-02-14T19:34:18Z	False	16571	0		Designer		10012
+10014	In Points (chasing)	10000	writing.impressed.points	Impressed: In Points (chasing)		2025-02-14T19:34:18Z	False	16570	2		Designer		10012
+10013	In Troughs	10000	writing.impressed.troughs	Impressed: Troughs		2025-02-14T19:34:18Z	False	16569	0		Designer		10012
+10012	Impressed	10000	writing.impressed	Impressed		2025-02-14T19:34:18Z	False	16547	2		Designer		0
+10011	Scratched	10000	writing.inscribed.scratched	Inscribed: Scratched	https://www.eagle-network.eu/voc/writing/lod/9	2025-02-14T19:34:18Z	False	16567	5187		Designer		10001
+10010	Punched	10000	writing.inscribed.punched	Inscribed: Punched	https://www.eagle-network.eu/voc/writing/lod/11	2025-02-14T19:34:18Z	False	16565	257		Designer		10001
+10009	Pecked	10000	writing.inscribed.pecked	Inscribed: Pecked		2025-02-14T19:34:18Z	False	16564	0		Designer		10001
+10008	Inscribed on a soft surface	10000	writing.inscribed.stilo	Inscribed: on a soft surface	https://www.eagle-network.eu/voc/writing/lod/14	2025-02-14T19:34:18Z	False	16563	0		Designer		10001
+10007	Inked	10000	writing.inscribed.inked	Inscribed: Inked	https://www.eagle-network.eu/voc/writing/lod/2	2025-02-14T19:34:18Z	False	16562	3		Designer		10001
+10006	Incised	10000	writing.inscribed.incised	Inscribed: Incised	https://www.eagle-network.eu/voc/writing/lod/1	2025-02-14T19:34:18Z	False	16561	74		Designer		10001
+10005	Etched (with a sharp point)	10000	writing.inscribed.etched	Inscribed: Etched (with a sharp point)		2025-02-14T19:34:18Z	False	16559	4		Designer		10001
+10004	Engraved	10000	writing.inscribed.engraved	Inscribed: Engraved	https://www.eagle-network.eu/voc/writing/lod/3	2025-02-14T19:34:18Z	False	16558	97		Designer		10001
+10003	Chiseled	10000	writing.inscribed.chiseled	Inscribed: Chiseled	https://www.eagle-network.eu/voc/writing/lod/1	2025-02-14T19:34:18Z	False	16557	107		Designer		10001
+10002	Carved	10000	writing.inscribed.carved	Inscribed: Carved	https://www.eagle-network.eu/voc/writing/lod/168	2025-02-14T19:34:18Z	False	16556	2		Designer		10001
+10001	Inscribed	10000	writing.inscribed	Inscribed: Inscribed	https://www.eagle-network.eu/voc/writing/lod/1	2025-02-14T19:34:18Z	False	16546	0		Designer		0
+9017	Litterae in litura	9000	Litterae in litura	Litterae in litura		2024-08-01T00:39:21Z	False	0	6		Designer		0
+9015	Litterae erasae	9000	Litterae erasae	Litterae erasae		2024-08-01T00:39:21Z	False	0	329		Designer		0
+9014	Address Script	9000	Address Script	Address Script		2025-02-14T19:34:18Z	False	17569	0		Designer		0
+9013	(unknown)	9000	(unknown)	(unknown)		2025-02-14T19:34:18Z	False	17577	1		Designer		0
+9012	(uncertain)	9000	(uncertain)	(uncertain)		2025-02-14T19:34:18Z	False	17575	0		Designer		0
+9011	Litterae elongatae	9000	Litterae elongatae	Litterae elongatae		2025-02-14T19:34:18Z	False	17573	0		Designer		0
+9010	Bookhand	9000	Bookhand	Bookhand		2025-02-14T19:34:18Z	False	17570	0		Designer		0
+9009	Shorthand	9000	Shorthand	Shorthand		2025-02-14T19:34:18Z	False	17574	0		Designer		0
+9008	Mixed Cursive	9000	Mixed Cursive	Cursive: Mixed		2025-02-14T19:34:18Z	False	17582	0		Designer		0
+9007	New Roman Cursive	9000	NRC	Cursive: New		2025-02-14T19:34:18Z	False	17580	0		Designer		0
+9006	Old Roman Cursive	9000	ORC	Cursive: Old		2025-02-14T19:34:18Z	False	17581	0		Designer		0
+9005	Rustic	9000	Rustic	Rustic		2025-02-14T19:34:18Z	False	17579	2		Designer		0
+9004	Monumental Elongated	9000	Monumental Elongated	Monumental Elongated		2024-08-01T00:39:21Z	False	0	0		Designer		0
+9003	Monumental Capital	9000	Monumental Capital	Monumental Capital		2024-08-01T00:39:21Z	False	0	1		Designer		0
+9002	Monumental Librarial	9000	Monumental Librarial	Monumental Librarial		2024-08-01T00:39:21Z	False	0	1		Designer		0
+9001	Monumental	9000	Monumental	Monumental		2025-02-14T19:34:18Z	False	17578	1		Designer		0
+8017	Viri	8000	Viri	Viri		2024-08-01T00:39:21Z	False	0	11603	Source: EDCS	Designer		0
+8016	tria nomina	8000	tria nomina	tria nomina		2024-08-01T00:39:21Z	False	0	4832	Source: EDCS	Designer		0
+8015	seviri Augustales	8000	seviri Augustales	seviri Augustales		2024-08-01T00:39:21Z	False	0	74	Source: EDCS	Designer		0
+8014	servi/servae	8000	servi/servae	servi/servae		2024-08-01T00:39:21Z	False	0	401	Source: EDCS	Designer		0
+8013	sacerdotes pagani	8000	sacerdotes pagani	sacerdotes pagani		2024-08-01T00:39:21Z	False	0	378	Source: EDCS	Designer		0
+8012	sacerdotes christiani	8000	sacerdotes christiani	sacerdotes christiani		2024-08-01T00:39:21Z	False	0	109	Source: EDCS	Designer		0
+8011	Reges	8000	Reges	Reges		2024-08-01T00:39:21Z	False	0	5	Source: EDCS	Designer		0
+8010	praenomen et nomen	8000	praenomen et nomen	praenomen et nomen		2024-08-01T00:39:21Z	False	0	263	Source: EDCS	Designer		0
+8009	ordo senatorius	8000	ordo senatorius	ordo senatorius		2024-08-01T00:39:21Z	False	0	248	Source: EDCS	Designer		0
+8008	ordo equester	8000	ordo equester	ordo equester		2024-08-01T00:39:21Z	False	0	355	Source: EDCS	Designer		0
+8007	ordo decurionum	8000	ordo decurionum	ordo decurionum		2024-08-01T00:39:21Z	False	0	308	Source: EDCS	Designer		0
+8006	officium/professio	8000	officium/professio	officium/professio		2024-08-01T00:39:21Z	False	0	356	Source: EDCS	Designer		0
+8005	nomen singulare	8000	nomen singulare	nomen singulare		2024-08-01T00:39:21Z	False	0	4814	Source: EDCS	Designer		0
+8004	mulieres	8000	mulieres	mulieres		2024-08-01T00:39:21Z	False	0	4032	Source: EDCS	Designer		0
+8003	Milites	8000	Milites	Milites		2024-08-01T00:39:21Z	False	0	2561	Source: EDCS	Designer		0
+8002	liberti/libertae	8000	liberti/libertae	liberti/libertae		2024-08-01T00:39:21Z	False	0	1502	Source: EDCS	Designer		0
+8001	Augusti/Augustae	8000	Augusti/Augustae	Augusti/Augustae		2024-08-01T00:39:21Z	False	0	1216	Source: EDCS	Designer		0
+7018	-ABVS for –is/-ibus & -(I)BVS for -is	7000	-ABVS for –is/-ibus & -(I)BVS	-ABVS for –is/-ibus & -(I)BVS for -is		2024-08-01T00:39:21Z	False	0	190	LLDB code:\ndat./abl. pl. -ABVS pro -is/-ibus; \ndat./abl. pl. -(I)BVS pro -is\n	simona		0
+7017	Nom pl in -as	7000	Nom pl in -as	Nom pl in -as		2024-08-01T00:39:21Z	False	0	4	LLDB code:\nnom. pl. -AS pro -ae	simona		0
+7016	loss of final -s	7000	loss of final -s	loss of final -s		2024-08-01T00:39:21Z	True	0	0	LLDB code:\n-s > ø	Designer		0
+7015	gemination/degemination	7000	gemination/degemination	gemination/degemination		2024-08-01T00:39:21Z	True	0	0		simona		0
+7014	Loss of intervocalic G	7000	Loss of intervocalic G	Loss of intervocalic G		2024-08-01T00:39:21Z	False	0	7	LLDB code:\n(voc.)-g-(voc.) > ø\n\nFormerly: lenition	Designer		0
+7013	velar spirant (x)	7000	velar spirant (x)	velar spirant (x)		2024-08-01T00:39:21Z	True	0	0		Designer		0
+7012	half H	7000	half H	half H		2024-08-01T00:39:21Z	True	0	0		Designer		0
+7011	tau Gallicum	7000	tau Gallicum	tau Gallicum		2024-08-01T00:39:21Z	True	0	0		Designer		0
+7010	gender confusion	7000	gender confusion	gender confusion		2024-08-01T00:39:21Z	True	0	0		simona		0
+7009	B/V	7000	B/V	B/V		2024-08-01T00:39:21Z	False	0	150	LLDB code:\nB/V; \n(voc.)-v-(voc.) > B; \n(voc.)-b-(voc.) > V; \nb- > V; \nv- > B\n	simona		0
+7008	h- loss & hypercorrection	7000	h- loss & hypercorrection	h- loss & hypercorrection		2024-08-01T00:39:21Z	True	0	0	LLDB code:\nH > ø;\naspiratio vitiosa 	Designer		0
+7007	vowel in hiatus	7000	vowel in hiatus	vowel in hiatus		2024-08-01T00:39:21Z	False	0	125	LLDB code: \n(voc.)-ø-(voc.) > (voc.)-V-(voc.); \n(diphth.)-ø-(voc.) > (diphth.)-V-(voc.); \ni (= /j/) > II\n	simona		0
+7006	vocalic change: /o/ - <u>	7000	vocalic change: o - u	vocalic change: o - u		2024-08-01T00:39:21Z	True	0	0		simona		0
+7005	vocalic change: /u/ - <o>	7000	vocalic change: u - o	vocalic change: u - o		2024-08-01T00:39:21Z	True	0	0		simona		0
+7004	vocalic change: /e/ - <i>	7000	vocalic change: e - i	vocalic change: e - i		2024-08-01T00:39:21Z	True	0	0		simona		0
+7003	vocalic change: /i/ - <e>	7000	vocalic change: i - e	vocalic change: i - e		2024-08-01T00:39:21Z	True	0	0		simona		0
+7002	vocalic change	7000	vocalic change	vocalic change		2024-08-01T00:39:21Z	True	0	0		simona		0
+7001	non-Latin word	7000	non-Latin	non-Latin		2024-08-01T00:39:21Z	False	0	131				0
+6475	Brick	6000	Brick	Brick		2025-11-03T17:07:12Z	False	17384	160		Designer		0
+6474	Water clock	6000	Water clock	Water clock		2025-02-14T19:34:18Z	False	17501	2		Designer		0
+6473	Metal letter (instrumentum)	6000	Metal letter (instrumentum)	Metal letter (instrumentum)		2025-02-14T19:34:18Z	True	17496	0		Designer		0
+6472	Tablet (monumental)	6000	Tablet (monumental)	Tablet (monumental)		2025-02-14T19:34:18Z	True	17471	0		Designer		0
+6471	Facing stone	6000	Facing stone	Facing stone		2025-02-14T19:34:18Z	False	17478	1				6410
+6470	Coping stone	6000	Coping stone	Coping stone		2025-02-14T19:34:18Z	False	17476	4				6410
+6469	Monumental object	6000	Monumental object	Monumental object		2025-02-14T19:34:18Z	True	17540	17		Designer		0
+6468	Wooden object	6000	Wooden object	Wooden object		2025-02-14T19:34:18Z	False	17348	28				0
+6467	Vessel: Unguent Flask	6000	Unguent Flask	Vessel: Unguent Flask		2025-02-14T19:34:18Z	False	17441	29				6397
+6466	Vessel: Tank	6000	Tank	Vessel: Tank		2025-02-14T19:34:18Z	False	17440	10				6397
+6465	Vessel: Strainer	6000	Strainer	Vessel: Strainer		2025-02-14T19:34:18Z	False	17439	6				6397
+6464	Vessel: Skyphos	6000	Skyphos	Vessel: Skyphos		2025-02-14T19:34:18Z	False	17438	26				6397
+6463	Vessel: Pitcher	6000	Pitcher	Vessel: Pitcher		2025-02-14T19:34:18Z	False	17434	2				6397
+6462	Vessel: Pan	6000	Pan	Vessel: Pan		2025-02-14T19:34:18Z	False	17432	20				6397
+6461	Vessel: Mortar	6000	Mortar	Vessel: Mortar		2025-02-14T19:34:18Z	False	17429	2				6397
+6460	Vessel: Lanx	6000	Lanx	Vessel: Lanx		2025-02-14T19:34:18Z	False	17427	2				6397
+6459	Vessel: Ink well	6000	Ink well	Vessel: Ink well		2025-02-14T19:34:18Z	False	17423	9				6397
+6458	Vessel: Flask	6000	Flask	Vessel: Flask		2025-02-14T19:34:18Z	False	17421	8				6397
+6457	Vessel: Costrel	6000	Costrel	Vessel: Costrel		2025-02-14T19:34:18Z	False	17417	1				6397
+6456	Vessel: Colander	6000	Colander	Vessel: Colander		2025-02-14T19:34:18Z	False	17416	2				6397
+6455	Vessel: Cauldron	6000	Cauldron	Vessel: Cauldron		2025-02-14T19:34:18Z	False	17415	4				6397
+6454	Vessel: Casket	6000	Casket	Vessel: Casket		2025-02-14T19:34:18Z	False	17414	4				6397
+6453	Vessel: Barrel Head	6000	Barrel Head	Vessel: Barrel Head		2025-02-14T19:34:18Z	False	17448	3				6134
+6452	Vessel: Barrel Stave	6000	Barrel Stave	Vessel: Barrel Stave		2025-02-14T19:34:18Z	False	17449	35				6134
+6451	Vessel: Barrel Bung	6000	Barrel Bung	Vessel: Barrel Bung		2025-02-14T19:34:18Z	False	17447	5				6134
+6450	Vessel: Flagon	6000	Flagon	Vessel: Flagon		2025-02-14T19:34:18Z	False	17420	31				6397
+6449	Pebble	6000	Pebble	Pebble		2025-02-14T19:34:18Z	False	17510	3		Designer		0
+6448	Compass/Dividers	6000	Compass/Dividers	Compass/Dividers		2025-02-14T19:34:18Z	False	17376	4		Designer		6437
+6447	Toiletries	6000	Toiletries	Toiletries		2025-02-14T19:34:18Z	False	17340	21				0
+6446	Tool	6000	Tool	Tool		2025-02-14T19:34:18Z	False	17341	30				0
+6445	Metal writing tablet/sheet	6000	Metal writing tablet/sheet	Metal writing tablet/sheet		2025-02-14T19:34:18Z	True	17382	0		Designer		6350
+6444	Ink tablet	6000	Ink tablet	Ink tablet		2025-02-14T19:34:18Z	False	17381	879				6350
+6443	Plaque (instrumentum)	6000	Plaque	Plaque (instrumentum)		2025-02-14T19:34:18Z	True	17509	0		Designer		0
+6442	Stilus	6000	Stilus	Stilus		2025-02-14T19:34:18Z	False	17336	15				6426
+6441	Steelyard	6000	Steelyard	Steelyard		2025-02-14T19:34:18Z	False	17378	3				6437
+6440	Sundial	6000	Sundial	Sundial		2025-02-14T19:34:18Z	False	17379	5				6437
+6439	Musical instrument	6000	Musical instrument	Musical instrument		2025-02-14T19:34:18Z	False	17514	4				0
+6438	Scale Pan	6000	Scale Pan	Scale Pan		2025-02-14T19:34:18Z	False	17377	21				6437
+6437	Weights and Measures	6000	Weights and Measures	Weights and Measures		2025-02-14T19:34:18Z	False	17515	0				0
+6436	Tent section	6000	Tent section	Tent section		2025-02-14T19:34:18Z	False	17374	3				6435
+6435	Leather object	6000	Leather object	Leather object		2025-02-14T19:34:18Z	False	17516	21				0
+6434	Shoe	6000	Shoe	Shoe		2025-02-14T19:34:18Z	False	17373	22		Designer		6435
+6433	Leather offcut	6000	Leather offcut	Leather offcut		2025-02-14T19:34:18Z	False	17372	25		Designer		6435
+6432	Label	6000	Label	Label		2025-02-14T19:34:18Z	False	17518	51				0
+6431	Pendant	6000	Pendant	Pendant		2025-02-14T19:34:18Z	False	17370	3				6221
+6430	Gemstone	6000	Gemstone	Gemstone		2025-02-14T19:34:18Z	False	17368	37				6221
+6429	Spatula	6000	Spatula	Spatula		2025-02-14T19:34:18Z	False	17360	2				6426
+6428	Ladle	6000	Ladle	Ladle		2025-02-14T19:34:18Z	False	17358	14				6426
+6427	Knife	6000	Knife	Knife		2025-02-14T19:34:18Z	False	17357	24				6426
+6426	Implement	6000	Implement	Implement		2025-02-14T19:34:18Z	False	17523	2		Designer		0
+6425	Fitting: Baldric	6000	Baldric	Fitting: Baldric		2025-02-14T19:34:18Z	False	17352	8				6196
+6424	Figurine Base	6000	Figurine Base	Figurine Base		2025-02-14T19:34:18Z	False	17351	5				0
+6423	Die	6000	Die	Die		2025-02-14T19:34:18Z	False	17533	52				0
+6422	Box	6000	Box	Box		2025-02-14T19:34:18Z	False	17534	4		Designer		0
+6421	Bell	6000	Bell	Bell		2025-02-14T19:34:18Z	False	17535	6		Designer		0
+6420	Military: Armor	6000	Armor	Military: Armor		2025-02-14T19:34:18Z	False	17536	3		Designer		0
+6419	Vessel: Plate	6000	Plate	Vessel: Plate		2025-09-25T20:42:17Z	False	17435	473		Designer		6397
+6418	Funerary barrel	6000	Funerary barrel	Funerary barrel	https://www.eagle-network.eu/voc/objtyp/lod/234	2024-08-01T00:39:21Z	False	0	0		Designer		0
+6417	Diptychon	6000	Diptychon	Diptychon	https://www.eagle-network.eu/voc/objtyp/lod/118	2024-08-01T00:39:21Z	False	0	6		Designer		0
+6416	Collyrium/oculist's stamp	6000	Collyrium/oculist's stamp	Collyrium/oculist's stamp	https://www.eagle-network.eu/voc/objtyp/lod/1747	2025-02-14T19:34:18Z	False	17513	212		Designer		0
+6415	Military: Phalera	6000	Military: Phalera	Military: Phalera	https://www.eagle-network.eu/voc/objtyp/lod/141	2024-08-01T00:39:21Z	False	0	1		Designer		0
+6414	Military: Signum	6000	Military: Signum	Military: Signum	https://www.eagle-network.eu/voc/objtyp/lod/141	2024-08-01T00:39:21Z	False	0	1		Designer		0
+6413	Military: Standard	6000	Military: Standard	Military: Standard	https://www.eagle-network.eu/voc/objtyp/lod/141	2024-08-01T00:39:21Z	False	0	1		Designer		0
+6412	Horse tack	6000	Horse tack	Horse tack		2025-02-14T19:34:18Z	False	17524	10				0
+6411	Block	6000	Block	Block	https://www.eagle-network.eu/voc/objtyp/lod/189.html	2025-02-14T19:34:18Z	True	17456	15		Designer		0
+6410	Architectural element	6000	Architectural element	Architectural element	https://www.eagle-network.eu/voc/objtyp/lod/35	2025-02-14T19:34:18Z	False	17454	971		simona		0
+6409	Stilus tablet	6000	Stilus tablet	Stilus tablet	https://www.eagle-network.eu/voc/objtyp/lod/265	2025-02-14T19:34:18Z	False	17383	363		Designer		0
+6408	Jewelry: torc	6000	Jewelry: torc	Jewelry: torc	https://www.eagle-network.eu/voc/objtyp/lod/174	2025-02-14T19:34:18Z	False	17520	2		Designer		6221
+6407	Spoon	6000	Spoon	Spoon	https://www.eagle-network.eu/voc/objtyp/lod/96	2025-02-14T19:34:18Z	False	17361	136		Designer		6426
+6406	Sealing	6000	Sealing	Sealing	https://www.eagle-network.eu/voc/objtyp/lod/240.html	2025-02-14T19:34:18Z	False	17334	415		simona		0
+6405	Rod	6000	Rod	Rod		2024-08-01T00:39:21Z	False	0	2		simona		0
+6404	Jewelry: bracelet	6000	Jewelry: bracelet	Jewelry: bracelet	https://www.eagle-network.eu/voc/objtyp/lod/171	2025-02-14T19:34:18Z	False	17366	9				6221
+6403	Cameo	6000	Cameo	Cameo	https://www.eagle-network.eu/voc/objtyp/lod/166	2025-02-14T19:34:18Z	False	17367	5		Designer		6221
+6402	Vessel: Pithos	6000	Pithos	Vessel: Pithos		2025-02-14T19:34:18Z	False	17431	1		Designer		6397
+6401	Ring	6000	Ring	Ring	https://www.eagle-network.eu/voc/objtyp/lod/168	2024-08-01T00:39:21Z	True	0	0				0
+6400	Bed	6000	Bed	Bed		2024-08-01T00:39:21Z	False	0	1				0
+6399	Jewelry: Ring	6000	Ring	Jewelry: Ring	https://www.eagle-network.eu/voc/objtyp/lod/168	2025-02-14T19:34:18Z	True	17371	0		Designer		6221
+6398	Collyrium	6000	Collyrium	Collyrium	https://www.eagle-network.eu/voc/objtyp/lod/98	2025-02-14T19:34:18Z	True	17513	0		Designer		0
+6397	Vessel	6000	Vessel	Vessel	https://www.eagle-network.eu/voc/objtyp/lod/305	2025-09-25T20:44:36Z	False	17343	49210		Designer		0
+6396	Sphere	6000	Sphere	Sphere	https://www.eagle-network.eu/voc/objtyp/lod/247	2024-08-01T00:39:21Z	False	0	1				0
+6395	Zoomorphic	6000	Zoomorphic	Zoomorphic	https://www.eagle-network.eu/voc/objtyp/lod/322	2024-08-01T00:39:21Z	False	0	46		simona		0
+6394	Ziegel?	6000	Ziegel?	Ziegel?	https://www.eagle-network.eu/voc/objtyp/lod/147	2024-08-01T00:39:21Z	True	0	0				0
+6393	Ziegel	6000	Ziegel	Ziegel	https://www.eagle-network.eu/voc/objtyp/lod/147	2024-08-01T00:39:21Z	True	0	0	Brick or tile?	Designer		0
+6392	Weapon	6000	Weapon	Weapon	https://www.eagle-network.eu/voc/objtyp/lod/42	2025-02-14T19:34:18Z	False	17347	41		simona		0
+6391	Voussoir	6000	Voussoir	Voussoir	https://www.eagle-network.eu/voc/objtyp/lod/2	2025-02-14T19:34:18Z	False	17486	10		Designer		6410
+6390	Votive object	6000	Votive object	Votive object		2025-02-14T19:34:18Z	True	17344	0		Designer		0
+6389	Votive pillar	6000	Votive pillar	Votive pillar	https://www.eagle-network.eu/voc/objtyp/lod/2	2024-08-01T00:39:21Z	True	0	0				0
+6388	Vidrio	6000	Vidrio	Vidrio	https://www.eagle-network.eu/voc/objtyp/lod/126	2024-08-01T00:39:21Z	True	0	0				0
+6387	Vaso	6000	Vaso	Vaso	https://www.eagle-network.eu/voc/objtyp/lod/307	2024-08-01T00:39:21Z	True	0	0				0
+6386	Vasija indeterminada	6000	Vasija indeterminada	Vasija indeterminada		2024-08-01T00:39:21Z	True	0	0				0
+6385	Vasija	6000	Vasija	Vasija		2024-08-01T00:39:21Z	True	0	0				0
+6384	Vessel: Vase	6000	Vase	Vessel: Vase	https://www.eagle-network.eu/voc/objtyp/lod/305	2025-09-25T20:42:51Z	False	17446	211		Designer		6397
+6383	Urne?	6000	Urne?	Urne?	https://www.eagle-network.eu/voc/objtyp/lod/78	2024-08-01T00:39:21Z	True	0	0				0
+6382	Vessel: Urn	6000	Urn	Vessel: Urn	https://www.eagle-network.eu/voc/objtyp/lod/78	2025-02-14T19:34:18Z	False	17445	155		Designer		6397
+6381	Urna	6000	Urna	Urna	https://www.eagle-network.eu/voc/objtyp/lod/78	2024-08-01T00:39:21Z	True	0	0				0
+6380	unknown	6000	unknown	unknown	https://www.eagle-network.eu/voc/objtyp/lod/2	2025-02-14T19:34:18Z	True	17537	0		Designer		0
+6379	unbestimmt	6000	unbestimmt	unbestimmt	https://www.eagle-network.eu/voc/objtyp/lod/2	2024-08-01T00:39:21Z	True	0	0				0
+6378	Threshold	6000	Threshold	Threshold	https://www.eagle-network.eu/voc/objtyp/lod/319	2025-02-14T19:34:18Z	False	17454	1		simona		0
+6377	Tumulus	6000	Tumulus	Tumulus	https://www.eagle-network.eu/voc/objtyp/lod/1950	2024-08-01T00:39:21Z	True	0	0				0
+6376	Pipe	6000	Pipe	Pipe	https://www.eagle-network.eu/voc/objtyp/lod/297	2025-02-14T19:34:18Z	False	17346	165		simona		0
+6375	Tripod	6000	Tripod	Tripod		2024-08-01T00:39:21Z	False	0	4		Designer		0
+6374	Dress component	6000	Dress component	Dress component	https://www.eagle-network.eu/voc/objtyp/lod/137	2025-02-14T19:34:18Z	False	17354	6		simona		0
+6373	Tombstone-base	6000	Tombstone-base	Tombstone-base	https://www.eagle-network.eu/voc/objtyp/lod/2	2024-08-01T00:39:21Z	True	0	0				0
+6372	Tombstone die	6000	Tombstone die	Tombstone die	https://www.eagle-network.eu/voc/objtyp/lod/2	2024-08-01T00:39:21Z	False	0	0				0
+6371	Tombstone base	6000	Tombstone base	Tombstone base	https://www.eagle-network.eu/voc/objtyp/lod/2	2025-02-14T19:34:18Z	False	17489	5		Designer		0
+6370	Tombstone	6000	Tombstone	Tombstone	https://www.eagle-network.eu/voc/objtyp/lod/2	2025-02-14T19:34:18Z	True	17470	0		Designer		0
+6369	Titulus pictus	6000	Titulus pictus	Titulus pictus		2024-08-01T00:39:21Z	True	0	0		Designer		0
+6368	Money box	6000	Money box	Money box		2024-08-01T00:39:21Z	False	0	1	money box? piggy bank?	simona		0
+6367	Timbre	6000	Timbre	Timbre	https://www.eagle-network.eu/voc/objtyp/lod/240	2024-08-01T00:39:21Z	True	0	0				0
+6366	Theater / Amphitheater	6000	Theater / Amphitheater	Theater / Amphitheater		2024-08-01T00:39:21Z	True	0	0		simona		0
+6365	Tessera?	6000	Tessera?	Tessera?	https://www.eagle-network.eu/voc/objtyp/lod/276	2024-08-01T00:39:21Z	True	0	0				0
+6364	Tessera	6000	Tessera	Tessera	https://www.eagle-network.eu/voc/objtyp/lod/276	2025-02-14T19:34:18Z	False	17338	428		Designer		0
+6363	Tésera	6000	Tésera	Tésera	https://www.eagle-network.eu/voc/objtyp/lod/276	2024-08-01T00:39:21Z	True	0	0				0
+6362	Término	6000	Término	Término	https://www.eagle-network.eu/voc/objtyp/lod/92	2024-08-01T00:39:21Z	True	0	0				0
+6361	Tile	6000	Tile	Tile	https://www.eagle-network.eu/voc/objtyp/lod/191	2025-02-14T19:34:18Z	False	17339	7267		Designer		0
+6360	Taza	6000	Taza	Taza	https://www.eagle-network.eu/voc/objtyp/lod/313	2024-08-01T00:39:21Z	True	0	0				0
+6359	Vessel: Cup	6000	Cup	Vessel: Cup	https://www.eagle-network.eu/voc/objtyp/lod/313	2025-09-25T20:37:38Z	False	17418	692		Designer		6397
+6358	Tapadera	6000	Tapadera	Tapadera	https://www.eagle-network.eu/voc/objtyp/lod/316	2024-08-01T00:39:21Z	True	0	0				0
+6357	Tafel?	6000	Tafel?	Tafel?	https://www.eagle-network.eu/voc/objtyp/lod/257	2024-08-01T00:39:21Z	True	0	0				0
+6356	Tafel	6000	Tafel	Tafel	https://www.eagle-network.eu/voc/objtyp/lod/257	2024-11-22T17:14:53Z	True	0	422		Designer		0
+6355	Tabula ansata	6000	Tabula ansata	Tabula ansata	https://www.eagle-network.eu/voc/objtyp/lod/263	2024-08-01T00:39:21Z	True	0	0				0
+6354	Tablette rectangulaire	6000	Tablette rectangulaire	Tablette rectangulaire	https://www.eagle-network.eu/voc/objtyp/lod/257	2024-08-01T00:39:21Z	True	0	0				0
+6353	Tablette carrée	6000	Tablette carrée	Tablette carrée	https://www.eagle-network.eu/voc/objtyp/lod/257	2024-08-01T00:39:21Z	True	0	0				0
+6352	Tablette	6000	Tablette	Tablette	https://www.eagle-network.eu/voc/objtyp/lod/257	2024-08-01T00:39:21Z	True	0	0				0
+6351	Clay tablet	6000	Clay tablet	Clay tablet	https://www.eagle-network.eu/voc/objtyp/lod/262	2024-08-01T00:39:21Z	True	0	0		Designer		0
+6350	Tablet	6000	Tablet	Tablet	https://www.eagle-network.eu/voc/objtyp/lod/245	2024-08-01T00:39:21Z	False	0	964		Designer		0
+6349	Table	6000	Table	Table	https://www.eagle-network.eu/voc/objtyp/lod/157	2024-08-01T00:39:21Z	False	0	24		Designer		0
+6348	Tabla	6000	Tabla	Tabla		2024-08-01T00:39:21Z	True	0	0				0
+6347	Stone	6000	Stone	Stone	https://www.eagle-network.eu/voc/objtyp/lod/213	2024-08-01T00:39:21Z	False	0	6		Designer		0
+6346	Stele?	6000	Stele?	Stele?	https://www.eagle-network.eu/voc/objtyp/lod/250	2024-08-01T00:39:21Z	True	0	0				0
+6345	Stèle cintrée	6000	Stèle cintrée	Stèle cintrée	https://www.eagle-network.eu/voc/objtyp/lod/252	2024-08-01T00:39:21Z	True	0	0				0
+6344	Stèle à niche	6000	Stèle à niche	Stèle à niche	https://www.eagle-network.eu/voc/objtyp/lod/252	2024-08-01T00:39:21Z	True	0	0				0
+6343	Stèle ?	6000	Stèle ?	Stèle ?	https://www.eagle-network.eu/voc/objtyp/lod/252	2024-08-01T00:39:21Z	True	0	0				0
+6342	Stele	6000	Stele	Stele	https://www.eagle-network.eu/voc/objtyp/lod/250	2024-08-01T00:39:21Z	True	0	0				0
+6341	Statuette base	6000	Statuette base	Statuette base	https://www.eagle-network.eu/voc/objtyp/lod/2	2025-02-14T19:34:18Z	False	17488	9		Designer		0
+6340	Statuette	6000	Statuette	Statuette	https://www.eagle-network.eu/voc/objtyp/lod/237	2025-02-14T19:34:18Z	False	17468	78		Designer		0
+6339	Statuenbasis?	6000	Statuenbasis?	Statuenbasis?	https://www.eagle-network.eu/voc/objtyp/lod/57	2024-08-01T00:39:21Z	True	0	0				0
+6338	Statuenbasis	6000	Statuenbasis	Statuenbasis	https://www.eagle-network.eu/voc/objtyp/lod/57	2024-08-01T00:39:21Z	True	0	0				0
+6337	Statue?	6000	Statue?	Statue?	https://www.eagle-network.eu/voc/objtyp/lod/241	2024-08-01T00:39:21Z	True	0	0				0
+6336	Statue-base	6000	Statue-base	Statue-base	https://www.eagle-network.eu/voc/objtyp/lod/2	2024-08-01T00:39:21Z	True	0	0				0
+6335	Statue base	6000	Statue base	Statue base	https://www.eagle-network.eu/voc/objtyp/lod/57	2024-08-01T00:39:21Z	True	0	0				0
+6334	Statue	6000	Statue	Statue	https://www.eagle-network.eu/voc/objtyp/lod/241	2025-02-14T19:34:18Z	False	17468	134		Designer		0
+6333	Statuary	6000	Statuary	Statuary	https://www.eagle-network.eu/voc/objtyp/lod/66	2024-08-01T00:39:21Z	False	0	38				0
+6332	Socle, statue	6000	Socle, statue	Socle, statue	https://www.eagle-network.eu/voc/objtyp/lod/1927	2024-08-01T00:39:21Z	True	0	0				0
+6331	Socle	6000	Socle	Socle	https://www.eagle-network.eu/voc/objtyp/lod/1927	2024-08-01T00:39:21Z	True	0	0				0
+6330	Small altar	6000	Small altar	Small altar	https://www.eagle-network.eu/voc/objtyp/lod/29	2024-08-01T00:39:21Z	True	0	0				0
+6329	Slate	6000	Slate	Slate	https://www.eagle-network.eu/voc/objtyp/lod/2	2024-08-01T00:39:21Z	True	0	0				0
+6328	Slabs	6000	Slabs	Slabs	https://www.eagle-network.eu/voc/objtyp/lod/2	2024-08-01T00:39:21Z	True	0	0				0
+6327	Slab	6000	Slab	Slab	https://www.eagle-network.eu/voc/objtyp/lod/259	2025-02-14T19:34:18Z	False	17469	1690		Designer		0
+6326	Vessel: Stopper	6000	Stopper	Vessel: Stopper		2025-02-14T19:34:18Z	False	17503	1		Designer		6397
+6325	Skulptur	6000	Skulptur	Skulptur	https://www.eagle-network.eu/voc/objtyp/lod/224	2024-08-01T00:39:21Z	True	0	0				0
+6324	Sítula	6000	Sítula	Sítula	https://www.eagle-network.eu/voc/objtyp/lod/243	2024-08-01T00:39:21Z	True	0	0				0
+6323	Sillar	6000	Sillar	Sillar	https://www.eagle-network.eu/voc/objtyp/lod/156	2024-08-01T00:39:21Z	True	0	0				0
+6322	Sheet	6000	Sheet	Sheet	https://www.eagle-network.eu/voc/objtyp/lod/257	2024-08-01T00:39:21Z	False	0	616		Designer		0
+6321	Signet	6000	Signet	Signet	https://www.eagle-network.eu/voc/objtyp/lod/170	2024-08-01T00:39:21Z	False	0	24		Designer		6221
+6320	Sculptured stone	6000	Sculptured stone	Sculptured stone	https://www.eagle-network.eu/voc/objtyp/lod/2	2024-08-01T00:39:21Z	False	0	11				0
+6319	Sculptured relief	6000	Sculptured relief	Sculptured relief	https://www.eagle-network.eu/voc/objtyp/lod/2	2024-08-01T00:39:21Z	False	0	2				0
+6318	Schmuck?	6000	Schmuck?	Schmuck?	https://www.eagle-network.eu/voc/objtyp/lod/163	2024-08-01T00:39:21Z	True	0	0				0
+6317	Schmuck	6000	Schmuck	Schmuck	https://www.eagle-network.eu/voc/objtyp/lod/163	2024-08-01T00:39:21Z	True	0	0				0
+6316	Sarkophag?	6000	Sarkophag?	Sarkophag?	https://www.eagle-network.eu/voc/objtyp/lod/214	2024-08-01T00:39:21Z	True	0	0				0
+6315	Sarkophag	6000	Sarkophag	Sarkophag	https://www.eagle-network.eu/voc/objtyp/lod/214	2024-08-01T00:39:21Z	True	0	0				0
+6314	Sarcophagus	6000	Sarcophagus	Sarcophagus	https://www.eagle-network.eu/voc/objtyp/lod/214	2025-02-14T19:34:18Z	False	17467	296		Designer		0
+6313	Sarcophage	6000	Sarcophage	Sarcophage	https://www.eagle-network.eu/voc/objtyp/lod/214	2024-08-01T00:39:21Z	True	0	0				0
+6312	Sarcófago (Tapa de...)	6000	Sarcófago (Tapa de...)	Sarcófago (Tapa de...)	https://www.eagle-network.eu/voc/objtyp/lod/223	2024-08-01T00:39:21Z	True	0	0				0
+6311	Sarcófago	6000	Sarcófago	Sarcófago	https://www.eagle-network.eu/voc/objtyp/lod/214	2024-08-01T00:39:21Z	True	0	0				0
+6310	Rupestre	6000	Rupestre	Rupestre		2024-08-01T00:39:21Z	True	0	0				0
+6309	Rough slab	6000	Rough slab	Rough slab	https://www.eagle-network.eu/voc/objtyp/lod/2	2024-08-01T00:39:21Z	True	0	0				0
+6308	Relieve votivo	6000	Relieve votivo	Relieve votivo	https://www.eagle-network.eu/voc/objtyp/lod/25	2024-08-01T00:39:21Z	True	0	0				0
+6307	Relief?	6000	Relief?	Relief?	https://www.eagle-network.eu/voc/objtyp/lod/24	2024-08-01T00:39:21Z	True	0	0				0
+6306	Relief	6000	Relief	Relief	https://www.eagle-network.eu/voc/objtyp/lod/24	2024-08-01T00:39:21Z	False	0	214				0
+6305	Quarry-inscription	6000	Quarry-inscription	Quarry-inscription	https://www.eagle-network.eu/voc/objtyp/lod/2	2024-08-01T00:39:21Z	True	0	0				0
+6304	Quarry Inscription	6000	Quarry Inscription	Quarry Inscription	https://www.eagle-network.eu/voc/objtyp/lod/2	2025-02-14T19:34:18Z	False	17465	59		Designer		0
+6303	Spearhead	6000	Spearhead	Spearhead	https://www.eagle-network.eu/voc/objtyp/lod/42	2025-02-14T19:34:18Z	False	17347	11		Designer		6392
+6302	Vessel: Pot	6000	Pot	Vessel: Pot	https://www.eagle-network.eu/voc/objtyp/lod/182	2025-02-14T19:34:18Z	False	17437	120		Designer		6397
+6301	Ponderal	6000	Ponderal	Ponderal	https://www.eagle-network.eu/voc/objtyp/lod/201	2024-08-01T00:39:21Z	True	0	0				0
+6300	Weight	6000	Weight	Weight	https://www.eagle-network.eu/voc/objtyp/lod/200	2025-02-14T19:34:18Z	False	17380	375		Designer		6437
+6299	Plinth or architrave	6000	Plinth or architrave	Plinth or architrave	https://www.eagle-network.eu/voc/objtyp/lod/2	2024-08-01T00:39:21Z	True	0	0		Designer		0
+6298	Plinth	6000	Plinth	Plinth	https://www.eagle-network.eu/voc/objtyp/lod/1910	2025-02-14T19:34:18Z	False	17484	16		simona		0
+6297	Platte?	6000	Platte?	Platte?	https://www.eagle-network.eu/voc/objtyp/lod/309	2024-08-01T00:39:21Z	True	0	0				0
+6296	Vessel: Platter	6000	Platter	Vessel: Platter		2025-02-14T19:34:18Z	True	17436	0		Designer		6397
+6295	Plato	6000	Plato	Plato	https://www.eagle-network.eu/voc/objtyp/lod/309	2024-08-01T00:39:21Z	True	0	0				0
+6294	Plate	6000	Plate	Plate	https://www.eagle-network.eu/voc/objtyp/lod/260	2025-02-14T19:34:18Z	False	17464	50		Designer		0
+6293	Plat	6000	Plat	Plat	https://www.eagle-network.eu/voc/objtyp/lod/259	2024-08-01T00:39:21Z	True	0	0				0
+6292	Plaque ?	6000	Plaque ?	Plaque ?	https://www.eagle-network.eu/voc/objtyp/lod/260	2024-08-01T00:39:21Z	True	0	0				0
+6291	Plaque	6000	Plaque	Plaque	https://www.eagle-network.eu/voc/objtyp/lod/260	2025-02-14T19:34:18Z	False	17463	5910	Metal and stone plaques.	Designer		0
+6290	Planque	6000	Planque	Planque	https://www.eagle-network.eu/voc/objtyp/lod/29	2024-08-01T00:39:21Z	True	0	0				0
+6289	Plank	6000	Plank	Plank	https://www.eagle-network.eu/voc/objtyp/lod/2	2025-02-14T19:34:18Z	False	17452	2		Designer		6468
+6288	Plancha	6000	Plancha	Plancha	https://www.eagle-network.eu/voc/objtyp/lod/258	2024-08-01T00:39:21Z	True	0	0				0
+6287	Placa, monumento funerario	6000	Placa, monumento funerario	Placa, monumento funerario		2024-08-01T00:39:21Z	True	0	0		Designer		0
+6286	Belt plaque	6000	Belt plaque	Belt plaque		2025-02-14T19:34:18Z	False	17353	22		Designer		6196
+6285	Placa	6000	Placa	Placa	https://www.eagle-network.eu/voc/objtyp/lod/260	2024-08-01T00:39:21Z	True	0	0				0
+6284	Pyramid	6000	Pyramid	Pyramid	https://www.eagle-network.eu/voc/objtyp/lod/209	2024-08-01T00:39:21Z	False	0	1		simona		0
+6283	Pillar	6000	Pillar	Pillar	https://www.eagle-network.eu/voc/objtyp/lod/194	2025-02-14T19:34:18Z	False	17475	138		Designer		0
+6282	Pilaster	6000	Pilaster	Pilaster	https://www.eagle-network.eu/voc/objtyp/lod/194	2025-02-14T19:34:18Z	False	17483	2		Designer		0
+6281	Pierre	6000	Pierre	Pierre		2024-08-01T00:39:21Z	True	0	0				0
+6280	Piedra	6000	Piedra	Piedra	https://www.eagle-network.eu/voc/objtyp/lod/213	2024-08-01T00:39:21Z	True	0	0				0
+6279	Piédestal	6000	Piédestal	Piédestal	https://www.eagle-network.eu/voc/objtyp/lod/53	2024-08-01T00:39:21Z	True	0	0				0
+6278	Brick or tile	6000	Brick or tile	Brick or tile		2025-02-14T19:34:18Z	False	17505	3		Designer		0
+6277	Paving stone	6000	Paving stone	Paving stone	https://www.eagle-network.eu/voc/objtyp/lod/190	2024-08-01T00:39:21Z	False	0	11		Designer		0
+6276	Pfeilergrabmal (?)	6000	Pfeilergrabmal (?)	Pfeilergrabmal (?)	https://www.eagle-network.eu/voc/objtyp/lod/101	2024-08-01T00:39:21Z	True	0	0				0
+6275	Pfeilergrabmal	6000	Pfeilergrabmal	Pfeilergrabmal	https://www.eagle-network.eu/voc/objtyp/lod/101	2024-08-01T00:39:21Z	True	0	0				0
+6274	Petite base	6000	Petite base	Petite base	https://www.eagle-network.eu/voc/objtyp/lod/30	2024-08-01T00:39:21Z	True	0	0				0
+6273	Pesa de telar	6000	Pesa de telar	Pesa de telar	https://www.eagle-network.eu/voc/objtyp/lod/200	2024-08-01T00:39:21Z	True	0	0				0
+6272	Pesa	6000	Pesa	Pesa	https://www.eagle-network.eu/voc/objtyp/lod/200	2024-08-01T00:39:21Z	True	0	0				0
+6271	Pediment	6000	Pediment	Pediment	https://www.eagle-network.eu/voc/objtyp/lod/120	2025-02-14T19:34:18Z	False	17482	2		Designer		6410
+6270	Pedestals	6000	Pedestals	Pedestals	https://www.eagle-network.eu/voc/objtyp/lod/2	2024-08-01T00:39:21Z	True	0	0				0
+6269	Pedestal shaft	6000	Pedestal shaft	Pedestal shaft	https://www.eagle-network.eu/voc/objtyp/lod/2	2025-02-14T19:34:18Z	True	17455	0		simona		0
+6268	Pedestal	6000	Pedestal	Pedestal	https://www.eagle-network.eu/voc/objtyp/lod/53	2025-02-14T19:34:18Z	False	17455	183		simona		0
+6267	Pavimento	6000	Pavimento	Pavimento	https://www.eagle-network.eu/voc/objtyp/lod/190	2024-08-01T00:39:21Z	True	0	0				0
+6266	Vessel: Patera	6000	Patera	Vessel: Patera	https://www.eagle-network.eu/voc/objtyp/lod/317	2025-02-14T19:34:18Z	False	17433	78		Designer		6397
+6265	Rock	6000	Rock	Rock	https://www.eagle-network.eu/voc/objtyp/lod/177	2025-02-14T19:34:18Z	True	17466	0	From images in HEp looks like it's not a wall exactly, as EAGLE suggests, but a rock face.	simona		0
+6264	Panel	6000	Panel	Panel	https://www.eagle-network.eu/voc/objtyp/lod/259	2025-02-14T19:34:18Z	False	17462	42		simona		0
+6263	Olla	6000	Olla	Olla	https://www.eagle-network.eu/voc/objtyp/lod/182	2025-02-14T19:34:18Z	True	17437	0		simona		0
+6262	Paten	6000	Paten	Paten	https://www.eagle-network.eu/voc/objtyp/lod/142	2024-08-01T00:39:21Z	True	0	0		Designer		0
+6261	Nymphaeum	6000	Nymphaeum	Nymphaeum	https://www.eagle-network.eu/voc/objtyp/lod/1898	2024-08-01T00:39:21Z	True	0	0				0
+6260	Mural pintado	6000	Mural pintado	Mural pintado	https://www.eagle-network.eu/voc/objtyp/lod/178	2024-08-01T00:39:21Z	True	0	0				0
+6259	Masonry	6000	Masonry	Masonry	https://www.eagle-network.eu/voc/objtyp/lod/177	2024-08-01T00:39:21Z	False	0	3		simona		0
+6258	Moulded jamb	6000	Moulded jamb	Moulded jamb	https://www.eagle-network.eu/voc/objtyp/lod/2	2024-08-01T00:39:21Z	False	0	1		Designer		6410
+6257	Mosaic	6000	Mosaic	Mosaic	https://www.eagle-network.eu/voc/objtyp/lod/184	2025-02-14T19:34:18Z	False	17511	157		Designer		0
+6256	Vessel: Mortarium	6000	Mortarium	Vessel: Mortarium	https://www.eagle-network.eu/voc/objtyp/lod/176	2025-02-14T19:34:18Z	False	17430	286		Designer		6397
+6255	Monumental tomb plinth	6000	Monumental tomb plinth	Monumental tomb plinth	https://www.eagle-network.eu/voc/objtyp/lod/2	2024-08-01T00:39:21Z	False	0	1				0
+6254	Monumental tomb	6000	Monumental tomb	Monumental tomb	https://www.eagle-network.eu/voc/objtyp/lod/230	2024-08-01T00:39:21Z	False	0	206		Designer		0
+6253	Millstone	6000	Millstone	Millstone	https://www.eagle-network.eu/voc/objtyp/lod/162	2025-02-14T19:34:18Z	False	17525	44		Designer		0
+6252	Mould	6000	Mould	Mould	https://www.eagle-network.eu/voc/objtyp/lod/321	2024-08-01T00:39:21Z	False	0	34		Designer		0
+6251	Mojón	6000	Mojón	Mojón	https://www.eagle-network.eu/voc/objtyp/lod/92	2024-08-01T00:39:21Z	True	0	0				0
+6250	Milliaire	6000	Milliaire	Milliaire	https://www.eagle-network.eu/voc/objtyp/lod/89	2024-08-01T00:39:21Z	True	0	0				0
+6249	Militärbau	6000	Militärbau	Militärbau		2024-08-01T00:39:21Z	True	0	0				0
+6248	Miliario	6000	Miliario	Miliario	https://www.eagle-network.eu/voc/objtyp/lod/89	2024-08-01T00:39:21Z	True	0	0				0
+6247	Milestone	6000	Milestone	Milestone	https://www.eagle-network.eu/voc/objtyp/lod/89	2025-02-14T19:34:18Z	False	17461	1871		Designer		0
+6246	Aedicula	6000	Aedicula	Aedicula		2024-08-01T00:39:21Z	False	0	0		Designer		0
+6245	Mensa	6000	Mensa	Mensa	https://www.eagle-network.eu/voc/objtyp/lod/157	2024-08-01T00:39:21Z	True	0	0				0
+6244	Meilen-/Leugenstein?	6000	Meilen-/Leugenstein?	Meilen-/Leugenstein?	https://www.eagle-network.eu/voc/objtyp/lod/89	2024-08-01T00:39:21Z	True	0	0				0
+6243	Meilen-/Leugenstein	6000	Meilen-/Leugenstein	Meilen-/Leugenstein	https://www.eagle-network.eu/voc/objtyp/lod/89	2024-08-01T00:39:21Z	True	0	0				0
+6242	Roundel	6000	Roundel	Roundel	https://www.eagle-network.eu/voc/objtyp/lod/165	2025-02-14T19:34:18Z	False	17333	468	Instrumentum roundel, not architectural/monumental.	Designer		0
+6241	Mausolée Bloc	6000	Mausolée Bloc	Mausolée Bloc		2024-08-01T00:39:21Z	True	0	0				0
+6240	Mausoleum block	6000	Mausoleum block	Mausoleum block	https://www.eagle-network.eu/voc/objtyp/lod/1890	2024-08-01T00:39:21Z	False	0	0		simona		0
+6239	Marca de propiedad	6000	Marca de propiedad	Marca de propiedad	https://www.eagle-network.eu/voc/objtyp/lod/320	2024-08-01T00:39:21Z	True	0	0		simona		0
+6238	Handle	6000	Handle	Handle	https://www.eagle-network.eu/voc/objtyp/lod/153	2025-02-14T19:34:18Z	False	17526	13		Designer		0
+6237	Lamp	6000	Lamp	Lamp	https://www.eagle-network.eu/voc/objtyp/lod/152	2025-02-14T19:34:18Z	True	17517	0		Designer		0
+6236	Losa / lastra	6000	Losa / lastra	Losa / lastra	https://www.eagle-network.eu/voc/objtyp/lod/259	2024-08-01T00:39:21Z	True	0	0				0
+6235	Linteau	6000	Linteau	Linteau	https://www.eagle-network.eu/voc/objtyp/lod/38	2024-08-01T00:39:21Z	True	0	0				0
+6234	Lingote	6000	Lingote	Lingote	https://www.eagle-network.eu/voc/objtyp/lod/154	2024-08-01T00:39:21Z	True	0	0				0
+6233	Letters	6000	Letters	Letters	https://www.eagle-network.eu/voc/objtyp/lod/2	2024-08-01T00:39:21Z	True	0	0				0
+6232	Letter	6000	Letter	Letter	https://www.eagle-network.eu/voc/objtyp/lod/2	2024-08-01T00:39:21Z	True	0	0				0
+6231	Metal letter (monumental)	6000	Metal letter (monumental)	Metal letter (monumental)	https://www.eagle-network.eu/voc/objtyp/lod/151	2025-02-14T19:34:18Z	False	17460	62		Designer		0
+6230	Leaf	6000	Leaf	Leaf	https://www.eagle-network.eu/voc/objtyp/lod/2	2024-08-01T00:39:21Z	False	0	0				0
+6229	Laterculus	6000	Laterculus	Laterculus	https://www.eagle-network.eu/voc/objtyp/lod/148	2024-08-01T00:39:21Z	True	0	0		simona		0
+6228	Lápida sepulcral	6000	Lápida sepulcral	Lápida sepulcral	https://www.eagle-network.eu/voc/objtyp/lod/91	2024-08-01T00:39:21Z	True	0	0				0
+6227	Lapida	6000	Lapida	Lapida	https://www.eagle-network.eu/voc/objtyp/lod/256	2024-08-01T00:39:21Z	True	0	0		Designer		0
+6226	Lamp	6000	Lamp	Lamp	https://www.eagle-network.eu/voc/objtyp/lod/146	2025-11-03T17:07:28Z	False	17517	822		Designer		0
+6225	Lámina	6000	Lámina	Lámina	https://www.eagle-network.eu/voc/objtyp/lod/145	2024-08-01T00:39:21Z	True	0	0		Designer		0
+6224	Seat	6000	Seat	Seat	https://www.eagle-network.eu/voc/objtyp/lod/226	2024-08-01T00:39:21Z	False	0	60		Designer		0
+6223	Wall	6000	Wall	Wall	https://www.eagle-network.eu/voc/objtyp/lod/416	2024-08-01T00:39:21Z	False	0	8		Designer		0
+6222	Jupiter-Säule	6000	Jupiter-Säule	Jupiter-Säule	https://www.eagle-network.eu/voc/objtyp/lod/103	2024-08-01T00:39:21Z	True	0	0				0
+6221	Jewelry	6000	Jewelry	Jewelry	https://www.eagle-network.eu/voc/objtyp/lod/163	2025-02-14T19:34:18Z	False	17520	212		simona		0
+6220	Vessel: Jar	6000	Jar	Vessel: Jar	https://www.eagle-network.eu/voc/objtyp/lod/308	2025-02-14T19:34:18Z	False	17424	366		Designer		6397
+6219	Itinerario	6000	Itinerario	Itinerario	https://www.eagle-network.eu/voc/objtyp/lod/143	2024-08-01T00:39:21Z	True	0	0				0
+6218	Intaglio	6000	Intaglio	Intaglio		2025-02-14T19:34:18Z	False	17369	35		Designer		6221
+6217	Instrumentum sacrum?	6000	Instrumentum sacrum?	Instrumentum sacrum?	https://www.eagle-network.eu/voc/objtyp/lod/142	2024-08-01T00:39:21Z	True	0	0				0
+6216	Instrumentum sacrum	6000	Instrumentum sacrum	Instrumentum sacrum	https://www.eagle-network.eu/voc/objtyp/lod/142	2024-08-01T00:39:21Z	False	0	98				0
+6215	Instrumentum militare?	6000	Instrumentum militare?	Instrumentum militare?	https://www.eagle-network.eu/voc/objtyp/lod/141	2024-08-01T00:39:21Z	True	0	0				0
+6214	Instrumentum militare	6000	Instrumentum militare	Instrumentum militare	https://www.eagle-network.eu/voc/objtyp/lod/141	2024-08-01T00:39:21Z	False	0	85		simona		0
+6213	Instrumentum domesticum?	6000	Instrumentum domesticum?	Instrumentum domesticum?	https://www.eagle-network.eu/voc/objtyp/lod/140	2024-08-01T00:39:21Z	True	0	0				0
+6212	Instrumentum domesticum	6000	Instrumentum domesticum	Instrumentum domesticum	https://www.eagle-network.eu/voc/objtyp/lod/140	2024-08-01T00:39:21Z	False	0	979		Designer		0
+6211	Instrumento doméstico	6000	Instrumento doméstico	Instrumento doméstico	https://www.eagle-network.eu/voc/objtyp/lod/140	2024-08-01T00:39:21Z	True	0	0				0
+6210	Inscripción rupestre	6000	Inscripción rupestre	Inscripción rupestre	https://www.eagle-network.eu/voc/objtyp/lod/210	2024-08-01T00:39:21Z	True	0	0				0
+6209	(unknown)	6000	(unknown)	(unknown)		2025-02-14T19:34:18Z	False	17537	313		Designer		0
+6208	Indéterminé	6000	Indéterminé	Indéterminé	https://www.eagle-network.eu/voc/objtyp/lod/2	2024-08-01T00:39:21Z	True	0	0		Designer		0
+6207	Indeterminado	6000	Indeterminado	Indeterminado	https://www.eagle-network.eu/voc/objtyp/lod/2	2024-08-01T00:39:21Z	True	0	0				0
+6206	Indéterminable	6000	Indéterminable	Indéterminable	https://www.eagle-network.eu/voc/objtyp/lod/2	2024-08-01T00:39:21Z	True	0	0				0
+6205	Inconnu (CIL : lapis)	6000	Inconnu (CIL : lapis)	Inconnu (CIL : lapis)	https://www.eagle-network.eu/voc/objtyp/lod/2	2024-08-01T00:39:21Z	True	0	0				0
+6204	(not assigned)	6000	(not assigned)	(not assigned)	https://www.eagle-network.eu/voc/objtyp/lod/2	2025-02-14T19:34:18Z	False	17537	46983		Designer		0
+6203	Incense-burner	6000	Incense-burner	Incense-burner	https://www.eagle-network.eu/voc/objtyp/lod/2	2025-02-14T19:34:18Z	False	17522	13		Designer		0
+6202	Hito	6000	Hito	Hito	https://www.eagle-network.eu/voc/objtyp/lod/92	2024-08-01T00:39:21Z	True	0	0				0
+6201	Herme?	6000	Herme?	Herme?	https://www.eagle-network.eu/voc/objtyp/lod/132	2024-08-01T00:39:21Z	True	0	0				0
+6200	Herme	6000	Herme	Herme	https://www.eagle-network.eu/voc/objtyp/lod/132	2024-08-01T00:39:21Z	False	0	43		Designer		0
+6199	Herma	6000	Herma	Herma	https://www.eagle-network.eu/voc/objtyp/lod/132	2024-08-01T00:39:21Z	True	0	0				0
+6198	Heiligtum (Tempel)	6000	Heiligtum (Tempel)	Heiligtum (Tempel)	https://www.eagle-network.eu/voc/objtyp/lod/5	2024-08-01T00:39:21Z	True	0	0		simona		0
+6197	Gutter-stone	6000	Gutter-stone	Gutter-stone	https://www.eagle-network.eu/voc/objtyp/lod/2	2024-08-01T00:39:21Z	False	0	2				0
+6196	Fitting	6000	Fitting	Fitting	https://www.eagle-network.eu/voc/objtyp/lod/52	2025-02-14T19:34:18Z	False	17528	4	Sp. for "fittings"? Yes.	simona		0
+6195	Grande plaque	6000	Grande plaque	Grande plaque	https://www.eagle-network.eu/voc/objtyp/lod/259	2024-08-01T00:39:21Z	True	0	0				0
+6194	Graffito	6000	Graffito	Graffito		2024-08-01T00:39:21Z	True	0	0		Designer		0
+6193	Grabkammer	6000	Grabkammer	Grabkammer		2024-08-01T00:39:21Z	True	0	0				0
+6192	Grabbezirk (?)	6000	Grabbezirk (?)	Grabbezirk (?)		2024-08-01T00:39:21Z	True	0	0				0
+6191	Grabbezirk	6000	Grabbezirk	Grabbezirk		2024-08-01T00:39:21Z	True	0	0				0
+6190	Grabbau?	6000	Grabbau?	Grabbau?	https://www.eagle-network.eu/voc/objtyp/lod/230	2024-08-01T00:39:21Z	True	0	0				0
+6189	Grabbau	6000	Grabbau	Grabbau	https://www.eagle-network.eu/voc/objtyp/lod/230	2024-08-01T00:39:21Z	True	0	0		simona		0
+6188	Grabaedicula (?) Grabbezirk (?)	6000	Grabaedicula (?) Grabbezirk (?)	Grabaedicula (?) Grabbezirk (?)		2024-08-01T00:39:21Z	True	0	0		Designer		0
+6187	Grabaedicula (?)	6000	Grabaedicula (?)	Grabaedicula (?)		2024-08-01T00:39:21Z	True	0	0				0
+6186	Grabaedicula	6000	Grabaedicula	Grabaedicula		2024-08-01T00:39:21Z	True	0	0		simona		0
+6185	Vessel: Goblet	6000	Goblet	Vessel: Goblet	https://www.eagle-network.eu/voc/objtyp/lod/307	2025-02-14T19:34:18Z	False	17422	8	EAGLE id points to 'vessel, crockery', though there us another id for a cup: https://www.eagle-network.eu/voc/objtyp/lod/313.html	Designer		6397
+6184	Glande, Chumbo	6000	Glande, Chumbo	Glande, Chumbo	https://www.eagle-network.eu/voc/objtyp/lod/50	2024-08-01T00:39:21Z	True	0	0				0
+6183	Fût cylindrique, Milliaire	6000	Fût cylindrique, Milliaire	Fût cylindrique, Milliaire	https://www.eagle-network.eu/voc/objtyp/lod/105	2024-08-01T00:39:21Z	True	0	0				0
+6182	Fuste de columna	6000	Fuste de columna	Fuste de columna	https://www.eagle-network.eu/voc/objtyp/lod/1662	2024-08-01T00:39:21Z	True	0	0				0
+6181	Spindle whorl	6000	Spindle whorl	Spindle whorl		2025-02-14T19:34:18Z	False	17335	38		Designer		0
+6180	Fuente	6000	Fuente	Fuente	https://www.eagle-network.eu/voc/objtyp/lod/40	2024-08-01T00:39:21Z	True	0	0				0
+6179	Friso	6000	Friso	Friso	https://www.eagle-network.eu/voc/objtyp/lod/186	2024-08-01T00:39:21Z	True	0	0				0
+6178	Frise	6000	Frise	Frise	https://www.eagle-network.eu/voc/objtyp/lod/141	2024-08-01T00:39:21Z	True	0	0				0
+6177	Frieze	6000	Frieze	Frieze	https://www.eagle-network.eu/voc/objtyp/lod/186	2025-02-14T19:34:18Z	False	17480	12		simona		0
+6176	Fragments	6000	Fragments	Fragments	https://www.eagle-network.eu/voc/objtyp/lod/2	2024-08-01T00:39:21Z	True	0	0				0
+6175	Fragmentos de botella	6000	Fragmentos de botella	Fragmentos de botella	https://www.eagle-network.eu/voc/objtyp/lod/23	2024-08-01T00:39:21Z	True	0	0				0
+6174	Fragmento de bronce	6000	Fragmento de bronce	Fragmento de bronce	https://www.eagle-network.eu/voc/objtyp/lod/15	2024-08-01T00:39:21Z	True	0	0		Designer		0
+6173	Fragmento cerámico	6000	Fragmento cerámico	Fragmento cerámico	https://www.eagle-network.eu/voc/objtyp/lod/124	2024-08-01T00:39:21Z	True	0	0				0
+6172	Fragment d'épistyle	6000	Fragment d'épistyle	Fragment d'épistyle	https://www.eagle-network.eu/voc/objtyp/lod/125	2024-08-01T00:39:21Z	True	0	0				0
+6171	Fragment(s)	6000	Fragment(s)	Fragment(s)	https://www.eagle-network.eu/voc/objtyp/lod/125	2025-02-14T19:34:18Z	False	17539	1289		simona		0
+6170	Forum	6000	Forum	Forum		2024-08-01T00:39:21Z	True	0	0				0
+6169	Fistula	6000	Fistula	Fistula	https://www.eagle-network.eu/voc/objtyp/lod/121	2024-08-01T00:39:21Z	False	0	6		Designer		0
+6168	Finial	6000	Finial	Finial	https://www.eagle-network.eu/voc/objtyp/lod/2	2025-02-14T19:34:18Z	False	17479	1		Designer		6410
+6167	Figurine	6000	Figurine	Figurine	https://www.eagle-network.eu/voc/objtyp/lod/2	2025-02-14T19:34:18Z	False	17529	21		simona		0
+6166	Game piece	6000	Game piece	Game piece	https://www.eagle-network.eu/voc/objtyp/lod/276	2025-02-14T19:34:18Z	False	17355	52		simona		0
+6165	Fibula	6000	Fibula	Fibula	https://www.eagle-network.eu/voc/objtyp/lod/172	2025-02-14T19:34:18Z	False	17530	129		Designer		0
+6164	Rock inscription	6000	Rock inscription	Rock inscription	https://www.eagle-network.eu/voc/objtyp/lod/210	2025-02-14T19:34:18Z	False	17466	589		Designer		0
+6163	Estela?	6000	Estela?	Estela?	https://www.eagle-network.eu/voc/objtyp/lod/250	2024-08-01T00:39:21Z	True	0	0				0
+6162	Estela funeraria	6000	Estela funeraria	Estela funeraria	https://www.eagle-network.eu/voc/objtyp/lod/252	2024-08-01T00:39:21Z	True	0	0				0
+6161	Estela discoidea	6000	Estela discoidea	Estela discoidea	https://www.eagle-network.eu/voc/objtyp/lod/251	2024-08-01T00:39:21Z	True	0	0				0
+6160	Estela ?	6000	Estela ?	Estela ?	https://www.eagle-network.eu/voc/objtyp/lod/250	2024-08-01T00:39:21Z	True	0	0				0
+6159	Stele	6000	Stele	Stele	https://www.eagle-network.eu/voc/objtyp/lod/250	2025-02-14T19:34:18Z	False	17470	6174		Designer		0
+6158	Stamp	6000	Stamp	Stamp	https://www.eagle-network.eu/voc/objtyp/lod/122	2024-08-01T00:39:21Z	False	0	335		simona		0
+6157	Escultura / Estatua / Estatuilla	6000	Escultura / Estatua / Estatuill	Escultura / Estatua / Estatuilla	https://www.eagle-network.eu/voc/objtyp/lod/224	2024-08-01T00:39:21Z	True	0	0				0
+6156	Scale	6000	Scale	Scale	https://www.eagle-network.eu/voc/objtyp/lod/150	2025-02-14T19:34:18Z	False	17377	8		Designer		0
+6155	Entablature	6000	Entablature	Entablature	https://www.eagle-network.eu/voc/objtyp/lod/1868	2024-08-01T00:39:21Z	False	0	0		Designer		6410
+6154	Painted wallplaster	6000	Painted wallplaster	Painted wallplaster	https://www.eagle-network.eu/voc/objtyp/lod/110	2025-02-14T19:34:18Z	False	17345	122	Plaster is also a category in Material.	simona		0
+6153	Embossed plaque	6000	Embossed plaque	Embossed plaque	https://www.eagle-network.eu/voc/objtyp/lod/2	2024-08-01T00:39:21Z	False	0	2		Designer		6291
+6152	Ehren-/Votivbogen	6000	Ehren-/Votivbogen	Ehren-/Votivbogen	https://www.eagle-network.eu/voc/objtyp/lod/20	2024-08-01T00:39:21Z	True	0	0				0
+6151	Ehren-/Grab-/Votivsäule?	6000	Ehren-/Grab-/Votivsäule?	Ehren-/Grab-/Votivsäule?	https://www.eagle-network.eu/voc/objtyp/lod/102	2024-08-01T00:39:21Z	True	0	0				0
+6150	Ehren-/Grab-/Votivsäule	6000	Ehren-/Grab-/Votivsäule	Ehren-/Grab-/Votivsäule	https://www.eagle-network.eu/voc/objtyp/lod/102	2024-08-01T00:39:21Z	True	0	0				0
+6149	Dressed stone	6000	Dressed stone	Dressed stone	https://www.eagle-network.eu/voc/objtyp/lod/2	2024-08-01T00:39:21Z	False	0	1				0
+6148	Dovela	6000	Dovela	Dovela		2024-08-01T00:39:21Z	True	0	0				0
+6147	Door jamb	6000	Door jamb	Door jamb	https://www.eagle-network.eu/voc/objtyp/lod/2	2024-08-01T00:39:21Z	False	0	1		Designer		6410
+6146	Dolio / Dolia	6000	Dolio / Dolia	Dolio / Dolia	https://www.eagle-network.eu/voc/objtyp/lod/116	2025-02-14T19:34:18Z	True	17425	0		simona		0
+6145	Disc	6000	Disc	Disc	https://www.eagle-network.eu/voc/objtyp/lod/115	2025-02-14T19:34:18Z	False	17531	57		Designer		0
+6144	Diptychon	6000	Diptychon	Diptychon	https://www.eagle-network.eu/voc/objtyp/lod/118	2025-02-14T19:34:18Z	True	17337	0		simona		0
+6143	Lintel	6000	Lintel	Lintel	https://www.eagle-network.eu/voc/objtyp/lod/38	2024-08-01T00:39:21Z	False	0	10		Designer		6410
+6142	Desconocido	6000	Desconocido	Desconocido	https://www.eagle-network.eu/voc/objtyp/lod/2	2024-08-01T00:39:21Z	True	0	0				0
+6141	Dedication-tablet	6000	Dedication-tablet	Dedication-tablet	https://www.eagle-network.eu/voc/objtyp/lod/2	2024-08-01T00:39:21Z	True	0	0				0
+6140	Dedication-stone	6000	Dedication-stone	Dedication-stone	https://www.eagle-network.eu/voc/objtyp/lod/2	2024-08-01T00:39:21Z	True	0	0				0
+6139	Dedication-slab	6000	Dedication-slab	Dedication-slab	https://www.eagle-network.eu/voc/objtyp/lod/2	2024-08-01T00:39:21Z	True	0	0		Designer		0
+6138	Dedication-block	6000	Dedication-block	Dedication-block	https://www.eagle-network.eu/voc/objtyp/lod/2	2024-08-01T00:39:21Z	True	0	0				0
+6137	Dedication	6000	Dedication	Dedication	https://www.eagle-network.eu/voc/objtyp/lod/2	2024-08-01T00:39:21Z	True	0	0				0
+6136	Decorative slab	6000	Decorative slab	Decorative slab	https://www.eagle-network.eu/voc/objtyp/lod/2	2024-08-01T00:39:21Z	False	0	1		Designer		0
+6135	Cupa?	6000	Cupa?	Cupa?	https://www.eagle-network.eu/voc/objtyp/lod/112	2024-08-01T00:39:21Z	True	0	0				0
+6134	Vessel: Barrel	6000	Barrel	Vessel: Barrel	https://www.eagle-network.eu/voc/objtyp/lod/112	2025-02-14T19:34:18Z	False	17410	161		Designer		6397
+6133	Cuenco ?	6000	Cuenco ?	Cuenco ?	https://www.eagle-network.eu/voc/objtyp/lod/310	2024-08-01T00:39:21Z	True	0	0				0
+6132	Cuenco	6000	Cuenco	Cuenco	https://www.eagle-network.eu/voc/objtyp/lod/310	2024-08-01T00:39:21Z	True	0	0				0
+6131	Vessel: Beaker	6000	Beaker	Vessel: Beaker	https://www.eagle-network.eu/voc/objtyp/lod/314	2025-02-14T19:34:18Z	False	17411	169		Designer		6397
+6130	Cross	6000	Cross	Cross	https://www.eagle-network.eu/voc/objtyp/lod/111	2024-08-01T00:39:21Z	False	0	23		simona		0
+6129	Vessel: Jug	6000	Jug	Vessel: Jug	https://www.eagle-network.eu/voc/objtyp/lod/308	2025-02-14T19:34:18Z	False	17425	195		Designer		6397
+6128	Couvercle Cippe	6000	Couvercle Cippe	Couvercle Cippe	https://www.eagle-network.eu/voc/objtyp/lod/316	2024-08-01T00:39:21Z	True	0	0				0
+6127	Couvercle ?	6000	Couvercle ?	Couvercle ?	https://www.eagle-network.eu/voc/objtyp/lod/316	2024-08-01T00:39:21Z	True	0	0				0
+6126	Vessel: Lid	6000	Lid	Vessel: Lid	https://www.eagle-network.eu/voc/objtyp/lod/316	2025-02-14T19:34:18Z	False	17428	35		Designer		6397
+6125	Coupe tripode	6000	Coupe tripode	Coupe tripode	https://www.eagle-network.eu/voc/objtyp/lod/315	2024-08-01T00:39:21Z	True	0	0				0
+6124	Coupe à boire	6000	Coupe à boire	Coupe à boire	https://www.eagle-network.eu/voc/objtyp/lod/315	2024-08-01T00:39:21Z	True	0	0				0
+6123	Coupe	6000	Coupe	Coupe	https://www.eagle-network.eu/voc/objtyp/lod/315	2024-08-01T00:39:21Z	True	0	0				0
+6122	Crown	6000	Crown	Crown	https://www.eagle-network.eu/voc/objtyp/lod/109	2024-08-01T00:39:21Z	False	0	1		simona		0
+6121	Cornisa	6000	Cornisa	Cornisa	https://www.eagle-network.eu/voc/objtyp/lod/36	2024-08-01T00:39:21Z	True	0	0				0
+6120	Cornice	6000	Cornice	Cornice	https://www.eagle-network.eu/voc/objtyp/lod/36	2025-02-14T19:34:18Z	False	17477	6		Designer		6410
+6119	Corner-stone	6000	Corner-stone	Corner-stone	https://www.eagle-network.eu/voc/objtyp/lod/2	2025-02-14T19:34:18Z	False	17459	29		Designer		0
+6118	Corner-finial	6000	Corner-finial	Corner-finial	https://www.eagle-network.eu/voc/objtyp/lod/2	2025-02-14T19:34:18Z	False	17479	4		simona		0
+6117	Copa ?	6000	Copa ?	Copa ?	https://www.eagle-network.eu/voc/objtyp/lod/315	2024-08-01T00:39:21Z	True	0	0				0
+6116	Copa	6000	Copa	Copa	https://www.eagle-network.eu/voc/objtyp/lod/315	2025-02-14T19:34:18Z	True	17418	0		simona		0
+6115	Conteneur	6000	Conteneur	Conteneur		2024-08-01T00:39:21Z	True	0	0				0
+6114	Cone	6000	Cone	Cone	https://www.eagle-network.eu/voc/objtyp/lod/108	2024-08-01T00:39:21Z	False	0	1		simona		0
+6113	Commemorative tablet	6000	Commemorative tablet	Commemorative tablet	https://www.eagle-network.eu/voc/objtyp/lod/2	2024-08-01T00:39:21Z	True	0	0				0
+6112	Commemorative stone	6000	Commemorative stone	Commemorative stone	https://www.eagle-network.eu/voc/objtyp/lod/340	2024-08-01T00:39:21Z	True	0	0		simona		0
+6111	Commemorative slab	6000	Commemorative slab	Commemorative slab	https://www.eagle-network.eu/voc/objtyp/lod/2	2024-08-01T00:39:21Z	True	0	0		Designer		0
+6110	Commemorative pillar	6000	Commemorative pillar	Commemorative pillar	https://www.eagle-network.eu/voc/objtyp/lod/2	2025-02-14T19:34:18Z	True	17475	0	EAGLE ref points to 'Unknown'. ID https://www.eagle-network.eu/voc/objtyp/lod/194.html would be pillar BUT is actually about a pilaster.	Designer		0
+6109	Sepulchral pillar	6000	Sepulchral pillar	Sepulchral pillar	https://www.eagle-network.eu/voc/objtyp/lod/101	2025-02-14T19:34:18Z	True	17475	0		Designer		0
+6108	Columna	6000	Columna	Columna	https://www.eagle-network.eu/voc/objtyp/lod/100	2024-08-01T00:39:21Z	True	0	0				0
+6107	Column-shaft	6000	Column-shaft	Column-shaft	https://www.eagle-network.eu/voc/objtyp/lod/2	2024-08-01T00:39:21Z	False	0	5				0
+6106	Column-base	6000	Column-base	Column-base	https://www.eagle-network.eu/voc/objtyp/lod/1662	2025-02-14T19:34:18Z	False	17455	25		Designer		0
+6105	Diploma	6000	Diploma	Diploma	https://www.eagle-network.eu/voc/objtyp/lod/114	2025-02-14T19:34:18Z	False	17532	64		Designer		0
+6104	Column	6000	Column	Column	https://www.eagle-network.eu/voc/objtyp/lod/100	2025-02-14T19:34:18Z	False	17475	300		Designer		0
+6103	Colonne (piédestal de section circulaire ?)	6000	Colonne (piédestal de section c	Colonne (piédestal de section circulaire ?)	https://www.eagle-network.eu/voc/objtyp/lod/100	2024-08-01T00:39:21Z	True	0	0		simona		0
+6102	Colonne (peut-être un petit piédestal de section circulaire)	6000	Colonne (peut-être un petit pié	Colonne (peut-être un petit piédestal de section circulaire)	https://www.eagle-network.eu/voc/objtyp/lod/100	2024-08-01T00:39:21Z	True	0	0		simona		0
+6101	Colonne	6000	Colonne	Colonne	https://www.eagle-network.eu/voc/objtyp/lod/100	2024-08-01T00:39:21Z	True	0	0				0
+6100	Coffin	6000	Coffin	Coffin	https://www.eagle-network.eu/voc/objtyp/lod/246	2024-08-01T00:39:21Z	False	0	13				0
+6099	Shield	6000	Shield	Shield	https://www.eagle-network.eu/voc/objtyp/lod/94	2025-02-14T19:34:18Z	False	17350	12		Designer		0
+6098	Key	6000	Key	Key	https://www.eagle-network.eu/voc/objtyp/lod/93	2025-02-14T19:34:18Z	False	17519	5		Designer		0
+6097	Cista funeraria (tapa de...)	6000	Cista funeraria (tapa de...)	Cista funeraria (tapa de...)	https://www.eagle-network.eu/voc/objtyp/lod/84	2024-08-01T00:39:21Z	True	0	0				0
+6096	Cist	6000	Cist	Cist	https://www.eagle-network.eu/voc/objtyp/lod/83.html	2024-08-01T00:39:21Z	False	0	3		Designer		0
+6095	Cippus?	6000	Cippus?	Cippus?	https://www.eagle-network.eu/voc/objtyp/lod/85	2024-08-01T00:39:21Z	True	0	0				0
+6094	cippus, aquaeductus	6000	cippus, aquaeductus	cippus, aquaeductus	https://www.eagle-network.eu/voc/objtyp/lod/85	2024-08-01T00:39:21Z	True	0	0		simona		0
+6093	Cippus	6000	Cippus	Cippus	https://www.eagle-network.eu/voc/objtyp/lod/85	2025-02-14T19:34:18Z	False	17458	1262		Designer		0
+6092	Cippe ou stèle	6000	Cippe ou stèle	Cippe ou stèle	https://www.eagle-network.eu/voc/objtyp/lod/85	2024-08-01T00:39:21Z	True	0	0		Designer		0
+6091	Cippe (sans doute un autel)	6000	Cippe (sans doute un autel)	Cippe (sans doute un autel)	https://www.eagle-network.eu/voc/objtyp/lod/85	2024-08-01T00:39:21Z	True	0	0		simona		0
+6090	Cippe (autel ?)	6000	Cippe (autel ?)	Cippe (autel ?)	https://www.eagle-network.eu/voc/objtyp/lod/85	2024-08-01T00:39:21Z	True	0	0		Designer		0
+6089	cippe	6000	cippe	cippe	https://www.eagle-network.eu/voc/objtyp/lod/85	2024-08-01T00:39:21Z	True	0	0				0
+6088	Cipo	6000	Cipo	Cipo	https://www.eagle-network.eu/voc/objtyp/lod/85	2024-08-01T00:39:21Z	True	0	0				0
+6087	Chest	6000	Chest	Chest	https://www.eagle-network.eu/voc/objtyp/lod/448	2024-08-01T00:39:21Z	False	0	6		Designer		0
+6086	Vessel: Trulla	6000	Trulla	Vessel: Trulla	https://www.eagle-network.eu/voc/objtyp/lod/244	2025-02-14T19:34:18Z	False	17441	78		Designer		6397
+6085	Casing	6000	Casing	Casing	https://www.eagle-network.eu/voc/objtyp/lod/2	2025-02-14T19:34:18Z	False	17474	12		Designer		6410
+6084	Helmet	6000	Helmet	Helmet	https://www.eagle-network.eu/voc/objtyp/lod/43	2025-02-14T19:34:18Z	False	17349	16		Designer		0
+6083	Cartouche	6000	Cartouche	Cartouche		2024-08-01T00:39:21Z	True	0	0		Designer		0
+6082	Capital	6000	Capital	Capital	https://www.eagle-network.eu/voc/objtyp/lod/63	2024-08-01T00:39:21Z	False	0	20		Designer		6410
+6081	Vessel: Cantharus	6000	Cantharus	Vessel: Cantharus	https://www.eagle-network.eu/voc/objtyp/lod/62	2024-08-01T00:39:21Z	False	0	6		Designer		6397
+6080	Canister	6000	Canister	Canister	https://www.eagle-network.eu/voc/objtyp/lod/2	2024-08-01T00:39:21Z	False	0	1				0
+6079	Cachet d’oculiste	6000	Cachet d’oculiste	Cachet d’oculiste	https://www.eagle-network.eu/voc/objtyp/lod/170	2024-08-01T00:39:21Z	True	0	0				0
+6078	Cachet	6000	Cachet	Cachet	https://www.eagle-network.eu/voc/objtyp/lod/170	2024-08-01T00:39:21Z	True	0	0				0
+6077	Büste?	6000	Büste?	Büste?	https://www.eagle-network.eu/voc/objtyp/lod/135	2024-08-01T00:39:21Z	True	0	0				0
+6076	Büste oder Statue	6000	Büste oder Statue	Büste oder Statue		2024-08-01T00:39:21Z	True	0	0		Designer		0
+6075	Bust	6000	Bust	Bust	https://www.eagle-network.eu/voc/objtyp/lod/135	2025-02-14T19:34:18Z	False	17468	10		Designer		0
+6074	Building-stones	6000	Building-stones	Building-stones	https://www.eagle-network.eu/voc/objtyp/lod/2	2024-08-01T00:39:21Z	True	0	0				0
+6073	Building-stone	6000	Building-stone	Building-stone	https://www.eagle-network.eu/voc/objtyp/lod/2	2025-02-14T19:34:18Z	False	17457	1177		Designer		0
+6072	Building-slab	6000	Building-slab	Building-slab	https://www.eagle-network.eu/voc/objtyp/lod/2	2025-02-14T19:34:18Z	True	17491	0		Designer		0
+6071	Building-inscription	6000	Building-inscription	Building-inscription	https://www.eagle-network.eu/voc/objtyp/lod/2	2024-08-01T00:39:21Z	True	0	0		simona		0
+6070	Building-block	6000	Building-block	Building-block	https://www.eagle-network.eu/voc/objtyp/lod/2	2024-08-01T00:39:21Z	True	0	0		simona		0
+6069	Building stone	6000	Building stone	Building stone	https://www.eagle-network.eu/voc/objtyp/lod/2	2024-08-01T00:39:21Z	True	0	0				0
+6068	Brunnen?	6000	Brunnen?	Brunnen?	https://www.eagle-network.eu/voc/objtyp/lod/40	2024-08-01T00:39:21Z	True	0	0				0
+6067	Fountain	6000	Fountain	Fountain	https://www.eagle-network.eu/voc/objtyp/lod/40	2024-08-01T00:39:21Z	False	0	17		Designer		0
+6066	Steaning	6000	Steaning	Steaning	https://www.eagle-network.eu/voc/objtyp/lod/205.html	2024-08-01T00:39:21Z	False	0	1		simona		0
+6065	Boundary-stone	6000	Boundary-stone	Boundary-stone	https://www.eagle-network.eu/voc/objtyp/lod/2	2025-02-14T19:34:18Z	False	17458	70		Designer		0
+6064	Vessel: Bottle	6000	Bottle	Vessel: Bottle	https://www.eagle-network.eu/voc/objtyp/lod/22	2025-02-14T19:34:18Z	False	17412	119		Designer		6397
+6063	Borne routière	6000	Borne routière	Borne routière	https://www.eagle-network.eu/voc/objtyp/lod/85	2024-08-01T00:39:21Z	True	0	0				0
+6062	Borne	6000	Borne	Borne	https://www.eagle-network.eu/voc/objtyp/lod/85	2024-08-01T00:39:21Z	True	0	0				0
+6061	Border	6000	Border	Border		2024-08-01T00:39:21Z	False	0	0	Architectural element?	simona		0
+6060	Vessel: Bowl	6000	Bowl	Vessel: Bowl	https://www.eagle-network.eu/voc/objtyp/lod/310	2025-09-25T20:41:17Z	False	17413	925		Designer		6397
+6059	Bloque i	6000	Bloque i	Bloque i	https://www.eagle-network.eu/voc/objtyp/lod/189	2024-08-01T00:39:21Z	True	0	0				0
+6058	Bloque	6000	Bloque	Bloque	https://www.eagle-network.eu/voc/objtyp/lod/189	2024-08-01T00:39:21Z	True	0	0				0
+6057	Blocs	6000	Blocs	Blocs	https://www.eagle-network.eu/voc/objtyp/lod/189	2024-08-01T00:39:21Z	True	0	0				0
+6056	Blocks	6000	Blocks	Blocks	https://www.eagle-network.eu/voc/objtyp/lod/2	2024-08-01T00:39:21Z	True	0	0				0
+6055	Block?	6000	Block?	Block?	https://www.eagle-network.eu/voc/objtyp/lod/189	2024-08-01T00:39:21Z	True	0	0				0
+6054	Block	6000	Block	Block	https://www.eagle-network.eu/voc/objtyp/lod/189	2025-02-14T19:34:18Z	False	17456	2508		Designer		0
+6053	Bloc quadrangulaire	6000	Bloc quadrangulaire	Bloc quadrangulaire	https://www.eagle-network.eu/voc/objtyp/lod/189	2024-08-01T00:39:21Z	True	0	0				0
+6052	Bloc de grand appareil	6000	Bloc de grand appareil	Bloc de grand appareil	https://www.eagle-network.eu/voc/objtyp/lod/189	2024-08-01T00:39:21Z	True	0	0				0
+6051	Bloc (autel ?)	6000	Bloc (autel ?)	Bloc (autel ?)	https://www.eagle-network.eu/voc/objtyp/lod/189	2024-08-01T00:39:21Z	True	0	0		simona		0
+6050	Bloc	6000	Bloc	Bloc	https://www.eagle-network.eu/voc/objtyp/lod/189	2024-08-01T00:39:21Z	True	0	0				0
+6049	Basis?	6000	Basis?	Basis?	https://www.eagle-network.eu/voc/objtyp/lod/53	2024-08-01T00:39:21Z	True	0	0				0
+6048	Basis	6000	Basis	Basis	https://www.eagle-network.eu/voc/objtyp/lod/53	2024-08-01T00:39:21Z	True	0	0				0
+6047	Base or perhaps altar	6000	Base or perhaps altar	Base or perhaps altar	https://www.eagle-network.eu/voc/objtyp/lod/2	2024-08-01T00:39:21Z	True	0	0		simona		0
+6046	Base of altar	6000	Base of altar	Base of altar	https://www.eagle-network.eu/voc/objtyp/lod/2	2024-08-01T00:39:21Z	True	0	0				0
+6045	Base of a sculptured tombstone	6000	Base of a sculptured tombstone	Base of a sculptured tombstone	https://www.eagle-network.eu/voc/objtyp/lod/2	2024-08-01T00:39:21Z	True	0	0				0
+6044	Base de statue	6000	Base de statue	Base de statue	https://www.eagle-network.eu/voc/objtyp/lod/53	2024-08-01T00:39:21Z	True	0	0				0
+6043	Statue base	6000	Statue base	Statue base	https://www.eagle-network.eu/voc/objtyp/lod/57	2025-02-14T19:34:18Z	False	17488	1110		Designer		0
+6042	Base	6000	Base	Base	https://www.eagle-network.eu/voc/objtyp/lod/53	2025-02-14T19:34:18Z	False	17455	537		simona		0
+6041	Basa	6000	Basa	Basa	https://www.eagle-network.eu/voc/objtyp/lod/53	2024-08-01T00:39:21Z	True	0	0				0
+6040	Ingot	6000	Ingot	Ingot	https://www.eagle-network.eu/voc/objtyp/lod/1251	2025-02-14T19:34:18Z	False	17521	241		Designer		0
+6039	Bench	6000	Bench	Bench	https://www.eagle-network.eu/voc/objtyp/lod/254	2024-08-01T00:39:21Z	False	0	4		simona		0
+6038	Sling shot	6000	Sling shot	Sling shot	https://www.eagle-network.eu/voc/objtyp/lod/47	2025-02-14T19:34:18Z	False	17450	93		Designer		6392
+6037	Bague	6000	Bague	Bague	https://www.eagle-network.eu/voc/objtyp/lod/169	2024-08-01T00:39:21Z	True	0	0				0
+6036	Autel?	6000	Autel?	Autel?	https://www.eagle-network.eu/voc/objtyp/lod/29	2024-08-01T00:39:21Z	True	0	0				0
+6035	Autel ou cippe	6000	Autel ou cippe	Autel ou cippe	https://www.eagle-network.eu/voc/objtyp/lod/29	2024-08-01T00:39:21Z	True	0	0		simona		0
+6034	Autel ?	6000	Autel ?	Autel ?	https://www.eagle-network.eu/voc/objtyp/lod/29	2024-08-01T00:39:21Z	True	0	0				0
+6033	Autel	6000	Autel	Autel	https://www.eagle-network.eu/voc/objtyp/lod/29	2024-08-01T00:39:21Z	True	0	0				0
+6032	Trough	6000	Trough	Trough		2024-08-01T00:39:21Z	False	0	1		simona		0
+6031	Vessel: Dish	6000	Dish	Vessel: Dish	https://www.eagle-network.eu/voc/objtyp/lod/309	2025-02-14T19:34:18Z	False	17419	580		Designer		6397
+6030	Árula	6000	Árula	Árula	https://www.eagle-network.eu/voc/objtyp/lod/29	2024-08-01T00:39:21Z	True	0	0				0
+6029	Architrave	6000	Architrave	Architrave	https://www.eagle-network.eu/voc/objtyp/lod/119	2025-02-14T19:34:18Z	False	17473	25		Designer		0
+6028	Architekturteil?	6000	Architekturteil?	Architekturteil?	https://www.eagle-network.eu/voc/objtyp/lod/35	2024-08-01T00:39:21Z	True	0	0				0
+6027	Architekturteil	6000	Architekturteil	Architekturteil	https://www.eagle-network.eu/voc/objtyp/lod/35	2024-08-01T00:39:21Z	True	0	0				0
+6026	Architektur	6000	Architektur	Architektur	https://www.eagle-network.eu/voc/objtyp/lod/35	2024-08-01T00:39:21Z	True	0	0				0
+6025	Architectural frame	6000	Architectural frame	Architectural frame	https://www.eagle-network.eu/voc/objtyp/lod/2	2024-08-01T00:39:21Z	False	0	0				0
+6024	Arch-head	6000	Arch-head	Arch-head	https://www.eagle-network.eu/voc/objtyp/lod/2	2024-08-01T00:39:21Z	False	0	3				0
+6023	Arch	6000	Arch	Arch	https://www.eagle-network.eu/voc/objtyp/lod/18	2024-08-01T00:39:21Z	False	0	9		Designer		0
+6022	Ara?	6000	Ara?	Ara?	https://www.eagle-network.eu/voc/objtyp/lod/34	2024-08-01T00:39:21Z	True	0	0				0
+6021	Ara	6000	Ara	Ara	https://www.eagle-network.eu/voc/objtyp/lod/29	2024-08-01T00:39:21Z	True	0	0				0
+6020	Anneau Colonne	6000	Anneau Colonne	Anneau Colonne		2024-08-01T00:39:21Z	True	0	0				0
+6019	Anneau	6000	Anneau	Anneau	https://www.eagle-network.eu/voc/objtyp/lod/168	2024-08-01T00:39:21Z	True	0	0				0
+6018	Anillo-sello	6000	Anillo-sello	Anillo-sello	https://www.eagle-network.eu/voc/objtyp/lod/1613	2024-08-01T00:39:21Z	True	0	0				0
+6017	Jewelry: Ring	6000	Ring	Jewelry: Ring	https://www.eagle-network.eu/voc/objtyp/lod/168	2025-02-14T19:34:18Z	False	17371	416		Designer		6221
+6016	Ánfora	6000	Ánfora	Ánfora	https://www.eagle-network.eu/voc/objtyp/lod/17	2024-08-01T00:39:21Z	True	0	0				0
+6015	Jewelry: Amulet	6000	Jewelry: Amulet	Jewelry: Amulet	https://www.eagle-network.eu/voc/objtyp/lod/2	2025-02-14T19:34:18Z	False	17364	19		simona		6221
+6014	Vessel: Amphora	6000	Amphora	Vessel: Amphora	https://www.eagle-network.eu/voc/objtyp/lod/17	2025-02-14T19:34:18Z	False	17409	1516		Designer		6397
+6013	Altar?	6000	Altar?	Altar?	https://www.eagle-network.eu/voc/objtyp/lod/29	2024-08-01T00:39:21Z	True	0	0				0
+6012	Altar-slab	6000	Altar-slab	Altar-slab	https://www.eagle-network.eu/voc/objtyp/lod/2	2025-02-14T19:34:18Z	True	17490	0		Designer		0
+6011	Altar-base	6000	Altar-base	Altar-base	https://www.eagle-network.eu/voc/objtyp/lod/2	2025-02-14T19:34:18Z	False	17487	12		simona		0
+6010	Altar votivo	6000	Altar votivo	Altar votivo	https://www.eagle-network.eu/voc/objtyp/lod/1277	2024-08-01T00:39:21Z	True	0	0				0
+6009	Altar or statue-base	6000	Altar or statue-base	Altar or statue-base	https://www.eagle-network.eu/voc/objtyp/lod/2	2024-08-01T00:39:21Z	True	0	0				0
+6008	Altar or slab	6000	Altar or slab	Altar or slab	https://www.eagle-network.eu/voc/objtyp/lod/2	2024-08-01T00:39:21Z	True	0	0				0
+6007	Altar or base	6000	Altar or base	Altar or base	https://www.eagle-network.eu/voc/objtyp/lod/2	2024-08-01T00:39:21Z	True	0	0				0
+6006	Altar base	6000	Altar base	Altar base	https://www.eagle-network.eu/voc/objtyp/lod/2	2024-08-01T00:39:21Z	True	0	0				0
+6005	Altar	6000	Altar	Altar	https://www.eagle-network.eu/voc/objtyp/lod/29	2025-02-14T19:34:18Z	False	17453	7807		Designer		0
+6004	Tool: Needle	6000	Needle	Tool: Needle	https://www.eagle-network.eu/voc/objtyp/lod/3	2025-02-14T19:34:18Z	False	17404	2		Designer		6446
+6003	Aedicula con retrato del difunto	6000	Aedicula con retrato del difunt	Aedicula con retrato del difunto	https://www.eagle-network.eu/voc/objtyp/lod/1201	2024-08-01T00:39:21Z	True	0	0				0
+6002	(?)	6000	(?)	(?)	https://www.eagle-network.eu/voc/objtyp/lod/2	2024-08-01T00:39:21Z	True	0	0				0
+6001	Tomb	6000	Tomb	Tomb	https://www.eagle-network.eu/voc/objtyp/lod/230	2024-08-01T00:39:21Z	True	0	0		simona		0
+5016	Hesperia	5000	Hesperia	Hesperia		2024-08-01T00:39:21Z	False	0	0		Designer	http://hesperia.ucm.es/consulta_hesperia/Generalidades.php?id={$Ident_t$}&file=file_100.php	0
+5015	Recueil informatisé des inscriptions gauloises	5000	RIIG	RIIG		2024-08-01T00:39:21Z	False	0	0		Designer	https://riig.huma-num.fr/documents/{$Ident_t$}	0
+5014	EDH-false-dupl	5000				2024-08-01T00:39:21Z	False	0	0				0
+5013	Epigraphic Database Roma	5000	EDR	Epigraphic Database Roma		2025-06-11T14:09:13Z	False	0	0		Designer	http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&id_nr={$Ident_t$}	0
+5012	Last Statues of Antiquity	5000	LSA	Last Statues of Antiquity		2024-08-01T00:39:21Z	False	0	0		Designer	http://laststatues.classics.ox.ac.uk/database/detail.php?record={$Ident_t$}	0
+5011	Ubi Erat Lupa	5000	Lupa	Ubi Erat Lupa		2024-08-01T00:39:21Z	False	0	0		Designer	http://lupa.at/{$Ident_t$}	0
+5010	Local ID	5000	Local ID	Local ID		2024-08-01T00:39:21Z	False	0	0				0
+5009	(reuse)	5000	(reuse)	(reuse)		2024-08-01T00:39:21Z	True	0	0		Designer		0
+5008	Trismegistos	5000	TM Text	Trismegistos		2024-08-01T00:39:21Z	False	0	0		Designer	https://www.trismegistos.org/text/{$Ident_t$}	0
+5007	Roman Inscriptions of Britain	5000	RIB	Roman Inscriptions of Britain		2024-08-01T00:39:21Z	False	0	0		Designer	https://romaninscriptionsofbritain.org/inscriptions/{$Ident_t$}	0
+5006	PETRAE	5000	PETRAE	PETRAE		2024-08-01T00:39:21Z	False	0	0		Designer	http://petrae.huma-num.fr/{$Ident_t$}	0
+5005	Hispania Epigraphica Online	5000	HEpOnl	Hispania Epigraphica Online		2024-11-18T15:35:16Z	False	0	0	Was eda-bea.es.es, then https://hispania-epigraphica.es/	Designer	https://hepol.uah.es/pub/record_card_2.php?rec={$Ident_t$}	0
+5004	Epigraphische Datenbank Heidelberg	5000	EDH	Epigraphische Datenbank Heidelberg		2024-08-01T00:39:21Z	False	0	0		Designer	https://edh-www.adw.uni-heidelberg.de/edh/inschrift/{$Ident_t$}	0
+5003	Epigraphic Database Clauss/Slaby	5000	EDCS	Epigraphic Database Clauss/Slaby		2024-08-01T00:39:21Z	False	0	0		Designer	http://db.edcs.eu/epigr/edcs_id.php?s_sprache=en&p_edcs_id={$Ident_t$}	0
+5002	Corpus Inscriptionum Latinarum	5000	CIL	Corpus Inscriptionum Latinarum		2024-08-01T00:39:21Z	False	0	0				0
+5001	(unknown)	5000	(unknown)	(unknown)		2024-08-01T00:39:21Z	False	0	0				0
+5000	LatinNow	5000	LN	LatinNow		2024-08-01T00:39:21Z	False	0	0		Designer	https://latinnowdb.nottingham.ac.uk/inscription/{$Ident_t$}	0
+4024	Hesperia	4000	Hesperia	Hesperia		2024-08-01T00:39:21Z	False	0	0		Designer		0
+4023	Etruscan-Mullen & Salomon	4000	Etruscan-Mullen & Salomon	Etruscan-Mullen & Salomon		2024-08-01T00:39:21Z	False	0	26	formerly 'Etruscan Inscriptions-Corinna'	Designer		0
+4022	Recueil informatisé des inscriptions gauloises	4000	RIIG	RIIG		2024-08-01T00:39:21Z	False	0	16				0
+4021	Année Épigraphique	4000	AE	Année Épigraphique		2024-08-01T00:39:21Z	False	0	0				0
+4020	Computerized Historical Linguistic Database of Latin Inscriptions of the Imperial Age	4000	LLDB	LLDB		2024-08-01T00:39:21Z	False	0	0				0
+4019	LatinNow	4000	LatNow	LatinNow		2024-08-01T00:39:21Z	False	0	0		Designer		0
+4018	Corpus Inscriptionum Latinarum	4000	CIL	Corpus Inscriptionum Latinarum		2024-08-01T00:39:21Z	False	0	0				0
+4017	Trismegistos-Places	4000	TM-Places	Trismegistos-Places		2024-08-01T00:39:21Z	False	0	0				0
+4016	Trismegistos-Texts	4000	TM-Texts	Trismegistos-Texts		2024-08-01T00:39:21Z	False	0	0				0
+4015	Cotugno-Non-Latin Inscriptions	4000	Cotugno-Non-Latin Inscriptions	Cotugno-Non-Latin Inscriptions		2024-08-01T00:39:21Z	False	0	448	Formerly 'Francesca_Non Latin Inscriptions'	Designer		0
+4014	Gaulish Calendars	4000	Gaul. Cal.	Gaulish Calendars		2024-08-01T00:39:21Z	False	0	2		Designer		0
+4013	Greek Inscriptions from France-IGF	4000	IGF	Greek Inscriptions from France-IGF		2024-08-01T00:39:21Z	False	0	5		Designer		0
+4012	Greek Inscriptions from France-Mullen	4000	IGF-Mullen	Greek Inscriptions from France-Mullen		2024-08-01T00:39:21Z	False	0	90		Designer		0
+4011	Gaulish Gallo-Greek	4000	Gallo-Greek	Gaulish Gallo-Greek		2024-08-01T00:39:21Z	False	0	400		Designer		0
+4010	Gaulish Gallo-Latin	4000	Gallo-Latin	Gaulish Gallo-Latin		2024-08-01T00:39:21Z	False	0	307		Designer		0
+4009	Roman Inscriptions of Britain (EAGLE)	4000	RIB_EAGLE	Roman Inscriptions of Britain (EAGLE)		2024-08-01T00:39:21Z	False	0	384	RIB records imported via EAGLE (pre-2017), so only RIB volume 1.	Designer		0
+4008	University of Oxford	4000	Oxford Univ	University of Oxford		2024-08-01T00:39:21Z	False	0	95				0
+4007	Ubi Erat Lupa	4000	Lupa	Ubi Erat Lupa		2024-08-01T00:39:21Z	False	0	1171		Designer		0
+4006	PETRAE - AUSONIUS	4000	PETRAE	PETRAE - AUSONIUS		2024-08-01T00:39:21Z	False	0	233				0
+4005	Hispania Epigraphica Online	4000	HEpOnl	Hispania Epigraphica Online		2024-08-01T00:39:21Z	False	0	19787	Short name was formerly 'HEp'	Designer		0
+4004	Epigraphische Datenbank Heidelberg	4000	EDH	Epigraphische Datenbank Heidelberg		2024-08-01T00:39:21Z	False	0	2268				0
+4003	Epigraphic Database Roma	4000	EDR	Epigraphic Database Roma		2024-08-01T00:39:21Z	False	0	2				0
+4002	Epigraphic Database Clauss/Slaby	4000	EDCS	Epigraphic Database Clauss/Slaby		2024-08-01T00:39:21Z	False	0	66840				0
+4001	Centre for Computing in the Humanities, King's College London	4000	CCH, KCL	Centre for Computing in the Humanities, King's College London		2024-08-01T00:39:21Z	False	0	1				0
+3323	Honorific (imperial)	3000	Honorific (imperial)	Honorific (imperial)		2025-02-14T19:34:18Z	False	17721	79		Designer		3156
+3322	Dedication: imperial	3000	Dedication: imperial	Dedication (imperial)		2025-02-14T19:34:18Z	False	17690	329		Designer		3204
+3321	Measure: Weight	3000	Measure: Weight	Measure: Weight		2025-02-14T19:34:18Z	False	17676	230		Designer		3314
+3320	Measure: Tally Mark	3000	Tally Mark	Measure: Tally Mark		2025-02-14T19:34:18Z	False	17707	164		Designer		3314
+3319	Measure: Quantity	3000	Measure: Quantity	Measure: Quantity		2025-02-14T19:34:18Z	False	17706	64		Designer		3314
+3318	Measure: Numeral	3000	Numeral	Measure: Numeral		2025-02-14T19:34:18Z	False	17705	315		Designer		3314
+3317	Measure: Currency	3000	Measure: Currency	Measure: Currency		2025-02-14T19:34:18Z	False	17704	6		Designer		3314
+3316	Measure: Capacity	3000	Capacity	Measure: Capacity		2025-02-14T19:34:18Z	False	17675	146		Designer		3314
+3315	Measure: Age	3000	Age	Measure: Age		2025-02-14T19:34:18Z	False	17703	2		Designer		3314
+3314	Measure	3000	Measure	Measure		2025-02-14T19:34:18Z	False	17651	70		Designer		0
+3313	Mark of Origin	3000	Mark of Origin	Mark of Origin		2025-02-14T19:34:18Z	False	17708	62		Designer		0
+3312	Quarry Inscription	3000	Quarry Inscription	Quarry Inscription		2025-02-14T19:34:18Z	False	17652	77		Designer		0
+3311	Religion: Magic: Other	3000	Other Magic	Religion: Magic: Other		2025-02-14T19:34:18Z	False	17674	3		Designer		3309
+3310	Religion: Magic: Charm	3000	Charm	Religion: Magic: Charm		2025-02-14T19:34:18Z	False	17672	8		Designer		3309
+3309	Religion: Magic	3000	Magic	Religion: Magic		2025-02-14T19:34:18Z	False	17650	16		Designer		3293
+3308	Production mark	3000	Production mark	Production mark		2025-02-14T19:34:18Z	False	17711	5917		Designer		0
+3307	Ludic: Gaming	3000	Ludic: Gaming	Ludic: Gaming		2025-02-14T19:34:18Z	False	17702	24		Designer		3306
+3306	Ludic	3000	Ludic	Ludic		2025-02-14T19:34:18Z	False	17647	5		Designer		0
+3305	Writing Practice	3000	Writing Practice	Writing Practice		2025-02-14T19:34:18Z	False	17696	16		Designer		0
+3304	Insult	3000	Insult	Insult		2025-02-14T19:34:18Z	False	17691	13		Designer		0
+3303	Exhortation, slogan or aphorism	3000	Exhortation, slogan or aphorism	Exhortation, slogan or aphorism		2025-02-14T19:34:18Z	False	17689	971		Designer		0
+3302	Date	3000	Date	Date		2025-02-14T19:34:18Z	False	17686	73		Designer		0
+3301	Calendar: Fasti	3000	Calendar: Fasti	Calendar: Fasti		2024-08-01T00:39:21Z	False	0	3		Designer		3300
+3300	Calendar	3000	Calendar	Calendar		2025-02-14T19:34:18Z	False	17685	9		Designer		0
+3299	List: Production	3000	List: Production	List: Production		2025-02-14T19:34:18Z	False	17699	238		Designer		3245
+3298	List: Names	3000	List: Names	List: Names		2025-02-14T19:34:18Z	False	17700	86		Designer		3245
+3297	Laterculus	3000	Laterculus	Laterculus	https://www.eagle-network.eu/voc/objtyp/lod/148	2024-08-01T00:39:21Z	False	0	5		Designer		0
+3296	Nota	3000	Nota	Nota		2024-08-01T00:39:21Z	False	0	27		Designer		0
+3295	Assignation	3000	Assignation	Assignation	https://www.eagle-network.eu/voc/typeins/lod/116	2024-08-01T00:39:21Z	True	0	0		Designer		0
+3294	Owner's Mark	3000	Owner's Mark	Owner's Mark	https://www.eagle-network.eu/voc/typeins/lod/105	2025-09-26T07:13:31Z	False	17709	4137		Designer		0
+3293	Religion	3000	Religion	Religion	https://www.eagle-network.eu/voc/typeins/lod/79	2025-09-26T07:18:19Z	False	17712	4419		Designer		0
+3292	Commemorative	3000	Commemorative	Commemorative		2025-02-14T19:34:18Z	False	17718	128		Designer		0
+3291	Property	3000	Property	Property	https://www.eagle-network.eu/voc/typeins/lod/104	2024-08-01T00:39:21Z	True	0	0		Designer		0
+3290	tituli sepulcrales	3000	tituli sepulcrales	tituli sepulcrales		2024-08-01T00:39:21Z	True	0	0	Source: EDCS	Designer		0
+3289	tituli sacri	3000	tituli sacri	tituli sacri		2024-08-01T00:39:21Z	True	0	0	Source: EDCS	Designer		0
+3288	tituli possessionis	3000	tituli possessionis	tituli possessionis		2024-08-01T00:39:21Z	True	0	0	Source: EDCS	Designer		0
+3287	tituli operum	3000	tituli operum	tituli operum		2024-08-01T00:39:21Z	True	0	0	Source: EDCS	Designer		0
+3286	tituli honorarii	3000	tituli honorarii	tituli honorarii		2024-08-01T00:39:21Z	True	0	0	Source: EDCS	Designer		0
+3285	tituli fabricationis	3000	tituli fabricationis	tituli fabricationis		2024-08-01T00:39:21Z	True	0	0	Source: EDCS	Designer		0
+3284	Tesserae nummulariae	3000	Tesserae nummulariae	Tesserae nummulariae		2024-08-01T00:39:21Z	False	0	2	Source: EDCS	Designer		0
+3283	termini	3000	termini	termini		2024-08-01T00:39:21Z	False	0	19	AM wants to replace. Source: EDCS	Designer		0
+3282	Signacula medicorum	3000	Signacula medicorum	Signacula medicorum		2024-08-01T00:39:21Z	False	0	165	Source: EDCS	Designer		0
+3281	Signacula	3000	Signacula	Signacula		2024-08-01T00:39:21Z	False	0	117	Source: EDCS	Designer		0
+3280	sigilla impressa	3000	sigilla impressa	sigilla impressa		2024-08-01T00:39:21Z	True	0	0	Source: EDCS	Designer		0
+3279	miliaria	3000	miliaria	miliaria		2024-08-01T00:39:21Z	True	0	0	Source: EDCS	Designer		0
+3278	litterae in litura	3000	litterae in litura	litterae in litura		2024-08-01T00:39:21Z	True	0	0	Source: EDCS. Moved to Palaeography	Designer		0
+3277	litterae erasae	3000	litterae erasae	litterae erasae		2024-08-01T00:39:21Z	True	0	0	Source: EDCS. Moved to Palaeography	Designer		0
+3276	Leges	3000	Leges	Leges		2024-08-01T00:39:21Z	False	0	58	Source: EDCS	Designer		0
+3275	Inscriptiones Christianae	3000	Inscriptiones Christianae	Inscriptiones Christianae		2025-02-14T19:34:18Z	False	17713	2351	Source: EDCS	Designer		0
+3274	Document: Military: Diploma	3000	Diploma	Document: Military: Diploma		2025-02-14T19:34:18Z	False	17687	70		Designer	http://www.eagle-network.eu/voc/typeins/lod/91	3270
+3273	defixiones	3000	defixiones	defixiones		2024-08-01T00:39:21Z	True	0	0	Source: EDCS	Designer		0
+3272	carmina	3000	carmina	carmina		2024-08-01T00:39:21Z	True	0	0	Source: EDCS	Designer		0
+3271	Trademark	3000	Trademark	Trademark		2024-08-01T00:39:21Z	False	0	0		Designer		0
+3270	Document: Military	3000	Document: Military	Document: Military		2025-02-14T19:34:18Z	False	17666	412		Designer		3161
+3269	Adnuntiatio	3000	Adnuntiatio	Adnuntiatio	https://www.eagle-network.eu/voc/typeins/lod/113	2024-08-01T00:39:21Z	True	0	0		Designer		0
+3268	term. non sep.	3000	term. non sep.	term. non sep.	https://www.eagle-network.eu/voc/typeins/lod/96	2024-08-01T00:39:21Z	True	0	0		Designer		0
+3267	Sepulcralis	3000	Sepulcralis	Sepulcralis	https://www.eagle-network.eu/voc/typeins/lod/92	2024-08-01T00:39:21Z	True	0	0				0
+3266	Militärdiplom	3000	Militärdiplom	Militärdiplom	https://www.eagle-network.eu/voc/typeins/lod/91	2024-08-01T00:39:21Z	True	0	0				0
+3265	tit. dedicatorius	3000	tit. dedicatorius	tit. dedicatorius	https://www.eagle-network.eu/voc/typeins/lod/88	2024-08-01T00:39:21Z	True	0	0				0
+3264	Bauinschrift	3000	Bauinschrift	Bauinschrift	https://www.eagle-network.eu/voc/typeins/lod/86	2024-08-01T00:39:21Z	True	0	0				0
+3263	Religion: Prayer	3000	Prayer	Religion: Prayer	https://www.eagle-network.eu/voc/typeins/lod/85	2024-08-01T00:39:21Z	False	0	18		Designer		3293
+3262	Weihinschrift	3000	Weihinschrift	Weihinschrift	https://www.eagle-network.eu/voc/typeins/lod/80	2024-08-01T00:39:21Z	True	0	0				0
+3261	Defixio	3000	Defixio	Defixio	https://www.eagle-network.eu/voc/typeins/lod/76	2024-08-01T00:39:21Z	True	0	0				0
+3260	Akklamation	3000	Akklamation	Akklamation	https://www.eagle-network.eu/voc/typeins/lod/73	2024-08-01T00:39:21Z	True	0	0				0
+3259	Elogium	3000	Elogium	Elogium	https://www.eagle-network.eu/voc/typeins/lod/70	2024-08-01T00:39:21Z	False	0	2	AM wants to replace this value.	Designer		0
+3258	Honorific inscription	3000	Honorific inscription	Honorific inscription	https://www.eagle-network.eu/voc/typeins/lod/69	2024-08-01T00:39:21Z	True	0	0				0
+3257	graffito	3000	graffito	graffito	https://www.eagle-network.eu/voc/typeins/lod/370	2024-08-01T00:39:21Z	True	0	0				0
+3256	Besitzerinschrift	3000	Besitzerinschrift	Besitzerinschrift	https://www.eagle-network.eu/voc/typeins/lod/314	2024-08-01T00:39:21Z	True	0	0				0
+3255	Owner's or Maker's Mark	3000	Owner's or Maker's Mark	Owner's or Maker's Mark	https://www.eagle-network.eu/voc/typeins/lod/311	2024-08-01T00:39:21Z	False	0	6511	2020-10-30 (SDV): all related items to be re-assigned by AM and attribute deprecated	Designer		0
+3254	Kalender	3000	Kalender	Kalender	https://www.eagle-network.eu/voc/typeins/lod/3	2025-02-14T19:34:18Z	True	17668	0		Designer		0
+3253	Grenzmarkierung	3000	Grenzmarkierung	Grenzmarkierung	https://www.eagle-network.eu/voc/typeins/lod/293	2024-08-01T00:39:21Z	True	0	0				0
+3252	Bau-/Stifterinschrift	3000	Bau-/Stifterinschrift	Bau-/Stifterinschrift	https://www.eagle-network.eu/voc/typeins/lod/261	2024-08-01T00:39:21Z	True	0	0				0
+3251	Gesetz/Juridischer Text	3000	Gesetz/Juridischer Text	Gesetz/Juridischer Text	https://www.eagle-network.eu/voc/typeins/lod/155	2024-08-01T00:39:21Z	True	0	0				0
+3250	Ignoratur	3000	Ignoratur	Ignoratur	https://www.eagle-network.eu/voc/typeins/lod/143	2024-08-01T00:39:21Z	True	0	0				0
+3249	Assignationsinschrift	3000	Assignationsinschrift	Assignationsinschrift	https://www.eagle-network.eu/voc/typeins/lod/116	2024-08-01T00:39:21Z	True	0	0				0
+3248	Aufschrift	3000	Aufschrift	Aufschrift	https://www.eagle-network.eu/voc/typeins/lod/115	2024-08-01T00:39:21Z	True	0	0				0
+3247	Sitzinschrift	3000	Sitzinschrift	Sitzinschrift	https://www.eagle-network.eu/voc/typeins/lod/111	2024-08-01T00:39:21Z	True	0	0				0
+3246	Beischrift	3000	Beischrift	Beischrift	https://www.eagle-network.eu/voc/typeins/lod/109	2024-08-01T00:39:21Z	True	0	0		Designer		0
+3245	List	3000	List	List	https://www.eagle-network.eu/voc/typeins/lod/108	2025-02-14T19:34:18Z	False	17667	16		Designer		0
+3244	Meilen-/Leugenstein	3000	Meilen-/Leugenstein	Meilen-/Leugenstein	https://www.eagle-network.eu/voc/typeins/lod/102	2024-08-01T00:39:21Z	True	0	0				0
+3243	Votiva	3000	Votiva	Votiva		2024-08-01T00:39:21Z	True	0	0				0
+3242	Votiv/Kultinschrift	3000	Votiv/Kultinschrift	Votiv/Kultinschrift	https://www.eagle-network.eu/voc/typeins/lod/82	2024-08-01T00:39:21Z	True	0	0				0
+3241	Titulus Pictus	3000	Titulus Pictus	Titulus Pictus	https://www.eagle-network.eu/voc/typeins/lod/139	2024-08-01T00:39:21Z	True	0	0				0
+3240	Tessera	3000	Tessera	Tessera	https://www.eagle-network.eu/voc/typeins/lod/130	2024-08-01T00:39:21Z	True	0	0		Designer		0
+3239	Terminatio agrorum	3000	Terminatio agrorum	Terminatio agrorum	https://www.eagle-network.eu/voc/typeins/lod/47	2024-08-01T00:39:21Z	False	0	0				0
+3238	Tabula patronatus	3000	Tabula patronatus	Tabula patronatus	https://www.eagle-network.eu/voc/typeins/lod/129	2024-08-01T00:39:21Z	False	0	25				0
+3237	Seat inscription	3000	Seat inscription	Seat inscription	https://www.eagle-network.eu/voc/typeins/lod/111	2024-08-01T00:39:21Z	False	0	97		Designer		0
+3236	Rechtliche Verfügung, privat?	3000	Rechtliche Verfügung, privat?	Rechtliche Verfügung, privat?	https://www.eagle-network.eu/voc/typeins/lod/49	2024-08-01T00:39:21Z	True	0	0				0
+3235	Rechtliche Verfügung, privat	3000	Rechtliche Verfügung, privat	Rechtliche Verfügung, privat	https://www.eagle-network.eu/voc/typeins/lod/49	2024-08-01T00:39:21Z	True	0	0				0
+3234	Rechtliche Verfügung, öffentlich?	3000	Rechtliche Verfügung, öffentlic	Rechtliche Verfügung, öffentlich?	https://www.eagle-network.eu/voc/typeins/lod/5	2024-08-01T00:39:21Z	True	0	0				0
+3233	Rechtliche Verfügung, öffentlich	3000	Rechtliche Verfügung, öffentlic	Rechtliche Verfügung, öffentlich	https://www.eagle-network.eu/voc/typeins/lod/5	2024-08-01T00:39:21Z	True	0	0				0
+3232	Obras públicas	3000	Obras públicas	Obras públicas	https://www.eagle-network.eu/voc/typeins/lod/90	2024-08-01T00:39:21Z	True	0	0		Designer		0
+3231	neuzeitlich	3000	neuzeitlich	neuzeitlich		2024-08-01T00:39:21Z	True	0	0		Designer		0
+3230	Mosaico	3000	Mosaico	Mosaico	https://www.eagle-network.eu/voc/typeins/lod/138	2024-08-01T00:39:21Z	True	0	0		Designer		0
+3229	Monumental	3000	Monumental	Monumental	https://www.eagle-network.eu/voc/typeins/lod/86	2024-08-01T00:39:21Z	False	0	62				0
+3228	Mojón	3000	Mojón	Mojón	https://www.eagle-network.eu/voc/typeins/lod/96	2024-08-01T00:39:21Z	True	0	0				0
+3227	Miliario	3000	Miliario	Miliario	https://www.eagle-network.eu/voc/typeins/lod/102	2024-08-01T00:39:21Z	True	0	0				0
+3226	Meilensteininschrift	3000	Meilensteininschrift	Meilensteininschrift	https://www.eagle-network.eu/voc/typeins/lod/102	2024-08-01T00:39:21Z	True	0	0				0
+3225	Maker's mark	3000	Maker's mark	Maker's mark		2025-02-14T19:34:18Z	False	17643	49551		Designer		0
+3224	Ley / jurídica	3000	Ley / jurídica	Ley / jurídica	https://www.eagle-network.eu/voc/typeins/lod/4	2024-08-01T00:39:21Z	True	0	0				0
+3223	Itinerary	3000	Itinerary	Itinerary	https://www.eagle-network.eu/voc/typeins/lod/117	2025-02-14T19:34:18Z	False	17692	9		Designer		0
+3222	Instrumentum	3000	Instrumentum	Instrumentum	https://www.eagle-network.eu/voc/typeins/lod/136	2024-08-01T00:39:21Z	True	0	0	2020-10-30 (SDV): Preserve for now. Serves as catch-all category for non-classified inscriptions	Designer		0
+3221	Inscripción de propiedad	3000	Inscripción de propiedad	Inscripción de propiedad	https://www.eagle-network.eu/voc/typeins/lod/104	2024-08-01T00:39:21Z	True	0	0				0
+3220	Indeterminada?	3000	Indeterminada?	Indeterminada?	https://www.eagle-network.eu/voc/typeins/lod/143	2024-08-01T00:39:21Z	True	0	0				0
+3219	Indeterminada	3000	Indeterminada	Indeterminada	https://www.eagle-network.eu/voc/typeins/lod/143	2024-08-01T00:39:21Z	True	0	0				0
+3218	Imperial	3000	Imperial	Imperial	https://www.eagle-network.eu/voc/typeins/lod/114	2024-08-01T00:39:21Z	True	0	18		Designer		0
+3217	Honorífica	3000	Honorífica	Honorífica	https://www.eagle-network.eu/voc/typeins/lod/69	2024-08-01T00:39:21Z	True	0	0				0
+3216	Hito terminal	3000	Hito terminal	Hito terminal	https://www.eagle-network.eu/voc/typeins/lod/103	2024-08-01T00:39:21Z	True	0	0				0
+3215	Herma	3000	Herma	Herma		2024-08-01T00:39:21Z	True	0	0				0
+3214	Groma	3000	Groma	Groma	https://www.eagle-network.eu/voc/typeins/lod/95	2024-08-01T00:39:21Z	True	0	0		Designer		0
+3213	Grafito	3000	Grafito	Grafito		2024-08-01T00:39:21Z	True	0	0				0
+3212	Glande, chumbo	3000	Glande, chumbo	Glande, chumbo	https://www.eagle-network.eu/voc/typeins/lod/137	2024-08-01T00:39:21Z	True	0	0				0
+3211	Fideicommissum	3000	Fideicommissum	Fideicommissum	https://www.eagle-network.eu/voc/typeins/lod/50	2024-08-01T00:39:21Z	True	0	0		Designer		0
+3210	Evergética	3000	Evergética	Evergética	https://www.eagle-network.eu/voc/typeins/lod/145	2024-08-01T00:39:21Z	True	0	0	2020-10-30 (SDV): all related items to be re-assigned by Pieter and attribute deprecated	Designer		0
+3209	Estampilla	3000	Estampilla	Estampilla		2024-08-01T00:39:21Z	True	0	0				0
+3208	Epitafio / sepulcral	3000	Epitafio / sepulcral	Epitafio / sepulcral	https://www.eagle-network.eu/voc/typeins/lod/92	2025-02-14T19:34:18Z	True	17660	0				0
+3207	Edilicia	3000	Edilicia	Edilicia		2024-08-01T00:39:21Z	True	0	0				0
+3206	Diploma militar	3000	Diploma militar	Diploma militar		2024-08-01T00:39:21Z	True	0	0				0
+3205	Defixio	3000	Defixio	Defixio		2024-08-01T00:39:21Z	True	0	0				0
+3204	Dedication	3000	Dedication	Dedication	https://www.eagle-network.eu/voc/typeins/lod/88	2025-02-14T19:34:18Z	False	17641	4360		Designer		0
+3203	Cultual	3000	Cultual	Cultual	https://www.eagle-network.eu/voc/typeins/lod/81	2024-08-01T00:39:21Z	True	0	0				0
+3202	Brief	3000	Brief	Brief		2024-08-01T00:39:21Z	True	0	0				0
+3201	Anepigraphic	3000	Anepigraphic	Anepigraphic	https://www.eagle-network.eu/voc/typeins/lod/141	2025-02-14T19:34:18Z	False	17683	509		Designer		0
+3200	Acuerdo de Hospitalidad	3000	Acuerdo de Hospitalidad	Acuerdo de Hospitalidad		2024-08-01T00:39:21Z	True	0	0				0
+3169	Place marker: other	3000	Place marker: other	Place marker: other	https://www.eagle-network.eu/voc/typeins/lod/365	2025-02-14T19:34:18Z	False	17671	3				3148
+3168	Falsa	3000	Falsa	Falsa		2024-08-01T00:39:21Z	True	0	0		Designer		0
+3167	Citation	3000	Citation	Citation	https://www.eagle-network.eu/voc/typeins/lod/55	2024-08-01T00:39:21Z	True	0	0		Designer		0
+3166	Verse	3000	Verse	Verse	https://www.eagle-network.eu/voc/typeins/lod/368	2025-02-14T19:34:18Z	False	17654	612				0
+3165	Speaking object	3000	Speaking object	Speaking object		2025-02-14T19:34:18Z	False	17716	78		Designer		0
+3164	Fasti: calendar	3000	Fasti: calendar	Fasti: calendar	https://www.eagle-network.eu/voc/typeins/lod/361	2025-02-14T19:34:18Z	True	17668	0		Designer		0
+3163	Document: Public	3000	Document: Public	Document: Public	https://www.eagle-network.eu/voc/typeins/lod/360	2025-02-14T19:34:18Z	False	17665	209		Designer		3161
+3162	Document: Private	3000	Document: Private	Document: Private	https://www.eagle-network.eu/voc/typeins/lod/359	2025-02-14T19:34:18Z	False	17664	970		Designer		3161
+3161	Document	3000	Document	Document	https://www.eagle-network.eu/voc/typeins/lod/357	2025-02-14T19:34:18Z	False	17644	163				0
+3160	Building	3000	Building	Building	https://www.eagle-network.eu/voc/typeins/lod/86	2025-02-14T19:34:18Z	False	17640	3179		Designer		0
+3159	Writing Practice: Alphabet	3000	Writing Practice: Alphabet	Writing Practice: Alphabet	https://www.eagle-network.eu/voc/typeins/lod/112	2025-02-14T19:34:18Z	False	17648	56		Designer		3305
+3158	Dipinto	3000	Dipinto	Dipinto		2024-08-01T00:39:21Z	False	0	0		Designer		0
+3157	Funerary: epitaph	3000	Funerary: epitaph	Funerary: epitaph	https://www.eagle-network.eu/voc/typeins/lod/92	2025-02-14T19:34:18Z	False	17660	23784		Designer		3059
+3156	Honorific	3000	Honorific	Honorific	https://www.eagle-network.eu/voc/typeins/lod/69	2025-02-14T19:34:18Z	False	17663	2276		Designer		0
+3155	Tesserae hospitales	3000	Tesserae hospitales	Tesserae hospitales	https://www.eagle-network.eu/voc/typeins/lod/133	2024-08-01T00:39:21Z	False	0	31	Was 'Label: tesserae hospitales'	Designer		0
+3154	Religion: Magic: Defixio	3000	Defixio	Religion: Magic: Defixio	https://www.eagle-network.eu/voc/typeins/lod/76	2025-02-14T19:34:18Z	False	17673	639		Designer		3309
+3153	Religion: Dedication	3000	Religion: Dedication	Religion: Dedication	https://www.eagle-network.eu/voc/typeins/lod/79	2025-09-26T07:03:25Z	False	17714	7823		Designer		3293
+3152	Religion: Other	3000	Religion: Other	Religion: Other	https://www.eagle-network.eu/voc/typeins/lod/79	2024-08-01T00:39:21Z	False	0	28		Designer		3293
+3151	(unknown)	3000	(unknown)	(unknown)	https://www.eagle-network.eu/voc/typeins/lod/143	2025-10-19T15:56:43Z	False	17656	4650		Designer		0
+3150	Place marker: milestone	3000	Place marker: milestone	Place marker: milestone	https://www.eagle-network.eu/voc/typeins/lod/102	2025-02-14T19:34:18Z	False	17670	2062		Designer		3148
+3149	Place marker: boundary marker	3000	Place marker: boundary marker	Place marker: boundary marker	https://www.eagle-network.eu/voc/typeins/lod/96	2025-02-14T19:34:18Z	False	17669	150		Designer		3148
+3148	Place marker	3000	Place marker	Place marker	https://www.eagle-network.eu/voc/typeins/lod/365	2025-02-14T19:34:18Z	False	17646	32				0
+3147	Fasti: list	3000	Fasti: list	Fasti: list	https://www.eagle-network.eu/voc/typeins/lod/108	2025-02-14T19:34:18Z	True	17667	0		Designer		0
+3146	Fasti	3000	Fasti	Fasti	https://www.eagle-network.eu/voc/typeins/lod/2	2025-02-14T19:34:18Z	True	17645	0				0
+3145	Honorific: other	3000	Honorific: other	Honorific: other		2025-02-14T19:34:18Z	True	17663	0				0
+3144	Honorific: acclamation	3000	Honorific: acclamation	Honorific: acclamation		2025-02-14T19:33:51Z	True	0	0		Designer		0
+3143	Honorific	3000	Honorific	Honorific		2025-02-14T19:34:18Z	True	17663	0		Designer		0
+3142	Funerary: other	3000	Funerary: other	Funerary: other	https://www.eagle-network.eu/voc/typeins/lod/92	2025-02-14T19:34:18Z	False	17662	0				3059
+3141	Funerary: iura sepulcrorum	3000	Funerary: iura sepulcrorum	Funerary: iura sepulcrorum	https://www.eagle-network.eu/voc/typeins/lod/354	2025-02-14T19:34:18Z	False	17661	0				3059
+3140	Funerary	3000	Funerary	Funerary		2025-02-14T19:34:18Z	True	17642	0				0
+3139	Honorific: other	3000	Honorific: other	Honorific: other	https://www.eagle-network.eu/voc/typeins/lod/69	2025-02-14T19:34:18Z	False	17720	3		Designer		3156
+3138	Honorific: acclamation	3000	Honorific: acclamation	Honorific: acclamation	https://www.eagle-network.eu/voc/typeins/lod/73	2025-02-14T19:34:18Z	False	17663	109		Designer		3156
+3137	votivo ?	3000	votivo ?	votivo ?		2024-08-01T00:39:21Z	True	0	0				0
+3136	votivo	3000	votivo	votivo		2024-08-01T00:39:21Z	True	0	0				0
+3135	Religion: Votive	3000	Votive	Religion: Votive	https://www.eagle-network.eu/voc/typeins/lod/83	2025-02-14T19:34:18Z	False	17715	10031		Designer		3293
+3134	votiva	3000	votiva	votiva		2024-08-01T00:39:21Z	True	0	0				0
+3133	varilla	3000	varilla	varilla		2024-08-01T00:39:21Z	True	0	0				0
+3132	urna funeraria	3000	urna funeraria	urna funeraria		2024-08-01T00:39:21Z	True	0	0				0
+3131	tituli	3000	tituli	tituli		2024-08-01T00:39:21Z	True	0	0				0
+3130	tessera hospitalis	3000	tessera hospitalis	tessera hospitalis		2024-08-01T00:39:21Z	True	0	0				0
+3129	tarjeta de visita	3000	tarjeta de visita	tarjeta de visita		2024-08-01T00:39:21Z	True	0	0				0
+3128	Tabella defixionis	3000	Tabella defixionis	Tabella defixionis		2024-08-01T00:39:21Z	True	0	0				0
+3127	Stone sarcophagus	3000	Stone sarcophagus	Stone sarcophagus		2024-08-01T00:39:21Z	True	0	0				0
+3126	Stone fragment	3000	Stone fragment	Stone fragment		2024-08-01T00:39:21Z	True	0	0				0
+3125	Stele	3000	Stele	Stele		2024-08-01T00:39:21Z	True	0	0				0
+3124	Stamps	3000	Stamps	Stamps		2024-08-01T00:39:21Z	True	0	0				0
+3123	Stamp	3000	Stamp	Stamp	https://www.eagle-network.eu/voc/typeins/lod/118	2025-02-14T19:34:18Z	False	17653	53002		Designer		0
+3122	Speaking phallic stone	3000	Speaking phallic stone	Speaking phallic stone		2024-08-01T00:39:21Z	True	0	0				0
+3121	ritual	3000	ritual	ritual		2024-08-01T00:39:21Z	True	0	0				0
+3120	propiedad (galo-griego y galo-latino)	3000	propiedad	propiedad (galo-griego y galo-latino)		2024-08-01T00:39:21Z	True	0	0				0
+3119	propiedad ?	3000	propiedad ?	propiedad ?		2024-08-01T00:39:21Z	True	0	0				0
+3118	propiedad	3000	propiedad	propiedad		2024-08-01T00:39:21Z	True	0	0				0
+3117	potter's mark	3000	potter's mark	potter's mark		2024-08-01T00:39:21Z	True	0	0				0
+3116	painted inscriptions	3000	painted inscriptions	painted inscriptions		2024-08-01T00:39:21Z	True	0	0				0
+3115	painted inscription	3000	painted inscription	painted inscription		2024-08-01T00:39:21Z	True	0	0				0
+3114	oficial?	3000	oficial?	oficial?		2024-08-01T00:39:21Z	True	0	0				0
+3113	Mosaic	3000	Mosaic	Mosaic		2024-08-01T00:39:21Z	True	0	0				0
+3112	Monumental inscription for the stadium	3000	Monumental inscription for the 	Monumental inscription for the stadium		2024-08-01T00:39:21Z	True	0	0				0
+3111	Metal plaque	3000	Metal plaque	Metal plaque		2024-08-01T00:39:21Z	True	0	0				0
+3110	menhir de consagración	3000	menhir de consagración	menhir de consagración		2024-08-01T00:39:21Z	True	0	0				0
+3109	marca de alfarero	3000	marca de alfarero	marca de alfarero		2024-08-01T00:39:21Z	True	0	0				0
+3108	Marble plaque	3000	Marble plaque	Stone: Marble plaque		2024-08-01T00:39:21Z	True	0	0				0
+3107	Marble altar	3000	Marble altar	Stone: Marble altar		2024-08-01T00:39:21Z	True	0	0				0
+3106	mágico?	3000	mágico?	mágico?		2024-08-01T00:39:21Z	True	0	0				0
+3105	mágico ? (no celta)	3000	mágico ? (no celta)	mágico ? (no celta)		2024-08-01T00:39:21Z	True	0	0				0
+3104	mágico ?	3000	mágico ?	mágico ?		2024-08-01T00:39:21Z	True	0	0				0
+3103	Letter on lead	3000	Letter on lead	Letter on lead		2024-08-01T00:39:21Z	True	0	0				0
+3102	Letter	3000	Letter	Letter	https://www.eagle-network.eu/voc/typeins/lod/402	2025-02-14T19:34:18Z	True	17664	0		Designer		0
+3101	inscripcion hablante (ante coct.)	3000	inscripcion hablante (ante coct	inscripcion hablante (ante coct.)		2024-08-01T00:39:21Z	True	0	0				0
+3100	incierta. Lengua gala?	3000	incierta. Lengua gala?	incierta. Lengua gala?		2024-08-01T00:39:21Z	True	0	0				0
+3099	incierta (mojon?)	3000	incierta (mojon?)	incierta (mojon?)		2024-08-01T00:39:21Z	True	0	0				0
+3098	incierta	3000	incierta	incierta		2024-08-01T00:39:21Z	True	0	0				0
+3097	Honorific inscription	3000	Honorific inscription	Honorific inscription		2024-08-01T00:39:21Z	True	0	0				0
+3096	Honorific decree	3000	Honorific decree	Honorific decree	https://www.eagle-network.eu/voc/typeins/lod/69	2024-08-01T00:39:21Z	False	0	2				3156
+3095	Boundary marker	3000	Boundary marker	Boundary marker	https://www.eagle-network.eu/voc/typeins/lod/53	2025-02-14T19:34:18Z	True	17669	0		simona		0
+3094	grafito votivo ?	3000	grafito votivo ?	grafito votivo ?		2024-08-01T00:39:21Z	True	0	0				0
+3093	grafito votivo	3000	grafito votivo	grafito votivo		2024-08-01T00:39:21Z	True	0	0				0
+3092	grafito propriedad	3000	grafito propriedad	grafito propriedad		2024-08-01T00:39:21Z	True	0	0				0
+3091	grafito propiedad	3000	grafito propiedad	grafito propiedad		2024-08-01T00:39:21Z	True	0	0				0
+3090	grafito indeterminado (consejos ? Letra ?)	3000	grafito indeterminado (consejos	grafito indeterminado (consejos ? Letra ?)		2024-08-01T00:39:21Z	True	0	0				0
+3089	grafito indeterminado (consejos ? Instrucciones?)	3000	grafito indeterminado (consejos	grafito indeterminado (consejos ? Instrucciones?)		2024-08-01T00:39:21Z	True	0	0				0
+3088	grafito indeterminado (ante coct.)	3000	grafito indeterminado (ante coc	grafito indeterminado (ante coct.)		2024-08-01T00:39:21Z	True	0	0				0
+3087	grafito indeterminado	3000	grafito indeterminado	grafito indeterminado		2024-08-01T00:39:21Z	True	0	0				0
+3086	grafito firma artesano ?	3000	grafito firma artesano ?	grafito firma artesano ?		2024-08-01T00:39:21Z	True	0	0				0
+3085	grafito cerámico	3000	grafito cerámico	grafito cerámico		2024-08-01T00:39:21Z	True	0	0				0
+3084	grafito ante coct. (exercicio?)	3000	grafito ante coct. (exercicio?)	grafito ante coct. (exercicio?)		2024-08-01T00:39:21Z	True	0	0				0
+3083	grafito ante coct.	3000	grafito ante coct.	grafito ante coct.		2024-08-01T00:39:21Z	True	0	0				0
+3082	grafito alfarero (lista)	3000	grafito alfarero (lista)	grafito alfarero (lista)		2024-08-01T00:39:21Z	True	0	0				0
+3081	grafito alfarero (ante coct.)	3000	grafito alfarero (ante coct.)	grafito alfarero (ante coct.)		2024-08-01T00:39:21Z	True	0	0				0
+3080	grafito alfarero	3000	grafito alfarero	grafito alfarero		2024-08-01T00:39:21Z	True	0	0				0
+3079	grafito (regalo)	3000	grafito (regalo)	grafito (regalo)		2024-08-01T00:39:21Z	True	0	0				0
+3078	grafito (objeto indeterminado)	3000	grafito (objeto indeterminado)	grafito (objeto indeterminado)		2024-08-01T00:39:21Z	True	0	0				0
+3077	grafito (alfabeto)	3000	grafito (alfabeto)	grafito (alfabeto)		2024-08-01T00:39:21Z	True	0	0				0
+3076	grafito - propiedad	3000	grafito - propiedad	grafito - propiedad		2024-08-01T00:39:21Z	True	0	0				0
+3075	grafito	3000	grafito	grafito		2024-08-01T00:39:21Z	True	0	0				0
+3074	Graffito on campanian ware	3000	Graffito on campanian ware	Graffito on campanian ware		2024-08-01T00:39:21Z	True	0	0				0
+3073	Graffito	3000	Graffito	Graffito	https://www.eagle-network.eu/voc/typeins/lod/127	2025-09-24T14:55:31Z	False	0	2475				0
+3072	Graffiti on skyphoi	3000	Graffiti on skyphoi	Graffiti on skyphoi		2024-08-01T00:39:21Z	True	0	0				0
+3071	Graffiti on plaster	3000	Graffiti on plaster	Graffiti on plaster		2024-08-01T00:39:21Z	True	0	0				0
+3070	Graffiti on ceramic	3000	Graffiti on ceramic	Graffiti on ceramic		2024-08-01T00:39:21Z	True	0	0				0
+3069	Graffiti and dipinti	3000	Graffiti and dipinti	Graffiti and dipinti		2024-08-01T00:39:21Z	True	0	0				0
+3068	Graffiti	3000	Graffiti	Graffiti		2024-08-01T00:39:21Z	True	0	0				0
+3067	fusaiola	3000	fusaiola	fusaiola		2024-08-01T00:39:21Z	True	0	0				0
+3066	Funerary epigram	3000	Funerary epigram	Funerary epigram		2024-08-01T00:39:21Z	True	0	0				0
+3065	Funerary dedication?	3000	Funerary dedication?	Funerary dedication?		2024-08-01T00:39:21Z	True	0	0				0
+3064	Funerary dedication	3000	Funerary dedication	Funerary dedication		2024-08-01T00:39:21Z	True	0	0				0
+3063	funerario?	3000	funerario?	funerario?		2024-08-01T00:39:21Z	True	0	0				0
+3062	funerario	3000	funerario	funerario		2024-08-01T00:39:21Z	True	0	0				0
+3061	funeraria?	3000	funeraria?	funeraria?		2024-08-01T00:39:21Z	True	0	0				0
+3060	funeraria ?	3000	funeraria ?	funeraria ?		2024-08-01T00:39:21Z	True	0	0				0
+3059	Funerary	3000	Funerary	Funerary	https://www.eagle-network.eu/voc/typeins/lod/92	2025-02-14T19:34:18Z	False	17642	2441		Designer		0
+3058	fragmento de abecedario griego	3000	fragmento de abecedario griego	fragmento de abecedario griego		2024-08-01T00:39:21Z	True	0	0				0
+3057	ficha para identificar al portador	3000	ficha para identificar al porta	ficha para identificar al portador		2024-08-01T00:39:21Z	True	0	0				0
+3056	fíbula	3000	fíbula	fíbula		2024-08-01T00:39:21Z	True	0	0				0
+3055	Label	3000	Label	Label	https://www.eagle-network.eu/voc/typeins/lod/109	2025-09-26T07:16:09Z	False	17649	2008		Designer		0
+3054	estampillado	3000	estampillado	estampillado		2024-08-01T00:39:21Z	True	0	0				0
+3053	estampilla	3000	estampilla	estampilla		2024-08-01T00:39:21Z	True	0	0				0
+3052	epitaph	3000	epitaph	epitaph		2024-08-01T00:39:21Z	True	0	0				0
+3051	epitafio ?	3000	epitafio ?	epitafio ?		2024-08-01T00:39:21Z	True	0	0				0
+3050	epitafio	3000	epitafio	epitafio		2024-08-01T00:39:21Z	True	0	0				0
+3049	dipinto votivo	3000	dipinto votivo	dipinto votivo		2024-08-01T00:39:21Z	True	0	0				0
+3048	desconocida	3000	desconocida	desconocida		2024-08-01T00:39:21Z	True	0	0				0
+3047	defixio?	3000	defixio?	defixio?		2024-08-01T00:39:21Z	True	0	0				0
+3046	defixio	3000	defixio	defixio		2024-08-01T00:39:21Z	True	0	0				0
+3045	dedicatoria?	3000	dedicatoria?	dedicatoria?		2024-08-01T00:39:21Z	True	0	0				0
+3044	dedicatoria a divinidad	3000	dedicatoria a divinidad	dedicatoria a divinidad		2024-08-01T00:39:21Z	True	0	0				0
+3043	dedicatoria ?	3000	dedicatoria ?	dedicatoria ?		2024-08-01T00:39:21Z	True	0	0				0
+3042	dedicatoria	3000	dedicatoria	dedicatoria	https://www.eagle-network.eu/voc/typeins/lod/88	2024-08-01T00:39:21Z	True	0	0				0
+3041	Dedications (multiple texts)	3000	Dedications (multiple texts)	Dedications (multiple texts)		2024-08-01T00:39:21Z	True	0	0				0
+3040	Dedication to mother goddesses and Dioscures	3000	Dedication to mother goddesses 	Dedication to mother goddesses and Dioscures		2024-08-01T00:39:21Z	True	0	0				0
+3039	Dedication to Emperor	3000	Dedication to Emperor	Dedication to Emperor		2024-08-01T00:39:21Z	True	0	0				0
+3038	Dedication to Dionysiac artists	3000	Dedication to Dionysiac artists	Dedication to Dionysiac artists		2024-08-01T00:39:21Z	True	0	0				0
+3037	Dedication to Apollo and Artemis	3000	Dedication to Apollo and Artemi	Dedication to Apollo and Artemis		2024-08-01T00:39:21Z	True	0	0				0
+3036	Dedication to a Greek god?	3000	Dedication to a Greek god?	Dedication to a Greek god?		2024-08-01T00:39:21Z	True	0	0				0
+3035	Dedication on an ivory cover [mark of property?]	3000	Dedication on an ivory cover [m	Dedication on an ivory cover [mark of property?]		2024-08-01T00:39:21Z	True	0	0				0
+3034	Dedication [Latin model]	3000	Dedication [Latin model]	Dedication [Latin model]		2024-08-01T00:39:21Z	True	0	0				0
+3033	Dedicatory	3000	Dedicatory	Dedicatory		2024-08-01T00:39:21Z	True	0	0				0
+3032	Decree	3000	Decree	Decree		2024-08-01T00:39:21Z	True	0	0				0
+3031	Curse tablet	3000	Curse tablet	Curse tablet		2024-08-01T00:39:21Z	True	0	0				0
+3030	cuenta alfarero	3000	cuenta alfarero	cuenta alfarero		2024-08-01T00:39:21Z	True	0	0				0
+3029	Commercial text	3000	Commercial text	Commercial text		2024-08-01T00:39:21Z	True	0	0				0
+3028	Citations of Metrodorus	3000	Citations of Metrodorus	Citations of Metrodorus		2024-08-01T00:39:21Z	True	0	0				0
+3027	Citations of Epicurus	3000	Citations of Epicurus	Citations of Epicurus		2024-08-01T00:39:21Z	True	0	0				0
+3026	Citations of Anacreon	3000	Citations of Anacreon	Citations of Anacreon		2024-08-01T00:39:21Z	True	0	0				0
+3025	Christian epigram	3000	Christian epigram	Christian epigram		2024-08-01T00:39:21Z	True	0	0				0
+3024	Captions for image	3000	Captions for image	Captions for image		2024-08-01T00:39:21Z	True	0	0				0
+3023	Captions for fight scenes on a two-part mould	3000	Captions for fight scenes on a 	Captions for fight scenes on a two-part mould		2024-08-01T00:39:21Z	True	0	0				0
+3022	Calendario	3000	Calendario	Calendario		2024-08-01T00:39:21Z	True	0	0				0
+3021	brazalete (latin)	3000	brazalete (latin)	brazalete (latin)		2024-08-01T00:39:21Z	True	0	0				0
+3020	Bilingual funerary dedication	3000	Bilingual funerary dedication	Bilingual funerary dedication		2024-08-01T00:39:21Z	True	0	0				0
+3019	Bilingual dedication	3000	Bilingual dedication	Bilingual dedication		2024-08-01T00:39:21Z	True	0	0				0
+3018	Base of a tripod?	3000	Base of a tripod?	Base of a tripod?		2024-08-01T00:39:21Z	True	0	0				0
+3017	bajorelieve arco romano	3000	bajorelieve arco romano	Arch: low relief		2024-08-01T00:39:21Z	True	0	0				0
+3016	Astrological inscription	3000	Astrological inscription	Astrological inscription		2024-08-01T00:39:21Z	True	0	0				0
+3015	Artist's signature?	3000	Artist's signature?	Artist's signature?		2024-08-01T00:39:21Z	True	0	0				0
+3014	Artist's signature	3000	Artist's signature	Artist's signature	https://www.eagle-network.eu/voc/typeins/lod/115	2025-02-14T19:34:18Z	False	17643	8148		Designer		0
+3013	anillo	3000	anillo	Ring		2024-08-01T00:39:21Z	True	0	0				0
+3012	Alienum	3000	Alienum	Alienum		2024-08-01T00:39:21Z	False	0	6		Designer		0
+3011	Falsum	3000	Falsum	Falsum		2024-08-01T00:39:21Z	False	0	395		Designer		0
+3010	Altar dedication to a Greek god	3000	Altar dedication to a Greek god	Altar dedication to a Greek god		2024-08-01T00:39:21Z	True	0	0				0
+3009	adiuratio contra grandinem	3000	adiuratio contra grandinem	adiuratio contra grandinem		2024-08-01T00:39:21Z	True	0	0				0
+3008	Falsum/Alienum	3000	Falsum/Alienum	Falsum/Alienum		2024-08-01T00:39:21Z	False	0	243	Catch-all category for both falsa and aliena. Grouped together because the initial associations will be done algorithmically using bibliographical references containing an asterisk (*), which do not distinguish between the two types. When time permits, these associations should be replaced with either Falsum or Alienum Text Type attributes.	Designer		0
+3007	estampilla (molde, firma artesano)	3000	estampilla (molde, firma artesa	estampilla (molde, firma artesano)		2024-08-01T00:39:21Z	True	0	0				0
+3006	dipinto, indetarminado	3000	dipinto, indetarminado	dipinto, indetarminado		2024-08-01T00:39:21Z	True	0	0				0
+3005	¿pseudo-texto?	3000	¿pseudo-texto?	pseudo-texto?		2024-08-01T00:39:21Z	True	0	0				0
+3004	?Funerary dedication	3000	?Funerary dedication	Funerary dedication?		2024-08-01T00:39:21Z	True	0	0				0
+3003	?Dedication	3000	?Dedication	Dedication?		2024-08-01T00:39:21Z	True	0	0				0
+3002	?	3000	?	?		2024-08-01T00:39:21Z	True	0	0				0
+3001	(not assigned)	3000	(not assigned)	(not assigned)	https://www.eagle-network.eu/voc/typeins/lod/143	2025-09-26T07:16:59Z	False	17657	18709		Designer		0
+2439	Stone: Diorite	2000	Diorite	Stone: Diorite		2025-02-14T19:34:18Z	False	16693	1				2258
+2438	Stone: Talc	2000	Talc	Stone: Talc		2025-02-14T19:34:18Z	False	16693	1				2258
+2437	Stone: Siltstone	2000	Siltstone	Stone: Siltstone		2025-02-14T19:34:18Z	False	16685	2				2258
+2436	Stone: Shale	2000	Shale	Stone: Shale		2025-02-14T19:34:18Z	False	16684	7				2258
+2435	Stone: Dolerite	2000	Dolerite	Stone: Dolerite		2025-02-14T19:34:18Z	False	16674	2				2258
+2434	Opus Signinum	2000	Opus Signinum	Opus Signinum		2025-02-14T19:34:18Z	False	16634	1				0
+2433	Mineral: Sard	2000	Sard	Mineral: Sard		2025-02-14T19:34:18Z	False	16670	2				2392
+2432	Mineral: Prase	2000	Prase	Mineral: Prase		2025-02-14T19:34:18Z	False	16669	1				2392
+2431	Mineral: Plasma	2000	Plasma	Mineral: Plasma		2025-02-14T19:34:18Z	False	16668	2				2392
+2430	Mineral: Nicolo	2000	Nicolo	Mineral: Nicolo		2025-02-14T19:34:18Z	False	16665	4				2392
+2429	Mineral: Crystal	2000	Crystal	Mineral: Crystal		2025-02-14T19:34:18Z	False	16661	1				2392
+2428	Mineral: Chalcedony	2000	Chalcedony	Mineral: Chalcedony		2025-02-14T19:34:18Z	False	16660	2				2392
+2427	Mineral: Bloodstone	2000	Bloodstone	Mineral: Bloodstone		2025-02-14T19:34:18Z	False	16658	1				2392
+2426	Stone: Tufa	2000	Tufa	Stone: Tufa		2025-02-14T19:34:18Z	False	16691	0				2258
+2425	Metal: Steel	2000	Steel	Metal: Steel		2025-02-14T19:34:18Z	False	16654	1				2174
+2424	Metal: Pewter	2000	Pewter	Metal: Pewter		2025-02-14T19:34:18Z	False	16652	67				2174
+2423	Ceramic: Pipeclay	2000	Pipeclay	Ceramic: Pipeclay		2025-02-14T19:34:18Z	False	16643	13				2313
+2422	Baked clay	2000	Baked clay	Baked clay		2025-11-03T17:00:12Z	False	16645	9		Designer		2313
+2421	Wax	2000	Wax	Wax	https://www.eagle-network.eu/voc/material/lod/133	2024-08-01T00:39:21Z	False	0	2		Designer		0
+2420	Stone: Volcanic Tuff	2000	Volcanic Tuff	Stone: Tuff, Volcanic	https://www.eagle-network.eu/voc/material/lod/30	2024-08-01T00:39:21Z	False	0	20		Designer		2281
+2419	Stone: Spongolite	2000	Spongolite	Stone: Spongolite		2024-08-01T00:39:21Z	False	0	0		Designer		2258
+2418	Mineral: Sardonyx	2000	Sardonyx	Mineral: Sardonyx	https://www.eagle-network.eu/voc/material/lod/97	2025-02-14T19:34:18Z	False	16671	1		Designer		2392
+2417	Stone: Porphyry	2000	Porphyry	Stone: Porphyry	https://www.eagle-network.eu/voc/material/lod/25	2024-08-01T00:39:21Z	False	0	2		Designer		2258
+2416	Stone: Peperin	2000	Peperin	Stone: Peperin	https://www.eagle-network.eu/voc/material/lod/82	2024-08-01T00:39:21Z	False	0	0		Designer		2258
+2415	Mineral: Opal	2000	Opal	Mineral: Opal	https://www.eagle-network.eu/voc/material/lod/96	2024-08-01T00:39:21Z	False	0	0		Designer		2392
+2414	Stone: Nenfro	2000	Nenfro	Stone: Nenfro	https://www.eagle-network.eu/voc/material/lod/81	2024-08-01T00:39:21Z	False	0	0		Designer		2258
+2413	Stone: Veined/Colored Marble	2000	Veined/Colored Marble	Stone: Marble, Veined/Colored	https://www.eagle-network.eu/voc/material/lod/50	2024-08-01T00:39:21Z	False	0	93		Designer		2159
+2412	Stone: White Marble	2000	White Marble	Stone: Marble, White	https://www.eagle-network.eu/voc/material/lod/49	2024-08-01T00:39:21Z	False	0	459		Designer		2159
+2411	Mineral: Magnetite	2000	Magnetite	Mineral: Magnetite	https://www.eagle-network.eu/voc/material/lod/94	2024-08-01T00:39:21Z	False	0	0		Designer		2392
+2410	Stone: Lava	2000	Lava	Stone: Lava	https://www.eagle-network.eu/voc/material/lod/53	2025-02-14T19:34:18Z	False	16677	15		Designer		2258
+2409	Mineral: Lapislazuli	2000	Lapis lazuli	Mineral: Lapislazuli	https://www.eagle-network.eu/voc/material/lod/93	2025-02-14T19:34:18Z	False	16664	1		Designer		2392
+2408	Stone: Calcareous Tuff	2000	Calcareous Tuff	Stone: Tuff, Calcareous	https://www.eagle-network.eu/voc/material/lod/78	2025-02-14T19:34:18Z	False	16692	6		Designer		2281
+2407	Stone: Marl	2000	Marl	Stone: Marl	https://www.eagle-network.eu/voc/material/lod/76	2024-08-01T00:39:21Z	False	0	0		Designer		2258
+2406	Horn	2000	Horn	Horn		2025-02-14T19:34:18Z	False	16627	2		Designer		0
+2405	Mineral: Heliotrope	2000	Heliotrope	Mineral: Heliotrope	https://www.eagle-network.eu/voc/material/lod/91	2024-08-01T00:39:21Z	False	0	0		Designer		2392
+2404	Mineral: Hematite	2000	Hematite	Mineral: Hematite	https://www.eagle-network.eu/voc/material/lod/90	2025-02-14T19:34:18Z	False	16662	1		Designer		2392
+2403	Mineral: Garnet	2000	Garnet	Mineral: Garnet	https://www.eagle-network.eu/voc/material/lod/301	2024-08-01T00:39:21Z	False	0	0		Designer		2392
+2402	Stone: Molasse	2000	Molasse	Stone: Molasse	https://www.eagle-network.eu/voc/material/lod/79	2024-08-01T00:39:21Z	False	0	13		Designer		2258
+2401	Mineral: Jet	2000	Jet	Mineral: Jet	https://www.eagle-network.eu/voc/material/lod/300	2025-02-14T19:34:18Z	False	16629	6		Designer		2392
+2400	Mineral: Feldspar	2000	Feldspar	Mineral: Feldspar	https://www.eagle-network.eu/voc/material/lod/24	2024-08-01T00:39:21Z	False	0	0		Designer		2392
+2399	Stone: Dolomite	2000	Dolomite	Stone: Dolomite	https://www.eagle-network.eu/voc/material/lod/59	2024-08-01T00:39:21Z	False	0	2		Designer		2258
+2398	Mineral: Chrysoprase	2000	Chrysoprase	Mineral: Chrysoprase		2024-08-01T00:39:21Z	False	0	0		Designer		2392
+2397	Stone: Andesite	2000	Andesite	Stone: Andesite	https://www.eagle-network.eu/voc/material/lod/15	2024-08-01T00:39:21Z	False	0	0		Designer		2258
+2396	Mineral: Agate	2000	Agate	Mineral: Agate	https://www.eagle-network.eu/voc/material/lod/88	2024-08-01T00:39:21Z	False	0	2		Designer		2392
+2395	Ceramic: coarseware	2000	Ceramic: coarseware	Ceramic: coarseware		2024-08-01T00:39:21Z	False	0	5		Designer		2313
+2394	Papyrus	2000	Papyrus	Papyrus	https://www.eagle-network.eu/voc/material/lod/320	2024-08-01T00:39:21Z	False	0	0		Designer		0
+2393	Gemma	2000	Gemma	Gemma		2024-08-01T00:39:21Z	False	0	0		simona		0
+2392	Mineral	2000	Mineral	Mineral	https://www.eagle-network.eu/voc/material/lod/87	2025-02-14T19:34:18Z	False	16632	60		simona		0
+2391	Mineral: Amethyst	2000	Amethyst	Mineral: Amethyst	https://www.eagle-network.eu/voc/material/lod/304	2024-08-01T00:39:21Z	False	0	1		Designer		2392
+2390	Ceramic: terracotta	2000	Ceramic: terracotta	Ceramic: terracotta	https://www.eagle-network.eu/voc/material/lod/130	2025-02-14T19:34:18Z	False	16644	97				2313
+2389	Mineral: Serpentine	2000	Serpentine	Mineral: Serpentine	https://www.eagle-network.eu/voc/material/lod/40	2024-08-01T00:39:21Z	False	0	14		Designer		2392
+2388	Stone: Shell limestone	2000	Shell limestone	Stone: Shell limestone	https://www.eagle-network.eu/voc/material/lod/63	2025-02-14T19:34:18Z	False	16678	8		Designer		2258
+2387	Stone: Magnesian limestone	2000	Magnesian limestone	Stone: Magnesian limestone	https://www.eagle-network.eu/voc/material/lod/66	2025-02-14T19:34:18Z	False	16698	10				2258
+2386	Stone: Buff limestone	2000	Buff limestone	Stone: Buff limestone	https://www.eagle-network.eu/voc/material/lod/66	2025-02-14T19:34:18Z	False	16697	7				2258
+2385	Ceramic: fine ware	2000	Ceramic: fine ware	Ceramic: fine ware	https://www.eagle-network.eu/voc/material/lod/130	2025-02-14T19:34:18Z	False	16625	32				2313
+2384	Stone: Chalk	2000	Chalk	Stone: Chalk	https://www.eagle-network.eu/voc/material/lod/60	2025-02-14T19:34:18Z	False	16673	10				2258
+2383	Ceramic: Aretine	2000	Ceramic: Aretine	Ceramic: Aretine	https://www.eagle-network.eu/voc/material/lod/130	2025-02-14T19:34:18Z	False	16625	6				2313
+2382	Enamel	2000	Enamel	Enamel	https://www.eagle-network.eu/voc/material/lod/121	2024-08-01T00:39:21Z	False	0	0		Designer		0
+2381	Amber	2000	Amber	Amber	https://www.eagle-network.eu/voc/material/lod/119	2024-08-01T00:39:21Z	False	0	1		Designer		0
+2380	Metal: Zinc	2000	Zinc	Metal: Zinc	https://www.eagle-network.eu/voc/material/lod/309	2024-08-01T00:39:21Z	False	0	2		Designer		2174
+2379	two silver vases	2000	two silver vases	Vase: two silver		2024-08-01T00:39:21Z	True	0	0				0
+2378	tin ingots	2000	tin ingots	Metal: Tin ingots		2024-08-01T00:39:21Z	True	0	0				0
+2377	stone: marble	2000	marble	Stone: marble		2024-08-01T00:39:21Z	True	0	0				0
+2376	stone inscription	2000	stone inscription	stone inscription		2024-08-01T00:39:21Z	True	0	0				0
+2375	sphere	2000	sphere	sphere		2024-08-01T00:39:21Z	True	0	0				0
+2374	rupestre	2000	rupestre	Rock		2024-08-01T00:39:21Z	True	0	0				0
+2373	ring	2000	ring	ring		2024-08-01T00:39:21Z	True	0	0				0
+2372	plomo (estaño?)	2000	plomo (estaño?)	Metal: Lead (tin?)		2024-08-01T00:39:21Z	True	0	0				0
+2371	plata	2000	plata	Metal: Silver		2024-08-01T00:39:21Z	True	0	0				0
+2370	Plaster	2000	Plaster	Plaster	https://www.eagle-network.eu/voc/material/lod/126	2025-02-14T19:34:18Z	False	16635	211		Designer		0
+2369	piece of bone	2000	piece of bone	bone: piece of		2024-08-01T00:39:21Z	True	0	0				0
+2368	musivo	2000	musivo	Mosaic		2024-08-01T00:39:21Z	True	0	0				0
+2367	Mosaic	2000	Mosaic	Mosaic	https://www.eagle-network.eu/voc/material/lod/134	2024-11-22T18:37:20Z	False	0	4		Designer		0
+2366	metal sheet	2000	metal sheet	Metal: sheet		2024-08-01T00:39:21Z	True	0	0				0
+2365	lead tesserae	2000	lead tesserae	Metal: lead tesserae		2024-08-01T00:39:21Z	True	0	0				0
+2364	lead tablet ‘du même type’ as those at Lattes, Pech Maho, Emporion	2000	lead tablet	Metal: lead tablet		2024-08-01T00:39:21Z	True	0	0				0
+2363	lead sheet	2000	lead sheet	Metal: lead sheet		2024-08-01T00:39:21Z	True	0	0				0
+2362	lead mirrors	2000	lead mirrors	Metal: lead mirrors		2024-08-01T00:39:21Z	True	0	0				0
+2361	lead letter, unpublished, badly damaged	2000	lead letter	Metal: lead letter		2024-08-01T00:39:21Z	True	0	0				0
+2360	lead letter	2000	lead letter	Metal: lead letter		2024-08-01T00:39:21Z	True	0	0				0
+2359	lead amulets	2000	lead amulets	Metal: lead amulets		2024-08-01T00:39:21Z	True	0	0				0
+2358	latericio	2000	latericio	latericio		2024-08-01T00:39:21Z	True	0	0				0
+2357	Brick	2000	Brick	Brick	https://www.eagle-network.eu/voc/material/lod/642	2025-02-14T19:34:18Z	False	16640	486				0
+2356	Ivory	2000	Ivory	Ivory	https://www.eagle-network.eu/voc/material/lod/120	2025-02-14T19:34:18Z	False	16628	27		Designer		0
+2355	intaglio	2000	intaglio	intaglio		2024-08-01T00:39:21Z	True	0	0				0
+2354	hierro	2000	hierro	Metal: Iron		2024-08-01T00:39:21Z	True	0	0				0
+2353	grafito parietal	2000	grafito parietal	grafito parietal		2024-08-01T00:39:21Z	True	0	0				0
+2352	vessel	2000	vessel	vessel		2024-08-01T00:39:21Z	True	0	0				0
+2351	pithos	2000	pithos	pithos		2024-08-01T00:39:21Z	True	0	0				0
+2350	Attic cup	2000	Attic cup	Attic cup		2024-08-01T00:39:21Z	True	0	0				0
+2349	vase	2000	vase	vase		2024-08-01T00:39:21Z	True	0	0				0
+2348	Ceramic: skyphoi	2000	Ceramic: skyphoi	Ceramic: skyphoi		2024-08-01T00:39:21Z	True	0	0				0
+2347	Attic ceramics	2000	Attic ceramics	Ceramic: Attic		2024-08-01T00:39:21Z	True	0	0				0
+2346	gold sheet	2000	gold sheet	Metal: gold sheet		2024-08-01T00:39:21Z	True	0	0				0
+2345	gold ring	2000	gold ring	Metal: gold ring		2024-08-01T00:39:21Z	True	0	0				0
+2344	gold case	2000	gold case	Metal: gold case		2024-08-01T00:39:21Z	True	0	0				0
+2343	glass vessel	2000	glass vessel	glass vessel		2024-08-01T00:39:21Z	True	0	0				0
+2342	glass skyphos	2000	glass skyphos	glass skyphos		2024-08-01T00:39:21Z	True	0	0				0
+2341	collyria	2000	collyria	collyria		2024-08-01T00:39:21Z	True	0	0				0
+2340	cerámica, vaso	2000	cerámica, vaso	cerámica, vaso		2024-08-01T00:39:21Z	True	0	0				0
+2339	cerámica, plato	2000	cerámica, plato	cerámica, plato		2024-08-01T00:39:21Z	True	0	0				0
+2338	cerámica, olla	2000	cerámica, olla	cerámica, olla		2024-08-01T00:39:21Z	True	0	0				0
+2337	cerámica, morillo	2000	cerámica, morillo	cerámica, morillo		2024-08-01T00:39:21Z	True	0	0				0
+2336	cerámica, jarra	2000	cerámica, jarra	cerámica, jarra		2024-08-01T00:39:21Z	True	0	0				0
+2335	cerámica, figurina	2000	cerámica, figurina	cerámica, figurina		2024-08-01T00:39:21Z	True	0	0				0
+2334	Ceramic: terra sigillata	2000	Ceramic: terra sigillata	Ceramic: terra sigillata	https://www.eagle-network.eu/voc/material/lod/132	2025-02-14T19:34:18Z	False	16718	4118		Designer		2313
+2333	ceramic: sherd of Campanian A	2000	ceramic: sherd of Campanian A	ceramic: sherd of Campanian A		2024-08-01T00:39:21Z	True	0	0				0
+2332	ceramic: sherd	2000	ceramic: sherd	ceramic: sherd		2024-08-01T00:39:21Z	True	0	0				0
+2331	ceramic: olpa	2000	ceramic: olpa	ceramic: olpa		2024-08-01T00:39:21Z	True	0	0				0
+2330	ceramic: late Campanian ware	2000	ceramic: late Campanian ware	ceramic: late Campanian ware		2024-08-01T00:39:21Z	True	0	0				0
+2329	ceramic: jar	2000	ceramic: jar	ceramic: jar		2024-08-01T00:39:21Z	True	0	0				0
+2328	ceramic: indigenous dolium	2000	ceramic: indigenous dolium	ceramic: indigenous dolium		2024-08-01T00:39:21Z	True	0	0				0
+2327	ceramic: handles of amphorae	2000	ceramic: handles of amphorae	ceramic: handles of amphorae		2024-08-01T00:39:21Z	True	0	0				0
+2326	ceramic: fragments	2000	ceramic: fragments	ceramic: fragments		2024-08-01T00:39:21Z	True	0	0				0
+2325	ceramic: fragment of amphora	2000	ceramic: fragment of amphora	ceramic: fragment of amphora		2024-08-01T00:39:21Z	True	0	0				0
+2324	ceramic: foot of Attic cup	2000	ceramic: foot of Attic cup	ceramic: foot of Attic cup		2024-08-01T00:39:21Z	True	0	0				0
+2323	ceramic: bowl of local fabrication	2000	ceramic: bowl of local fabricat	ceramic: bowl of local fabrication		2024-08-01T00:39:21Z	True	0	0				0
+2322	ceramic: amphorae	2000	ceramic: amphorae	ceramic: amphorae		2024-08-01T00:39:21Z	True	0	0				0
+2321	ceramic: amphora	2000	ceramic: amphora	ceramic: amphora		2024-08-01T00:39:21Z	True	0	0				0
+2320	Ceramic: Campanian ware	2000	Ceramic: Campanian ware	Ceramic: Campanian ware	https://www.eagle-network.eu/voc/material/lod/130	2025-02-14T19:34:18Z	False	16625	20				2313
+2319	ceramic: Campanian A	2000	ceramic: Campanian A	ceramic: Campanian A		2024-08-01T00:39:21Z	True	0	0				0
+2318	ceramic: Attic vases and 2 ostraka	2000	ceramic: Attic vases and 2 ostr	ceramic: Attic vases and 2 ostraka		2024-08-01T00:39:21Z	True	0	0				0
+2317	ceramic: Attic skyphos	2000	ceramic: Attic skyphos	ceramic: Attic skyphos		2024-08-01T00:39:21Z	True	0	0				0
+2316	ceramic: Attic cup	2000	ceramic: Attic cup	ceramic: Attic cup		2024-08-01T00:39:21Z	True	0	0				0
+2315	Ceramic: Attic	2000	Ceramic: Attic	Ceramic: Attic	https://www.eagle-network.eu/voc/material/lod/130	2025-02-14T19:34:18Z	False	16625	74				2313
+2314	ceramic mould	2000	ceramic mould	ceramic mould		2024-08-01T00:39:21Z	True	0	0				0
+2313	Ceramic/Clay	2000	Ceramic/Clay	Ceramic/Clay	https://www.eagle-network.eu/voc/material/lod/130	2025-09-25T19:39:43Z	False	16625	70894	[AM]: Given the likelihood that "Clay" is very often used in some parts of the Continent where in Britain "Ceramic" would be used, it seems safest to create a new top-level category "Ceramic/Clay" which contains all "Ceramic" and "Clay".	Designer		0
+2312	Cameo	6000	Cameo	Cameo		2024-08-01T00:39:21Z	True	0	0		simona		0
+2311	bronze sheet	2000	bronze sheet	Metal: bronze sheet		2024-08-01T00:39:21Z	True	0	0				0
+2310	bronze ring	2000	bronze ring	Metal: bronze ring		2024-08-01T00:39:21Z	True	0	0				0
+2309	bronze plaque	2000	bronze plaque	Metal: bronze plaque		2024-08-01T00:39:21Z	True	0	0				0
+2308	bronze parts of beds	2000	bronze parts of beds	Metal: bronze parts of beds		2024-08-01T00:39:21Z	True	0	0				0
+2307	bronze hand	2000	bronze hand	Metal: bronze hand		2024-08-01T00:39:21Z	True	0	0				0
+2306	bronce, morillo	2000	bronce, morillo	Metal: Bronze		2024-08-01T00:39:21Z	True	0	0				0
+2305	bronce, cacerola	2000	bronce, cacerola	Metal: bronze, cacerola		2024-08-01T00:39:21Z	True	0	0				0
+2304	bronce	2000	bronce	Metal: Bronze		2024-08-01T00:39:21Z	True	0	0				0
+2303	bed	2000	bed	bed		2024-08-01T00:39:21Z	True	0	0				0
+2302	Zinn, Blei	2000	Zinn, Blei	Metal: Tin, Lead		2024-08-01T00:39:21Z	True	0	0				0
+2301	Metal: Tin	2000	Tin	Metal: Tin	https://www.eagle-network.eu/voc/material/lod/116	2025-02-14T19:34:18Z	False	16655	50		Designer		2174
+2300	Yeso Estuco	2000	Yeso Estuco	Plaster Stucco		2024-08-01T00:39:21Z	True	0	0				0
+2299	Yeso	2000	Yeso	Plaster		2024-08-01T00:39:21Z	True	0	0				0
+2298	Yellowish-buff sandstone	2000	Yellowish-buff sandstone	Stone: Sandstone, Yellowish-buff		2024-08-01T00:39:21Z	True	0	0				0
+2297	Yellow-buff sandstone	2000	Yellow-buff sandstone	Stone: Sandstone, Yellow-buff		2024-08-01T00:39:21Z	True	0	0				0
+2296	Yellow sandstone	2000	Yellow sandstone	Stone: Sandstone, Yellow		2024-08-01T00:39:21Z	True	0	0				0
+2295	Whitish-buff sandstone	2000	Whitish-buff sandstone	Stone: Sandstone, Whitish-buff		2024-08-01T00:39:21Z	True	0	0				0
+2294	Whitish sandstone	2000	Whitish sandstone	Stone: Sandstone, Whitish		2024-08-01T00:39:21Z	True	0	0				0
+2293	White sandstone	2000	White sandstone	Stone: Sandstone, White		2024-08-01T00:39:21Z	True	0	0				0
+2292	White marble	2000	White marble	Stone: Marble, White		2024-08-01T00:39:21Z	True	0	0				0
+2291	Stone: Whinstone	2000	Whinstone	Stone: Whinstone	https://www.eagle-network.eu/voc/material/lod/2	2024-08-01T00:39:21Z	False	0	1		simona		2258
+2290	Welsh slate	2000	Slate: Welsh	Stone: Slate, Welsh		2024-08-01T00:39:21Z	True	0	0				0
+2289	Vulkantuff	2000	Vulkantuff	Stone: volcanic tuff		2024-08-01T00:39:21Z	True	0	0				0
+2288	Vidrio Teselas	2000	Vidrio Teselas	Glass Tiles		2024-08-01T00:39:21Z	True	0	0				0
+2287	Vidrio	2000	Vidrio	Glass		2024-08-01T00:39:21Z	True	0	0				0
+2286	Verre	2000	Verre	Glass		2024-08-01T00:39:21Z	True	0	0				0
+2285	(not assigned)	2000	(not assigned)	(not assigned)	https://www.eagle-network.eu/voc/material/lod/138	2025-09-25T19:31:45Z	False	0	14562		Designer		0
+2284	(unknown)	2000	(unknown)	(unknown)	https://www.eagle-network.eu/voc/material/lod/138	2025-02-14T19:34:18Z	False	16639	251		Designer		0
+2283	unbestimmt	2000	unbestimmt	(undetermined)		2024-08-01T00:39:21Z	True	0	0				0
+2282	Tuff, Stuck	2000	Tuff, Stuck	Stone: Tuff, Stucco		2024-08-01T00:39:21Z	True	0	0				0
+2281	Stone: Tuff	2000	Tuff	Stone: Tuff	https://www.eagle-network.eu/voc/material/lod/30	2025-02-14T19:34:18Z	False	16692	52		simona		2258
+2280	Trachyt	2000	Trachyt	Stone: Trachyte		2024-08-01T00:39:21Z	True	0	0				0
+2279	Ton, Stuck	2000	Ton, Stuck	Clay, Stucco		2024-08-01T00:39:21Z	True	0	0				0
+2278	Ton, Muschelkalk	2000	Ton, Muschelkalk	Clay, shell limestone		2024-08-01T00:39:21Z	True	0	0				0
+2277	Ton	2000	Ton	Clay		2024-08-01T00:39:21Z	True	0	0				0
+2276	Tiles	2000	Tiles	Tiles		2024-11-22T19:02:15Z	False	0	2		Designer		0
+2275	Terre cuite	2000	Terre cuite	Terracotta		2024-08-01T00:39:21Z	True	0	0				0
+2274	terracota	2000	terracota	Terracotta		2025-02-14T19:34:18Z	True	16644	0				0
+2273	Terra sigillata lisa	2000	Terra sigillata lisa	Terra sigillata lisa		2024-08-01T00:39:21Z	True	0	0				0
+2272	Terra sigillata decorada	2000	Terra sigillata decorada	Terra sigillata decorada		2024-08-01T00:39:21Z	True	0	0				0
+2271	Terra sigillata	2000	Terra sigillata	Terra sigillata		2024-08-01T00:39:21Z	True	0	0				0
+2270	Stone: Syenite	2000	Syenite	Stone: Syenite	https://www.eagle-network.eu/voc/material/lod/13	2024-08-01T00:39:21Z	False	0	1		Designer		2258
+2269	Stuck	2000	Stuck	Stucco		2024-08-01T00:39:21Z	True	0	0				0
+2268	stone / tuff	2000	stone / tuff	Stone: Tuff		2024-08-01T00:39:21Z	True	0	0				0
+2267	Stone: Trachite	2000	Trachite	Stone: Trachite	https://www.eagle-network.eu/voc/material/lod/83	2024-08-01T00:39:21Z	False	0	55		Designer		2258
+2266	stone / sandstone	2000	stone / sandstone	Stone: Sandstone		2024-08-01T00:39:21Z	True	0	0				0
+2265	stone / marble	2000	stone / marble	Stone: marble		2024-08-01T00:39:21Z	True	0	0				0
+2264	stone / limestone	2000	stone / limestone	Stone: Limestone		2024-08-01T00:39:21Z	True	0	0				0
+2263	stone / granite	2000	stone / granite	Stone: granite		2024-08-01T00:39:21Z	True	0	0				0
+2262	stone / conglomerate	2000	stone / conglomerate	Stone: Conglomerate		2024-08-01T00:39:21Z	True	0	0				0
+2261	stone / basalt	2000	stone / basalt	Stone: basalt		2024-08-01T00:39:21Z	True	0	0				0
+2260	Stone: Alabaster	2000	Alabaster	Stone: Alabaster	https://www.eagle-network.eu/voc/material/lod/77	2024-08-01T00:39:21Z	False	0	18		Designer		2258
+2259	Stone (unspecified)	2000	Stone (unspecified)	Stone: (unspecified)		2024-08-01T00:39:21Z	True	0	0				0
+2258	Stone	2000	stone	Stone	https://www.eagle-network.eu/voc/material/lod/2	2025-09-25T19:31:05Z	False	16633	27026		Designer		0
+2257	Stein	2000	Stein	Stone		2024-08-01T00:39:21Z	True	0	0				0
+2256	Stéatite verte	2000	Stéatite verte	Stéatite verte		2024-08-01T00:39:21Z	True	0	0				0
+2255	Stone: Stéatite	2000	Stéatite	Stone: Stéatite	https://www.eagle-network.eu/voc/material/lod/41	2025-02-14T19:34:18Z	False	16688	21		Designer		2258
+2254	Stone: Soapstone	2000	Soapstone	Stone: soapstone	https://www.eagle-network.eu/voc/material/lod/41	2025-02-14T19:34:18Z	False	16687	150		simona		2258
+2253	Stone: Slate	2000	Slate	Stone: Slate	https://www.eagle-network.eu/voc/material/lod/54	2025-02-14T19:34:18Z	False	16686	357		Designer		2258
+2252	Metal: Silver	2000	Silver	Metal: Silver	https://www.eagle-network.eu/voc/material/lod/115	2025-02-14T19:34:18Z	False	16653	811		Designer		2174
+2251	Silber; Gold	2000	Silber; Gold	Metal: Silver; Gold		2024-08-01T00:39:21Z	True	0	0				0
+2250	Silber, Gold	2000	Silber, Gold	Metal: Silver, Gold		2024-08-01T00:39:21Z	True	0	0				0
+2249	Silber	2000	Silber	Metal: Silver		2024-08-01T00:39:21Z	True	0	0				0
+2248	Serpentine verte	2000	Serpentine verte	Mineral: Green serpentine		2024-08-01T00:39:21Z	True	0	0				0
+2247	Schiefer	2000	Schiefer	Stone: Slate		2024-08-01T00:39:21Z	True	0	0				0
+2246	Sandstone (buff or lighter in colour)	2000	Sandstone: buff or lighter	Stone: Sandstone, buff or lighter		2024-08-01T00:39:21Z	True	0	0				0
+2245	Stone: Sandstone	2000	Sandstone	Stone: Sandstone	https://www.eagle-network.eu/voc/material/lod/75	2025-02-14T19:34:18Z	False	16682	8003		Designer		2258
+2244	Sandstein?	2000	Sandstein?	Stone: Sandstone?		2024-08-01T00:39:21Z	True	0	0				0
+2243	Sandstein	2000	Sandstein	Stone: Sandstone		2024-08-01T00:39:21Z	True	0	0				0
+2242	Stone: Reddish stone	2000	Reddish stone	Stone: Reddish	https://www.eagle-network.eu/voc/material/lod/2	2024-08-01T00:39:21Z	False	0	1		simona		2258
+2241	Reddish sandstone	2000	Reddish sandstone	Stone: Sandstone, Reddish		2024-08-01T00:39:21Z	True	0	0				0
+2240	Reddish grit	2000	Reddish grit	Stone: Grit: Reddish		2024-08-01T00:39:21Z	True	0	0				0
+2239	Red sandstone	2000	Red sandstone	Stone: Sandstone, Red		2024-08-01T00:39:21Z	True	0	0				0
+2238	Red gritstone	2000	Red gritstone	Stone: Gritstone: Red		2024-08-01T00:39:21Z	True	0	0				0
+2237	Quarzit	2000	Quarzit	Stone: Quartzite		2024-08-01T00:39:21Z	True	0	0				0
+2236	Putz	2000	Putz	Plaster		2024-08-01T00:39:21Z	True	0	0				0
+2235	Stone: Purbeck marble	2000	Purbeck marble	Stone: Purbeck marble	https://www.eagle-network.eu/voc/material/lod/68	2025-02-14T19:34:18Z	False	16700	111		simona		2258
+2234	Plomo	2000	Plomo	Metal: Lead		2024-08-01T00:39:21Z	True	0	0				0
+2233	Plomb, Bronze	2000	Plomb, Bronze	Metal: Lead, Bronze		2024-08-01T00:39:21Z	True	0	0				0
+2232	Plomb	2000	Plomb	Metal: Lead		2024-08-01T00:39:21Z	True	0	0				0
+2231	Plata, oro	2000	Plata, oro	Metal: Silver, Gold		2024-08-01T00:39:21Z	True	0	0				0
+2230	Pierre volcanique	2000	Pierre volcanique	Stone: volcanique		2024-08-01T00:39:21Z	True	0	0				0
+2229	Pierre blanche	2000	Pierre blanche	Pierre blanche		2025-02-14T19:34:18Z	False	16693	0	Shouldn't this be grouped under stone?	Designer		0
+2228	Pierre	2000	Pierre	Stone		2024-08-01T00:39:21Z	True	0	0				0
+2227	Piedra Teselas	2000	Piedra Teselas	Stone: Tiles		2024-08-01T00:39:21Z	True	0	0				0
+2226	Piedra Serpentina	2000	Piedra Serpentina	Stone: Serpentina		2024-08-01T00:39:21Z	True	0	0				0
+2225	Piedra Plomo	2000	Piedra Plomo	Stone: Lead		2024-08-01T00:39:21Z	True	0	0				0
+2224	Piedra Pizarra	2000	Piedra Pizarra	Stone: Pizarra		2024-08-01T00:39:21Z	True	0	0				0
+2223	Piedra Ónice	2000	Piedra Ónice	Stone: Onyx		2024-08-01T00:39:21Z	True	0	0				0
+2222	Piedra Mármol	2000	Piedra Mármol	Stone: Marble		2024-08-01T00:39:21Z	True	0	0				0
+2221	Piedra Marfil	2000	Piedra Marfil	Stone, Ivory		2024-08-01T00:39:21Z	True	0	0				0
+2220	Stone: Schist	2000	Schist	Stone: Schist	https://www.eagle-network.eu/voc/material/lod/32	2025-02-14T19:34:18Z	False	16683	42		simona		2258
+2219	Piedra Jaspe	2000	Piedra Jaspe	Stone, Jaspe		2024-08-01T00:39:21Z	True	0	0				0
+2218	Stone: Greywacke	2000	Greywacke	Stone: Greywacke	https://www.eagle-network.eu/voc/material/lod/736	2025-02-14T19:34:18Z	False	16704	4		simona		2258
+2217	Piedra Granito	2000	Piedra Granito	Stone: Granite		2024-08-01T00:39:21Z	True	0	0				0
+2216	Piedra Gneis	2000	Piedra Gneis	Stone: Gneiss		2024-08-01T00:39:21Z	True	0	0				0
+2215	Piedra Estuco	2000	Piedra Estuco	Stone, Stucco		2024-08-01T00:39:21Z	True	0	0				0
+2214	Piedra Esquisto / Pizarra	2000	Piedra Esquisto / Pizarra	Stone: Esquisto / Pizarra		2024-08-01T00:39:21Z	True	0	0				0
+2213	Stone: Quartzite	2000	Quartzite	Stone: Quartzite	https://www.eagle-network.eu/voc/material/lod/51	2024-08-01T00:39:21Z	False	0	77				2258
+2212	Piedra Conglomerado	2000	Piedra Conglomerado	Stone: Conglomerate		2024-08-01T00:39:21Z	True	0	0				0
+2211	Piedra Caliza, calcárea	2000	Piedra Caliza, calcárea	Stone: Limestone, calcareous		2024-08-01T00:39:21Z	True	0	0				0
+2210	Piedra caliza	2000	Piedra caliza	Stone: Limestone		2024-08-01T00:39:21Z	True	0	0				0
+2209	Piedra Bronce	2000	Piedra Bronce	Stone, Bronze		2024-08-01T00:39:21Z	True	0	0				0
+2208	Piedra Arenisca	2000	Piedra Arenisca	Stone: Arenisca		2024-08-01T00:39:21Z	True	0	0				0
+2207	Piedra Amatista	2000	Piedra Amatista	Mineral: Amethyst		2024-08-01T00:39:21Z	True	0	0				0
+2206	Piedra Alabastro	2000	Piedra Alabastro	Stone: Alabastro		2024-08-01T00:39:21Z	True	0	0				0
+2205	Piedra	2000	Piedra	Stone		2024-08-01T00:39:21Z	True	0	0				0
+2204	Pennant sandstone	2000	Pennant sandstone	Stone: Sandstone, Pennant		2024-08-01T00:39:21Z	True	0	0				0
+2203	Pâte de verre	2000	Pâte de verre	Glass, molten		2024-08-01T00:39:21Z	True	0	0				0
+2202	Other	2000	Other	Other		2024-08-01T00:39:21Z	True	0	0				0
+2201	Oro	2000	Oro	Metal: gold		2024-08-01T00:39:21Z	True	0	0				0
+2200	Oolitic limestone	2000	Oolitic limestone	Stone: Limestone: Oolitic		2024-08-01T00:39:21Z	True	0	0				0
+2199	Stone: Oolitic Limestone	2000	Oolitic Limestone	Stone: Oolitic Limestone	https://www.eagle-network.eu/voc/material/lod/70	2025-02-14T19:34:18Z	False	16699	269		Designer		2258
+2198	Oolith	2000	Oolith	Oolith		2024-08-01T00:39:21Z	True	0	0				0
+2197	Oolite	2000	Oolite	Stone: Oolite		2024-08-01T00:39:21Z	True	0	0				0
+2196	Onyx, Gold	2000	Onyx, Gold	Mineral: Onyx, Gold		2024-08-01T00:39:21Z	True	0	0				0
+2195	Mineral: Onyx	2000	Onyx	Mineral: Onyx	https://www.eagle-network.eu/voc/material/lod/95	2025-02-14T19:34:18Z	False	16666	18		Designer		2392
+2194	Oak	2000	Oak	Wood: Oak		2024-08-01T00:39:21Z	True	0	0				0
+2193	Muschelkalk	2000	Muschelkalk	Shell		2024-08-01T00:39:21Z	True	0	0				0
+2192	mural	2000	mural	mural		2024-08-01T00:39:21Z	True	0	0				0
+2191	Stone: Mudstone	2000	Mudstone	Stone: Mudstone	https://www.eagle-network.eu/voc/material/lod/55	2025-02-14T19:34:18Z	False	16681	8		Designer		2258
+2190	Stone: Sedimentary	2000	Sedimentary	Stone: Sedimentary	https://www.eagle-network.eu/voc/material/lod/55	2024-08-01T00:39:21Z	False	0	8		Designer		2258
+2189	Stone: Millstone grit	2000	Millstone grit	Stone: Millstone grit	https://www.eagle-network.eu/voc/material/lod/2	2025-02-14T19:34:18Z	False	16740	48		Designer		2258
+2188	Micaceous sandstone	2000	Micaceous sandstone	Stone: Sandstone, Micaceous		2024-08-01T00:39:21Z	True	0	0				0
+2187	Stone: Metamorphic rock	2000	Metamorphic rock	Stone: Metamorphic rock	https://www.eagle-network.eu/voc/material/lod/33	2024-08-01T00:39:21Z	False	0	8				2258
+2186	metamorphe Gesteine	2000	metamorphe Gesteine	Stone: Metamorphic rock		2024-08-01T00:39:21Z	True	0	0				0
+2185	Metalle	2000	Metalle	Metal		2024-08-01T00:39:21Z	True	0	0				0
+2184	Metal Plomo	2000	Metal Plomo	Metal: Lead		2024-08-01T00:39:21Z	True	0	0				0
+2183	Metal Plata	2000	Metal Plata	Metal: Silver		2024-08-01T00:39:21Z	True	0	0				0
+2182	Metal Oro	2000	Metal Oro	Metal: Gold		2024-08-01T00:39:21Z	True	0	0				0
+2181	Metal Mármol	2000	Metal Mármol	Metal: Marble		2024-08-01T00:39:21Z	True	0	0				0
+2180	Metal Latón	2000	Metal Latón	Metal: Brass		2024-08-01T00:39:21Z	True	0	0				0
+2179	Metal Granito	2000	Metal Granito	Metal, Granite		2024-08-01T00:39:21Z	True	0	0				0
+2178	Metal Cobre	2000	Metal Cobre	Metal: Copper		2024-08-01T00:39:21Z	True	0	0				0
+2177	Metal Bronce	2000	Metal Bronce	Metal: Bronze		2024-08-01T00:39:21Z	True	0	0				0
+2176	metal, sandstone	2000	metal, sandstone	metal, sandstone		2025-02-14T19:34:18Z	True	16682	0				0
+2175	metal, limestone	2000	metal, limestone	metal, limestone		2024-08-01T00:39:21Z	True	0	0				0
+2174	Metal	2000	Metal	Metal	https://www.eagle-network.eu/voc/material/lod/107	2025-02-14T19:34:18Z	False	16631	115				0
+2173	Metal: Brass	2000	Brass	Metal: Brass	https://www.eagle-network.eu/voc/material/lod/114	2025-02-14T19:34:18Z	False	16646	12		Designer		2174
+2172	Marmor?	2000	Marmor?	Stone: Marble?		2024-08-01T00:39:21Z	True	0	0				0
+2171	Marmor, weiß	2000	Marmor, weiß	Stone: Marble, white		2024-08-01T00:39:21Z	True	0	0				0
+2170	Marmor, schwarz	2000	Marmor, schwarz	Stone: Marble, black		2024-08-01T00:39:21Z	True	0	0				0
+2169	Marmor, geädert/farbig	2000	Marmor, geädert/farbig	Stone: Marble, veined/colored		2024-08-01T00:39:21Z	True	0	0				0
+2168	Marmor, geädert / farbig	2000	Marmor, geädert / farbig	Stone: Marble, veined/colored		2024-08-01T00:39:21Z	True	0	0				0
+2167	Marmor geädert / farbig	2000	Marmor geädert / farbig	Stone: Marble, veined/colored		2024-08-01T00:39:21Z	True	0	0				0
+2166	Marmor (Farbe unbestimmt)	2000	Marmor (Farbe unbestimmt)	Stone: Marble, color unknown		2024-08-01T00:39:21Z	True	0	0				0
+2165	marmor	2000	marmor	Stone: Marble		2024-08-01T00:39:21Z	True	0	0				0
+2164	Marbre (caract. : marbre gris)	2000	Marbre (caract. : marbre gris)	Stone: Marble (caract. : marbre gris)		2024-08-01T00:39:21Z	True	0	0				0
+2163	Marbre (caract. : marbre gris des Pyrénées (Jullian))	2000	Marbre (caract. : marbre gris d	Stone: Marble (caract. : marbre gris des Pyrénées (Jullian))		2024-08-01T00:39:21Z	True	0	0				0
+2162	Marbre (caract. : Marbre gris des Pyrénées : Jullian ; Braemer 1969, p. 96-99)	2000	Marbre (caract. : Marbre gris d	Stone: Marble (caract. : Marbre gris des Pyrénées : Jullian ; Braemer 1969, p. 96-99)		2024-08-01T00:39:21Z	True	0	0				0
+2161	Marbre (caract. : Marbre blanc)	2000	Marbre (caract. : Marbre blanc)	Stone: Marble (caract. : Marbre blanc)		2024-08-01T00:39:21Z	True	0	0				0
+2160	Marbre (caract. : Marbre blanc à veines grises)	2000	Marbre (caract. : Marbre blanc 	Stone: Marble (caract. : Marbre blanc à veines grises)		2024-08-01T00:39:21Z	True	0	0				0
+2159	Stone: Marble	2000	Marble	Stone: Marble	https://www.eagle-network.eu/voc/material/lod/48	2025-02-14T19:34:18Z	False	16679	5356		Designer		2258
+2158	Marbre	2000	Marbre	Stone: Marble		2024-08-01T00:39:21Z	True	0	0				0
+2157	Marble	2000	Marble	Stone: Marble		2024-08-01T00:39:21Z	True	0	0				0
+2156	Stone: Magmatic rock	2000	Magmatic rock	Stone: Magmatic rock	https://www.eagle-network.eu/voc/material/lod/6	2024-08-01T00:39:21Z	False	0	3		Designer		2258
+2155	Madera	2000	Madera	Wood		2024-08-01T00:39:21Z	True	0	0				0
+2154	Lothringer Freestone from eastern France ( 419)	2000	Lothringer Freestone from easte	Stone: Lothringer Freestone		2024-08-01T00:39:21Z	True	0	0				0
+2153	Stone: Local stone	2000	Local stone	Stone: Local	https://www.eagle-network.eu/voc/material/lod/2	2024-08-01T00:39:21Z	False	0	36		simona		2258
+2152	Stone: Limestone	2000	Limestone	Stone: Limestone		2025-02-14T19:34:18Z	True	16678	0				0
+2151	Light-coloured sandstone	2000	Light-coloured sandstone	Stone: Sandstone, Light-coloured		2024-08-01T00:39:21Z	True	0	0				0
+2150	Lehm	2000	Lehm	Clay		2024-08-01T00:39:21Z	True	0	0				0
+2149	Leather	2000	Leather	Leather	https://www.eagle-network.eu/voc/material/lod/125	2025-02-14T19:34:18Z	False	16630	92		Designer		0
+2148	Leaden	2000	Leaden	Metal: Leaden		2024-08-01T00:39:21Z	True	0	0				0
+2147	Metal: Lead	2000	Lead	Metal: Lead	https://www.eagle-network.eu/voc/material/lod/108	2025-02-14T19:34:18Z	False	16651	2131		Designer		2174
+2146	Stone: Volcanic	2000	Volcanic	Stone: Volcanic		2025-02-14T19:34:18Z	False	16677	32				2258
+2145	lapis, tiburtinus	2000	lapis, tiburtinus	lapis, tiburtinus		2024-08-01T00:39:21Z	True	0	0				0
+2144	Kupfer, Zinn	2000	Kupfer, Zinn	Metal: Copper, Tin		2024-08-01T00:39:21Z	True	0	0				0
+2143	Kupfer	2000	Kupfer	Metal: Copper		2024-08-01T00:39:21Z	True	0	0				0
+2142	Konglomerat, Blei	2000	Konglomerat, Blei	Stone: Conglomerate, Lead		2024-08-01T00:39:21Z	True	0	0				0
+2141	Stone: Conglomerate	2000	Conglomerate	Stone: Conglomerate	https://www.eagle-network.eu/voc/material/lod/74	2024-08-01T00:39:21Z	False	0	83				2258
+2140	Kohlenkalk, Marmor	2000	Kohlenkalk, Marmor	Stone: Marble, Carboniferous		2024-08-01T00:39:21Z	True	0	0				0
+2139	Knochen	2000	Knochen	Bone		2024-08-01T00:39:21Z	True	0	0				0
+2138	Karneol	2000	Karneol	Mineral: Carnelian		2024-08-01T00:39:21Z	True	0	0				0
+2137	Stone: Travertine	2000	Travertine	Stone: Travertine	https://www.eagle-network.eu/voc/material/lod/71	2025-02-14T19:34:18Z	False	16690	3				2258
+2136	Kalksteine	2000	Kalksteine	Stone: Limestone		2024-08-01T00:39:21Z	True	0	0				0
+2135	Kalkstein?	2000	Kalkstein?	Stone: Limestone?		2024-08-01T00:39:21Z	True	0	0				0
+2134	Kalkstein	2000	Kalkstein	Stone: Limestone		2024-08-01T00:39:21Z	True	0	0				0
+2133	Mineral: Jasper	2000	Jasper	Mineral: Jasper	https://www.eagle-network.eu/voc/material/lod/89	2025-02-14T19:34:18Z	False	16663	15		Designer		2392
+2132	Indéterminé	2000	Indéterminé	(undetermined)		2024-08-01T00:39:21Z	True	0	0				0
+2131	Inconnu	2000	Inconnu	(unknown)		2024-08-01T00:39:21Z	True	0	0				0
+2130	Imported white marble	2000	Imported white marble	Stone: Marble, white, imported		2024-08-01T00:39:21Z	True	0	0				0
+2129	Hueso, Terra sigillata	2000	Hueso, Terra sigillata	Hueso, Terra sigillata		2024-08-01T00:39:21Z	True	0	0				0
+2128	Hueso Marfil	2000	Hueso Marfil	Bone Ivory		2024-08-01T00:39:21Z	True	0	0				0
+2127	Bone	2000	Bone	Bone	https://www.eagle-network.eu/voc/material/lod/124	2025-02-14T19:34:18Z	False	16624	528		Designer		0
+2126	Holz	2000	Holz	Wood		2024-08-01T00:39:21Z	True	0	0				0
+2125	Stone: Gritstone	2000	Gritstone	Stone: Gritstone	https://www.eagle-network.eu/voc/material/lod/2	2025-02-14T19:34:18Z	False	16676	70		simona		2258
+2124	Greyish sandstone	2000	Greyish sandstone	Stone: Sandstone, Greyish		2024-08-01T00:39:21Z	True	0	0				0
+2123	Stone: Grey schist	2000	Grey schist	Stone: Grey schist	https://www.eagle-network.eu/voc/material/lod/52	2025-02-14T19:34:18Z	False	16683	4		simona		2258
+2122	Grey sandstone	2000	Grey sandstone	Stone: Sandstone, Grey		2024-08-01T00:39:21Z	True	0	0				0
+2121	Grès	2000	Grès	Stone: Sandstone		2024-08-01T00:39:21Z	True	0	0				0
+2120	Green sandstone	2000	Green sandstone	Stone: Sandstone, Green		2024-08-01T00:39:21Z	True	0	0				0
+2119	Green marble	2000	Green marble	Stone: Marble, Green		2024-08-01T00:39:21Z	True	0	0				0
+2118	Granito (?)	2000	Granito (?)	Stone: Granite (?)		2024-08-01T00:39:21Z	True	0	0				0
+2117	Granito	2000	Granito	Stone: Granite		2024-08-01T00:39:21Z	True	0	0				0
+2116	Granite Pierre volcanique	2000	Granite Pierre volcanique	Stone: Granite Pierre volcanique		2024-08-01T00:39:21Z	True	0	0				0
+2115	Granite	2000	Granite	Stone: Granite		2024-08-01T00:39:21Z	True	0	0				0
+2114	Granit?	2000	Granit?	Stone: Granite?		2024-08-01T00:39:21Z	True	0	0				0
+2113	Stone: Granite	2000	Granite	Stone: Granite	https://www.eagle-network.eu/voc/material/lod/11	2025-02-14T19:34:18Z	False	16675	2866		Designer		2258
+2112	Gold, Gesteine	2000	Gold, Gesteine	Metal: Gold, Rocks		2024-08-01T00:39:21Z	True	0	0				0
+2111	Metal: Gold	2000	Gold	Metal: Gold	https://www.eagle-network.eu/voc/material/lod/112	2025-02-14T19:34:18Z	False	16649	261		Designer		2174
+2110	Stone: Gneiss	2000	Gneiss	Stone: Gneisss	https://www.eagle-network.eu/voc/material/lod/37	2024-08-01T00:39:21Z	False	0	7		Designer		2258
+2109	Glass	2000	Glass	Glass	https://www.eagle-network.eu/voc/material/lod/122	2025-02-14T19:34:18Z	False	16626	456		Designer		0
+2108	Gilt bronze	2000	Gilt bronze	Metal: Bronze: Gilt		2024-08-01T00:39:21Z	True	0	0				0
+2107	Gesteine?	2000	Gesteine?	Rock?		2024-08-01T00:39:21Z	True	0	0				0
+2106	Gesteine, Ton	2000	Gesteine, Ton	Rocks, Clay		2024-08-01T00:39:21Z	True	0	0				0
+2105	Gesteine unbestimmt	2000	Gesteine unbestimmt	Rock, undetermined		2024-08-01T00:39:21Z	True	0	0				0
+2104	Stone: Rock	2000	Rock	Stone: Rock	https://www.eagle-network.eu/voc/material/lod/1	2025-02-14T19:34:18Z	False	16636	891		Designer		2258
+2103	Stone: Freestone	2000	Freestone	Stone: Freestone		2025-02-14T19:34:18Z	False	16721	6		Designer		2258
+2102	Fine gritstone	2000	Fine gritstone	Stone: Gritstone: Fine		2024-08-01T00:39:21Z	True	0	0				0
+2101	Fer	2000	Fer	Metal: Iron		2024-08-01T00:39:21Z	True	0	0				0
+2100	Stucco	2000	Stucco	Stucco	https://www.eagle-network.eu/voc/material/lod/126	2024-08-01T00:39:21Z	False	0	2				0
+2099	Enduit peint	2000	Enduit peint	Painted plaster		2024-08-01T00:39:21Z	True	0	0				0
+2098	Elfenbein?	2000	Elfenbein?	Ivory?		2024-08-01T00:39:21Z	True	0	0				0
+2097	Eisen, Jaspis	2000	Eisen, Jaspis	Metal: Iron, Jasper		2024-08-01T00:39:21Z	True	0	0				0
+2096	Metal: Iron	2000	Iron	Metal: Iron	https://www.eagle-network.eu/voc/material/lod/111	2025-02-14T19:34:18Z	False	16650	115		Designer		2174
+2095	Stone: Domite	2000	Domite	Stone: Domite	https://www.eagle-network.eu/voc/material/lod/83	2024-08-01T00:39:21Z	False	0	2		simona		2258
+6481	Vessel: Basin	6000	Basin	Vessel: Basin	https://www.eagle-network.eu/voc/objtyp/lod/144	2024-08-01T00:39:21Z	False	0	7		Designer		6397
+6480	Baluster	6000	Baluster	Baluster	https://www.eagle-network.eu/voc/objtyp/lod/1851	2024-08-01T00:39:21Z	False	0	0		Designer		0
+6479	Vessel: Dolium	6000	Dolium	Vessel: Dolium	https://www.eagle-network.eu/voc/objtyp/lod/116	2024-08-01T00:39:21Z	False	0	10		Designer		6397
+2443	Pebble	2000	Pebble	Pebble		2024-11-22T18:54:49Z	False	0	1		Designer		0
+2442	Stone: Arkose	2000	Arkose	Stone: Arkose		2024-08-01T00:39:21Z	False	0	1				2258
+5018	Recueil des inscriptions gauloises	5000	RIG	Recueil des inscriptions gauloises		2024-08-01T00:39:21Z	False	0	0		Designer		0
+4027	Recueil des inscriptions gauloises	4000	RIG	Recueil des inscriptions gauloises		2024-08-01T00:39:21Z	False	0	1				0
+10040	(unknown)	10000	(unknown)	(unknown)		2024-08-01T00:39:21Z	False	0	0		Designer		0
+10039	(not assigned)	10000	(not assigned)	(not assigned)		2024-08-01T00:39:21Z	False	0	0		Designer		0
+2441	Mortar	2000	Mortar	Mortar		2024-08-01T00:39:21Z	False	0	2		Designer		0
+1913	Catalan	1000	ca	Catalan		2024-08-01T00:39:21Z	False	0	0		Designer		0
+1912	South-western	1000	South-western	South-western		2024-08-01T00:39:21Z	False	0	11		Designer		0
+6478	Anchor	6000	Anchor	Anchor	https://www.eagle-network.eu/voc/objtyp/lod/27	2024-08-01T00:39:21Z	False	0	3		Designer		0
+6477	Antefix	6000	Antefix	Antefix	https://www.eagle-network.eu/voc/objtyp/lod/28	2025-02-14T19:34:18Z	False	17391	4		Designer		0
+2094	Desconocido	2000	Desconocido	(unknown)		2024-08-01T00:39:21Z	True	0	0				0
+2093	Cream-coloured sandstone	2000	Cream-coloured sandstone	Stone: Sandstone, Cream		2024-08-01T00:39:21Z	True	0	0				0
+2092	Cream-coloured Manley sandstone	2000	Cream-coloured Manley sandstone	Stone: Sandstone, Cream Manley		2024-08-01T00:39:21Z	True	0	0				0
+2091	Cream Keuper sandstone	2000	Cream Keuper sandstone	Stone: Sandstone, Cream Keuper		2024-08-01T00:39:21Z	True	0	0				0
+2090	Mineral: Cornaline	2000	Cornaline	Mineral: Cornaline	https://www.eagle-network.eu/voc/material/lod/92	2025-09-25T19:57:56Z	False	16659	16		Designer		2392
+2089	Metal: Copper	2000	Copper	Metal: Copper	https://www.eagle-network.eu/voc/material/lod/113	2025-02-14T19:34:18Z	False	16648	117		Designer		2174
+2088	Stone: Coombe Crag	2000	Coombe Crag	Stone: Coombe Crag	https://www.eagle-network.eu/voc/material/lod/2	2024-08-01T00:39:21Z	True	0	0				0
+2087	Coarse red sandstone	2000	Coarse red sandstone	Stone: Sandstone, Coarse red		2024-08-01T00:39:21Z	True	0	0				0
+2086	Ceramic/Clay	2000	Ceramic/Clay	Ceramic/Clay	https://www.eagle-network.eu/voc/material/lod/131	2025-02-14T19:34:18Z	True	16642	0	[AM]: Given the likelihood that "Clay" is very often used in some parts of the Continent where in Britain "Ceramic" would be used, it seems safest to create a new top-level category "Ceramic/Clay" which contains all "Ceramic" and "Clay".	Designer		0
+2085	Céramique (caract. : Céramique sigillée)	2000	Céramique (caract. : Céramique 	Céramique (caract. : Céramique sigillée)		2024-08-01T00:39:21Z	True	0	0				0
+2084	Céramique (caract. : Céramique sigillée (Montans))	2000	Céramique (caract. : Céramique 	Céramique (caract. : Céramique sigillée (Montans))		2024-08-01T00:39:21Z	True	0	0				0
+2083	Céramique (caract. : Céramique savonneuse)	2000	Céramique (caract. : Céramique 	Céramique (caract. : Céramique savonneuse)		2024-08-01T00:39:21Z	True	0	0				0
+2082	Céramique (caract. : Céramique fine)	2000	Céramique (caract. : Céramique 	Céramique (caract. : Céramique fine)		2024-08-01T00:39:21Z	True	0	0				0
+2081	Céramique (caract. : Céramique commune)	2000	Céramique (caract. : Céramique 	Ceramic		2025-02-14T19:34:18Z	True	16625	0				0
+2080	Céramique (caract. : Céramique commune grise)	2000	Céramique (caract. : Céramique 	Céramique (caract. : Céramique commune grise)		2024-08-01T00:39:21Z	True	0	0				0
+2079	Céramique (caract. : Céramique arétine)	2000	Ceramic: Aretine	Ceramic: Aretine		2025-02-14T19:34:18Z	True	16625	0				0
+2078	Céramique (caract. : (Céramique à parois fines)	2000	Céramique (caract. : (Céramique	Céramique (caract. : (Céramique à parois fines)		2024-08-01T00:39:21Z	True	0	0				0
+2077	Ceramic: grey ware	2000	Ceramic: grey ware	Ceramic: grey ware	https://www.eagle-network.eu/voc/material/lod/131	2025-02-14T19:34:18Z	False	16625	543				2313
+2076	Céramique	2000	Céramique	Céramique		2024-08-01T00:39:21Z	True	0	0				0
+2075	Cerámica	2000	Cerámica	Cerámica		2024-08-01T00:39:21Z	True	0	0				0
+2074	Caliza (caract.: gris)	2000	Caliza (caract.: gris)	Stone: Limestone (caract.: gris)		2024-08-01T00:39:21Z	True	0	0				0
+2073	Caliza	2000	Caliza	Stone: Sandstone, Calcareous		2024-08-01T00:39:21Z	True	0	0				0
+2072	Calcareous sandstone	2000	Calcareous sandstone	Stone: Sandstone, Calcareous		2024-08-01T00:39:21Z	True	0	0				0
+2071	Calcaire (caract. : coquillier)	2000	Calcaire (caract. : coquillier)	Stone: Limestone (caract. : coquillier)		2024-08-01T00:39:21Z	True	0	0				0
+2070	Calcaire (caract. : calcaire tendre.)	2000	Calcaire (caract. : calcaire te	Stone: Limestone (caract. : calcaire tendre.)		2024-08-01T00:39:21Z	True	0	0				0
+2069	Calcaire (caract. : calcaire local très friable.)	2000	Calcaire (caract. : calcaire lo	Stone: Limestone (caract. : calcaire local très friable.)		2024-08-01T00:39:21Z	True	0	0				0
+2068	Calcaire (caract. : Calcaire gréseux ; la surface de la pierre est très rugueuse)	2000	Calcaire (caract. : Calcaire gr	Stone: Limestone (caract. : Calcaire gréseux ; la surface de la pierre est très rugueuse)		2024-08-01T00:39:21Z	True	0	0				0
+2067	Calcaire (caract. : calcaire dur)	2000	Calcaire (caract. : calcaire du	Stone: Limestone (caract. : calcaire dur)		2024-08-01T00:39:21Z	True	0	0				0
+2066	Calcaire (caract. : Calcaire dur à grain fin)	2000	Calcaire (caract. : Calcaire du	Stone: Limestone (caract. : Calcaire dur à grain fin)		2024-08-01T00:39:21Z	True	0	0				0
+2065	Calcaire (caract. : Calcaire de Saint-Savinien (Charente-Maritime), d’après Jouannet)	2000	Calcaire (caract. : Calcaire de	Stone: Limestone (caract. : Calcaire de Saint-Savinien (Charente-Maritime), d’après Jouannet)		2024-08-01T00:39:21Z	True	0	0				0
+2064	Calcaire (caract. : Calcaire de l'Entre-deux-Mers)	2000	Calcaire (caract. : Calcaire de	Stone: Limestone (caract. : Calcaire de l'Entre-deux-Mers)		2024-08-01T00:39:21Z	True	0	0				0
+2063	Stone: Limestone	2000	Limestone	Stone: Limestone	https://www.eagle-network.eu/voc/material/lod/66	2025-02-14T19:34:18Z	False	16678	5955		Designer		2258
+2062	Calcaire (caract. : calcaire coquillier)	2000	Calcaire (caract. : calcaire co	Stone: Limestone (caract. : calcaire coquillier)		2024-08-01T00:39:21Z	True	0	0				0
+2061	Calcaire (caract. : Calcaire coquillier blanc)	2000	Calcaire (caract. : Calcaire co	Stone: Limestone (caract. : Calcaire coquillier blanc)		2024-08-01T00:39:21Z	True	0	0				0
+2060	Calcaire (caract. : Calcaire à astéries de l’Entre-Deux-Mers (probable))	2000	Calcaire (caract. : Calcaire à 	Stone: Limestone (caract. : Calcaire à astéries de l’Entre-Deux-Mers (probable))		2024-08-01T00:39:21Z	True	0	0				0
+2059	Calcaire (caract. : Calcaire à astéries de l’Entre-Deux-Mers (Gironde))	2000	Calcaire (caract. : Calcaire à 	Stone: Limestone (caract. : Calcaire à astéries de l’Entre-Deux-Mers (Gironde))		2024-08-01T00:39:21Z	True	0	0				0
+2058	Calcaire (caract. : calcaire “de la Charente”, écrit Jouannet, ce qui n'est pas une absolue garantie de l'origine du matériau (voir le n° 31))	2000	Calcaire "de la Charente"	Stone: Limestone "de la Charente"		2024-08-01T00:39:21Z	True	0	0				0
+2057	Calcaire (caract. : (Calcaire à astéries de l'Entre-deux-Mers (Gironde))	2000	Calcaire (caract. : (Calcaire à	Stone: Limestone (caract. : (Calcaire à astéries de l'Entre-deux-Mers (Gironde))		2024-08-01T00:39:21Z	True	0	0				0
+2056	Calcaire (?)	2000	Calcaire (?)	Stone: Sandstone, calcareous (?)		2024-08-01T00:39:21Z	True	0	0				0
+2055	Stone: Calcareous Sandstone	2000	Calcareous Sandstone	Stone: Calcareous Sandstone	https://www.eagle-network.eu/voc/material/lod/57	2024-08-01T00:39:21Z	False	0	51		Designer		2245
+2054	Buff sandstone	2000	Buff sandstone	Stone: Buff sandstone		2024-08-01T00:39:21Z	True	0	0				0
+2053	Buff magnesian limestone	2000	Buff magnesian limestone	Stone: Limestone, magnesian, Buff 		2024-08-01T00:39:21Z	True	0	0				0
+2052	Buff gritstone	2000	Buff gritstone	Stone: Buff gritstone		2024-08-01T00:39:21Z	True	0	0				0
+2051	Broze	2000	Broze	Broze		2024-08-01T00:39:21Z	True	0	0				0
+2050	Bronze?	2000	Bronze?	Metal: Bronze?		2024-08-01T00:39:21Z	True	0	0				0
+2049	Bronze, Zinn?, Silber?	2000	Bronze, Zinn?, Silber?	Metal: Bronze, Tin?, Silver?		2024-08-01T00:39:21Z	True	0	0				0
+2048	Bronze, Zinn	2000	Bronze, Zinn	Metal: Bronze, Tin		2024-08-01T00:39:21Z	True	0	0				0
+2047	Bronze, Silber, Gold	2000	Bronze, Silber, Gold	Metal: Bronze, Silver, Gold		2024-08-01T00:39:21Z	True	0	0				0
+2046	Bronze, Silber	2000	Bronze, Silber	Metal: Bronze, Silver		2024-08-01T00:39:21Z	True	0	0				0
+2045	Bronze, Kalkstein	2000	Bronze, Kalkstein	Metal: Bronze, Limestone		2024-08-01T00:39:21Z	True	0	0				0
+2044	Bronze, Gold, Sandstein	2000	Bronze, Gold, Sandstein	Metal: Bronze, Gold, Sandstone		2024-08-01T00:39:21Z	True	0	0				0
+2043	Ceramic: Rhenish ware	2000	Rhenish ware	Ceramic: Rhenish ware		2025-02-14T19:34:18Z	True	16689	0		Designer		2313
+2042	Bronze, Gold	2000	Bronze, Gold	Metal: Bronze, Gold		2024-08-01T00:39:21Z	True	0	0				0
+2041	Bronze, gilded	2000	Bronze, gilded	Metal: Bronze, gilded		2024-08-01T00:39:21Z	True	0	0				0
+2040	Bronze, Emaille	2000	Bronze, Emaille	Metal: Bronze, enamel		2024-08-01T00:39:21Z	True	0	0				0
+2039	Bronze, Eisen, Silber	2000	Bronze, Eisen, Silber	Metal: Bronze, Iron, Silver		2024-08-01T00:39:21Z	True	0	0				0
+2038	Bronze, Eisen	2000	Bronze, Eisen	Metal: Bronze, Iron		2024-08-01T00:39:21Z	True	0	0				0
+2037	Bronze, Blei	2000	Bronze, Blei	Metal: Bronze, Lead		2024-08-01T00:39:21Z	True	0	0				0
+2036	Metal: Bronze	2000	Bronze	Metal: Bronze	https://www.eagle-network.eu/voc/material/lod/109	2025-02-14T19:34:18Z	False	16647	2205		Designer		2174
+2035	Brekzie	2000	Brekzie	Stone: Breccia		2024-08-01T00:39:21Z	True	0	0				0
+2034	Brêche (caract. :brecha local)	2000	Brêche (caract. :brecha local)	Stone: Breccia (caract. :brecha local)		2024-08-01T00:39:21Z	True	0	0				0
+2033	Stone: Breccia	2000	Breccia	Stone: Breccia	https://www.eagle-network.eu/voc/material/lod/73	2024-08-01T00:39:21Z	False	0	43				2258
+2032	Wood	2000	Wood	Wood	https://www.eagle-network.eu/voc/material/lod/123	2025-02-14T19:34:18Z	False	16637	1932		Designer		0
+2031	Blei?	2000	Blei?	Metal: Lead?		2024-08-01T00:39:21Z	True	0	0				0
+2030	Blei, Zinn	2000	Blei, Zinn	Metal: Lead, tin		2024-08-01T00:39:21Z	True	0	0				0
+2029	Blei, Bronze, Gold, Kalkstein	2000	Blei, Bronze, Gold, Kalkstein	Metal: Lead, Bronze, Gold, Limestone		2024-08-01T00:39:21Z	True	0	0				0
+2028	Blei	2000	Blei	Metal: Lead		2025-02-14T19:34:18Z	True	16651	0				0
+2027	Bernstein, Gold	2000	Bernstein, Gold	Amber, Gold		2024-08-01T00:39:21Z	True	0	0				0
+2026	Stone: Bath stone	2000	Bath stone	Stone: Bath stone		2025-02-14T19:34:18Z	True	16699	0				0
+2025	Bath oolite	2000	Bath oolite	Stone: Bath oolite		2025-02-14T19:34:18Z	True	16699	0				0
+2024	Basalt; Sandstein	2000	Basalt; Sandstein	Stone: Basalt, Sandstone		2024-08-01T00:39:21Z	True	0	0				0
+2023	Basalt, Bronze	2000	Basalt, Bronze	Basalt, Bronze		2024-08-01T00:39:21Z	True	0	0				0
+2022	Stone: Basalt	2000	Basalt	Stone: Basalt	https://www.eagle-network.eu/voc/material/lod/16	2025-02-14T19:34:18Z	False	16672	40				2258
+2021	Barro Terra sigillata	2000	Barro Terra sigillata	Barro Terra sigillata		2024-08-01T00:39:21Z	True	0	0				0
+2020	Barro Estuco	2000	Barro Estuco	Barro Estuco		2024-08-01T00:39:21Z	True	0	0				0
+2019	Barro Cerámica	2000	Barro Cerámica	Barro Cerámica		2024-08-01T00:39:21Z	True	0	0				0
+2018	Barro Caliza, calcárea	2000	Barro Caliza, calcárea	Barro Caliza, calcárea		2024-08-01T00:39:21Z	True	0	0				0
+2017	Barro Arcilla	2000	Barro Arcilla	Clay		2025-02-14T19:34:18Z	True	16642	0				0
+2016	Barro	2000	Barro	Clay		2024-08-01T00:39:21Z	True	0	0				0
+2015	Arkose	2000	Arkose	Stone: Sandstone, Arkose		2024-08-01T00:39:21Z	True	0	0				0
+2014	Argile	2000	Argile	Clay		2025-02-14T19:34:18Z	True	16642	0				0
+2013	Argent Argile	2000	Argent Argile	Clay, Silver		2025-02-14T19:34:18Z	True	16642	0				0
+2012	Argent	2000	Argent	Metal: Silver		2025-02-14T19:34:18Z	True	16653	0				0
+2011	Arenisca (caract. : Arenisca de color rojizo oscuro)	2000	Arenisca (caract. : Arenisca de	Arenisca (caract. : Arenisca de color rojizo oscuro)		2024-08-01T00:39:21Z	True	0	0				0
+2010	Arenisca	2000	Arenisca	Stone: Sandstone		2024-08-01T00:39:21Z	True	0	0				0
+2009	Arcilla Terra sigillata	2000	Arcilla Terra sigillata	Arcilla Terra sigillata		2024-08-01T00:39:21Z	True	0	0				0
+2008	Arcilla, Oro	2000	Arcilla, Oro	Arcilla, Oro		2024-08-01T00:39:21Z	True	0	0				0
+2007	Arcilla Cerámica	2000	Arcilla Cerámica	Arcilla Cerámica		2024-08-01T00:39:21Z	True	0	0				0
+2006	Arcilla	2000	Arcilla	Clay		2024-08-01T00:39:21Z	True	0	0				0
+2005	Stone: Aplit	2000	Aplit	Stone: Aplite	https://www.eagle-network.eu/voc/material/lod/7	2025-02-14T19:34:18Z	False	16693	1		Designer		2258
+2004	alabastro	2000	alabastro	Stone: alabastro		2024-08-01T00:39:21Z	True	0	0				0
+2003	'Rotherham Red' sandstone	2000	'Rotherham Red' sandstone	Stone: Sandstone, Rotherham Red		2024-08-01T00:39:21Z	True	0	0				0
+2002	'Black marble'	2000	Black marble	Stone: Marble, Black		2024-08-01T00:39:21Z	True	0	0				0
+2001	(not assigned)	2000	(not assigned)	(not assigned)		2024-08-01T00:39:21Z	True	0	0				0
+1911	Portugese	1000	pt	Portugese		2024-08-01T00:39:21Z	False	0	0		Designer		0
+1910	Arabic	1000	ara	Arabic		2024-08-01T00:39:21Z	False	0	0		Designer		0
+1909	Dutch	1000	nl	Dutch		2024-08-01T00:39:21Z	False	0	0				0
+1908	Welsh	1000	cym	Welsh		2024-08-01T00:39:21Z	False	0	0		Designer		0
+1907	French	1000	fr	French		2024-08-01T00:39:21Z	False	0	0				0
+1906	Basque	1000	eu	Basque		2024-08-01T00:39:21Z	False	0	0				0
+1905	Slovenian	1000	sl	Slovenian		2024-08-01T00:39:21Z	False	0	0				0
+1904	Spanish	1000	es	Spanish		2024-08-01T00:39:21Z	False	0	0				0
+1903	Italian	1000	it	Italian		2024-08-01T00:39:21Z	False	0	0				0
+1902	German	1000	de	German		2024-08-01T00:39:21Z	False	0	0				0
+1901	English	1000	en	English		2024-08-01T00:39:21Z	False	0	0				0
+1401	(unknown)	1000	und	(unknown)		2024-08-01T00:39:21Z	False	0	386		Designer		0
+1400	(not assigned)	1000	(not assigned)	(not assigned)		2024-08-01T00:39:21Z	False	0	124		Designer		0
+1300	Non-Indo-European	1000		Non-Indo-European		2024-08-01T00:39:21Z	False	0	0				0
+1202	Old English	1000	ang	Old English		2025-02-14T19:34:18Z	False	16620	1		Designer		0
+1200	Indo-European	1000		Indo-European		2024-08-01T00:39:21Z	False	0	0				0
+1112	Turdetanian	1000	xtx	Turdetanian		2024-08-01T00:39:21Z	False	0	0				0
+1110	Tartessian	1000	txr	Tartessian		2024-08-01T00:39:21Z	False	0	7				0
+1108	Palmyrene	1000	amw	Palmyrene		2025-02-14T19:34:18Z	False	16621	1		Designer		1100
+1106	Phoenicio-Punic	1000	xpu	Phoenicio-Punic		2025-02-14T19:34:18Z	False	16619	313		Designer		1100
+1104	Phoenician	1000	phn	Phoenician		2025-02-14T19:34:18Z	False	16618	3		Designer		1100
+1102	Hebrew	1000	he	Hebrew		2025-02-14T19:34:18Z	False	16617	3		Designer		1100
+1100	Semitic	1000	sem	Semitic		2024-08-01T00:39:21Z	False	0	0				0
+1092	Dacian	1000	xdc	Dacian		2025-02-14T19:34:18Z	False	16592	0		Designer		0
+1091	Thracian	1000	txh	Thracian		2025-02-14T19:34:18Z	False	16597	0		Designer		0
+1090	Lusitanian	1000	xls	Lusitanian		2025-02-14T19:34:18Z	False	16596	24		Designer		0
+1084	Transalpine Gaulish (transcr. Greek)	1000	xtg-Grek	Transalpine Gaulish (transcr. Greek)		2024-08-01T00:39:21Z	True	0	0		Designer		0
+1082	Transalpine Gaulish (transcr. Latin)	1000	xtg-Latn	Transalpine Gaulish (transcr. Latin)		2024-08-01T00:39:21Z	True	0	0		Designer		0
+1080	Transalpine Gaulish	1000	xtg	Transalpine Gaulish		2025-02-14T19:34:18Z	False	16601	877		Designer		0
+1070	Raetic	1000	xrr	Raetic		2025-02-14T19:34:18Z	False	16613	164		Designer		0
+1062	Noric (transcr. Latin)	1000	nrc-Latn	Noric (transcr. Latin)		2025-02-14T19:34:18Z	True	16606	0		Designer		0
+1061	Noric (transcr. Italic)	1000	nrc-Ital	Noric (transcr. Italic)		2025-02-14T19:34:18Z	True	16605	0		Designer		0
+1060	Noric	1000	nrc	Noric		2025-02-14T19:34:18Z	False	16602	2		Designer		0
+1052	Umbrian	1000	xum	Umbrian		2024-08-01T00:39:21Z	False	0	0				0
+1051	Oscan	1000	osc	Oscan		2024-08-01T00:39:21Z	False	0	0				0
+1050	Latin	1000	la	Latin		2025-02-14T19:34:18Z	False	16607	148663		Designer		0
+1049	Italic	1000	itc	Italic		2024-08-01T00:39:21Z	False	0	0				0
+1047	Aquitanian	1000	xaq	Aquitanian		2024-08-01T00:39:21Z	False	0	64		Designer		0
+1046	Iberian (transcr. Latin)	1000	xib-Latn	Iberian (transcr. Latin)		2024-08-01T00:39:21Z	True	0	0		Designer		0
+1045	Iberian	1000	xib	Iberian		2024-08-01T00:39:21Z	False	0	1612		Designer		0
+1040	Greek	1000	grc	Greek		2025-02-14T19:34:18Z	False	16594	1519		Designer		0
+1035	Germanic	1000	gem	Germanic		2024-08-01T00:39:21Z	False	0	0				0
+1030	Etruscan	1000	ett	Etruscan		2025-02-14T19:34:18Z	False	16611	27		Designer		0
+1020	Coptic	1000	cop	Coptic		2025-02-14T19:34:18Z	False	16615	2		Designer		0
+1019	Afro-Asiatic	1000	afa	Afro-Asiatic		2024-08-01T00:39:21Z	False	0	0				0
+1018	Celtiberian (transcr. Latin)	1000	xce-Latn	Celtiberian (transcr. Latin)		2024-08-01T00:39:21Z	True	0	0		Designer		0
+1016	Palaeo-Hispanic	1000	xhi	Palaeo-Hispanic		2024-08-01T00:39:21Z	False	0	6	xhi is not an official ISO-639-3 code, but coined by us.	Designer		0
+1015	Celtiberian	1000	xce	Celtiberian		2024-08-01T00:39:21Z	False	0	276				0
+2440	Bone: Antler	2000	Antler	Bone: Antler		2024-08-01T00:39:21Z	False	0	1		Designer		2127
+4026	Punic-Zamora	4000	Zamora	Punic-Zamora		2024-08-01T00:39:21Z	False	0	0	Punic inscriptions	Designer		0
+5017	IGEP	5000	IGEP	IGEP		2024-08-01T00:39:21Z	False	0	0		Designer		0
+11222	(unknown)	11000	(unknown)	(unknown)		2024-08-01T00:39:21Z	False	0	17		Designer		0
+11221	(not assigned)	11000	(not assigned)	(not assigned)		2024-08-01T00:39:21Z	False	0	20		Designer		0
+4025	Inscripciones griegas de España y Portugal	4000	IGEP	Inscripciones griegas de España y Portugal		2024-08-01T00:39:21Z	False	0	0		Designer		0
+11031	Etruscan (Northern)	11000	Etruscan (Northern)	Etruscan (Northern)		2024-08-01T00:39:21Z	False	0	2		Designer		11030
+11032	Etruscan (Southern: Vulci-Tarquinia-Orvieto)	11000	Etruscan (Southern: Vulci-Tarqu	Etruscan (Southern: Vulci-Tarquinia-Orvieto)		2024-08-01T00:39:21Z	False	0	5		Designer		11030
+11033	Etruscan (Southern: Caere-Veii)	11000	Etruscan (Southern: Caere-Veii)	Etruscan (Southern: Caere-Veii)		2024-08-01T00:39:21Z	False	0	1		Designer		11030
+11034	Etruscan (Southern: Tarquinia)	11000	Etruscan (Southern: Tarquinia)	Etruscan (Southern: Tarquinia)		2024-08-01T00:39:21Z	False	0	1		Designer		11030
+11035	Etruscan (mixed/Central)	11000	Etruscan (mixed/Central)	Etruscan (mixed/Central)		2024-08-01T00:39:21Z	False	0	1		Designer		11030
+12017	Text with biscriptal phenomena: Transliteration	12000	Transliteration	Text with biscriptal phenomena: Transliteration		2025-02-14T19:34:18Z	False	16781	6		Designer		12007
+12018	Text with biscriptal phenomena: Graphic borrowing/code-switching	12000	Graphic borrowing/code-switchin	Text with biscriptal phenomena: Graphic borrowing/code-switching		2025-10-20T11:20:54Z	False	16779	31		Designer		12007
+12019	Text with bilingual phenomena: Code-switching: Tag-switching	12000	Tag-switching	Text with bilingual phenomena: Code-switching: Tag-switching		2025-02-14T19:34:18Z	False	16770	20		Designer		12012
+6483	Andiron	6000	Andiron	Andiron		2025-10-08T18:12:45Z	False	0	0		Designer		0
+10041	Graffito	10000	writing.inscribed.graffito	Graffito		2025-10-08T16:39:52Z	False	0	0		Designer		10001
+2444	Mineral: Precious Stone	2000	Precious Stone	Mineral: Precious Stone		2025-09-25T19:30:13Z	False	0	10		Designer		2392
+5022	Greek Inscriptions from France-IGF Mullen	5000	IGF-Mullen	Greek Inscriptions from France-IGF Mullen		2025-09-24T15:12:24Z	False	0	0		Designer		0
+5021	Greek Inscriptions from France-IGF	5000	IGF	Greek Inscriptions from France-IGF		2025-09-24T15:12:21Z	False	0	0		Designer		0
+3325	Souvenir	3000	Souvenir	Souvenir		2025-02-14T19:34:18Z	False	17735	0		Designer		3292
+1036	Proto-Germanic	1000	qgm	Proto-Germanic		2025-02-14T19:34:18Z	False	16622	0		Designer		0
+1914	Galician	1000	gl	Galician		2024-09-30T08:34:50Z	False	0	0		Designer		0
+12020	Text with bilingual phenomena: Code-switching: Inter-sentential	12000	Inter-sentential	Text with bilingual phenomena: Code-switching: Inter-sentential		2025-02-14T19:34:18Z	False	16768	5		Designer		12012
+12021	Text with bilingual phenomena: Code-switching: Intra-sentential	12000	Intra-sentential	Text with bilingual phenomena: Code-switching: Intra-sentential		2025-02-14T19:34:18Z	False	16769	163		Designer		12012
+

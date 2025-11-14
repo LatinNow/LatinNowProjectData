@@ -1,0 +1,26 @@
+﻿id_code	zone_name
+1	(unassigned zone)
+2	Africa Proconsularis
+3	Alpes Graiae
+4	Alpes Maritimae
+5	Alpes Poeninae
+6	Barbaricum
+7	Britannia
+8	Citerior Tarraconensis
+9	Gallia Aquitania
+10	Gallia Belgica
+11	Gallia Lugdunensis
+12	Gallia Narbonensis
+13	Germania Inferior
+14	Germania Superior
+15	Italia
+16	Noricum
+17	Numidia
+18	Pannonia inferior
+19	Pannonia superior
+20	Raetia
+21	Regio I, Latium et Campania
+22	Sicilia
+23	Ulterior Baetica
+24	Ulterior Lusitania
+25	Venetia et Histria

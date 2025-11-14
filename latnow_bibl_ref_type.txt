@@ -1,0 +1,5 @@
+﻿0	Unspecified
+1	identity
+2	addendum
+3	reference
+4	unknown

@@ -1,0 +1,3 @@
+﻿id_code	setting_name	value_text	value_longint	value_boolean	value_type
+1	Local SMTP server host name	smtp.nottingham.ac.uk	0	False	0
+2	Local SMTP server port		465	False	0

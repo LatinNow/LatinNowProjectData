@@ -1,0 +1,1197 @@
+﻿id_code	xml_id	description	parent_taxonomy_id	parent_id	eagle_uri	sort_order	notes	old_id	latnow_attr_id	fair_epigraphy_uri	is_deprecated	wikidata_id
+10340	object.instrumentum.plate	Plate	RIB-object_type	10010		0		79	6419		False	
+10350	object.instrumentum.roundel	Roundel	RIB-object_type	10010		0		80	6242		False	
+10360	object.instrumentum.sealing	Sealing	RIB-object_type	10010		0		81	6406		False	Q162919
+10370	object.instrumentum.spindle_whorl	Spindle whorl	RIB-object_type	10010		0		82	6181		False	Q2474386
+10380	object.instrumentum.stilus	Stilus	RIB-object_type	10010		0		83	6442		False	Q1227035
+10390	object.instrumentum.tablet	Tablet	RIB-object_type	10010		0		84	6350		False	Q16744570
+10400	object.instrumentum.tessera	Tag / Token (Tessera)	RIB-object_type	10010		0		88	6364		False	Q130391687
+10410	object.instrumentum.tile	Tile	RIB-object_type	10010		0		89	6361		False	Q468402
+10420	object.instrumentum.toiletries	Toiletries	RIB-object_type	10010		0		100	6447		False	
+10430	object.instrumentum.tool	Tool	RIB-object_type	10010		0		104	6446		False	Q39546
+10440	object.instrumentum.unknown	Unknown instrumentum	RIB-object_type	10010		0		115	6209		False	
+10450	object.instrumentum.vessel	Vessel	RIB-object_type	10010		0		116	6397		False	Q96952903
+10460	object.instrumentum.votive	Votive Object	RIB-object_type	10010		0		158	6390		False	Q111509151
+10470	object.instrumentum.wallplaster	Wallplaster	RIB-object_type	10010		0		159	6154		False	
+10480	object.instrumentum.water_pipe	Water pipe	RIB-object_type	10010		0		160	6376		False	Q16628076
+10490	object.instrumentum.weapon	Weapon	RIB-object_type	10010		0		161	6303		False	Q728
+10500	object.instrumentum.wooden_object	Wooden object	RIB-object_type	10010		0		163	6468		False	
+10510	object.instrumentum.armor.helmet	Helmet	RIB-object_type	10060		0		20	6084		False	Q173603
+10520	object.instrumentum.armor.shield	Shield	RIB-object_type	10060		0		21	6099		False	Q131559
+10530	object.instrumentum.figurine.base	Figurine base	RIB-object_type	10130		0		29	6424		False	
+10540	object.instrumentum.fitting.baldric	Baldric fitting	RIB-object_type	10140		0		31	6425		False	Q3225698
+10550	object.instrumentum.fitting.belt	Belt fitting	RIB-object_type	10140		0		32	6286		False	
+10560	object.instrumentum.fitting.other	Other fitting	RIB-object_type	10140		0		33	6374		False	
+10570	object.instrumentum.gaming.die	Gaming die	RIB-object_type	10150		0		35	6166		False	Q45089
+10580	object.instrumentum.horse_tack.stiffener	Pommel stiffener	RIB-object_type	10180		0		39	6412		False	
+10590	object.instrumentum.implement.knife	Knife	RIB-object_type	10190		0		41	6427		False	Q32489
+10600	object.instrumentum.implement.ladle	Ladle	RIB-object_type	10190		0		0	6428		False	Q193358
+10610	object.instrumentum.implement.other	Other implement	RIB-object_type	10190		0		42	6426		False	
+10620	object.instrumentum.implement.spatula	Spatula	RIB-object_type	10190		0		43	6429		False	Q15148
+10630	object.instrumentum.implement.spoon	Spoon	RIB-object_type	10190		0		44	6407		False	Q81895
+10640	object.instrumentum.implement.spoon.cochlear	Cochlear spoon	RIB-object_type	10630		0		45	6407		False	Q1105136
+10650	object.instrumentum.implement.spoon.ligula	Ligula spoon	RIB-object_type	10630		0		46	6407		False	Q1801357
+10660	object.instrumentum.jewelry.amulet	Amulet	RIB-object_type	10220		0		51	6015		False	Q131557
+10670	object.instrumentum.jewelry.body_chain	Body chain	RIB-object_type	10220		0		52	6221		False	
+10680	object.instrumentum.jewelry.bracelet	Bracelet	RIB-object_type	10220		0		53	6404		False	Q201664
+10690	object.instrumentum.jewelry.cameo	Cameo	RIB-object_type	10220		0		54	6403		False	Q28512
+10700	object.instrumentum.jewelry.gemstone	Gemstone	RIB-object_type	10220		0		55	6430		False	Q83437
+10710	object.instrumentum.jewelry.intaglio	Intaglio	RIB-object_type	10220		0		56	6218		False	Q1665351
+10720	object.instrumentum.jewelry.pendant	Pendant	RIB-object_type	10220		0		57	6431		False	Q2111434
+10730	object.instrumentum.jewelry.ring	Finger Ring	RIB-object_type	10220		0		58	6017		False	Q112091664
+10740	object.instrumentum.leather.offcut	Offcut	RIB-object_type	10260		0		62	6433		False	Q111311640
+10750	object.instrumentum.leather.shoe	Shoe	RIB-object_type	10260		0		63	6434		False	Q22676
+10760	object.instrumentum.leather.tent	Tent section	RIB-object_type	10260		0		64	6436		False	
+10770	object.instrumentum.leather.unknown	Unknown leather object	RIB-object_type	10260		0		65	6435		False	
+10780	object.instrumentum.measure.compass	Compass	RIB-object_type	10270		0		67	6448		False	Q103896
+10790	object.instrumentum.measure.scale_pan	Scale Pan	RIB-object_type	10270		0		68	6156		False	Q2538176
+10800	object.instrumentum.measure.steelyard	Steelyard	RIB-object_type	10270		0		69	6441		False	Q1650330
+10810	object.instrumentum.measure.sundial	Sundial	RIB-object_type	10270		0		70	6440		False	Q80793
+10820	object.instrumentum.measure.weight	Weight	RIB-object_type	10270		0		71	6300		False	Q1320546
+10830	object.instrumentum.tablet.ink	Ink Tablet	RIB-object_type	10390		0		85	6444		False	
+10840	object.instrumentum.tablet.metal	Metal writing tablet	RIB-object_type	10390		0		86	6350		False	Q16744570
+10850	object.instrumentum.tablet.wax	Wax Stilus Tablet	RIB-object_type	10390		0		87	6409		False	Q1428312
+10860	object.instrumentum.tile.brick	Brick	RIB-object_type	10410		0		90	6361		False	Q40089
+10870	object.instrumentum.tile.floor	Floor Tile	RIB-object_type	10410		0		91	6361		False	Q17455039
+10880	object.instrumentum.tile.flue	Flue Tile	RIB-object_type	10410		0		92	6361		False	Q1532617
+10890	object.instrumentum.tile.other	Other tile	RIB-object_type	10410		0		93	6361		False	
+10900	object.instrumentum.tile.pila	Pila	RIB-object_type	10410		0		94	6361		False	
+10910	object.instrumentum.tile.roof	Roof tile	RIB-object_type	10410		0		422	6361		False	Q268547
+10920	object.instrumentum.tile.voussoir	Voussoir tile	RIB-object_type	10410		0		99	6361		False	Q3316819
+10930	object.instrumentum.tile.roof.antefix	Antefix	RIB-object_type	10910		0		95	6361		False	Q571723
+10940	object.instrumentum.tile.roof.imbrex	Imbrex	RIB-object_type	10910		0		96	6361		False	Q65727754
+10950	object.instrumentum.tile.roof.other	Roof tile	RIB-object_type	10910		0		97	6361		False	
+10960	object.instrumentum.tile.roof.tegula	Tegula	RIB-object_type	10910		0		98	6361		False	Q16725947
+10970	object.instrumentum.toiletries.comb	Comb	RIB-object_type	10420		0		101	6447		False	Q23834
+10980	object.instrumentum.toiletries.mirror_frame	Mirror frame	RIB-object_type	10420		0		102	6447		False	
+10990	object.instrumentum.toiletries.strigil	Strigil	RIB-object_type	10420		0		103	6447		False	Q282837
+11000	object.instrumentum.tool.awl	Awl	RIB-object_type	10430		0		105	6446		False	Q400406
+11010	object.instrumentum.tool.axe	Axe	RIB-object_type	10430		0		106	6446		False	Q39397
+11020	object.instrumentum.tool.chisel	Chisel	RIB-object_type	10430		0		107	6446		False	Q474188
+11030	object.instrumentum.tool.dolabra	Dolabra	RIB-object_type	10430		0		108	6446		False	Q1235284
+11040	object.instrumentum.tool.hammer	Hammer	RIB-object_type	10430		0		109	6446		False	Q25294
+11050	object.instrumentum.tool.hone	Hone	RIB-object_type	10430		0		110	6446		False	Q507559
+11060	object.instrumentum.tool.other	Other tool	RIB-object_type	10430		0		114	6446		False	
+11070	object.instrumentum.tool.scraper	Scraper	RIB-object_type	10430		0		111	6446		False	Q2605626
+11080	object.instrumentum.tool.tile_comb	Tile Comb	RIB-object_type	10430		0		112	6446		False	
+11090	object.instrumentum.tool.wedge	Wedge	RIB-object_type	10430		0		113	6446		False	Q131408
+11100	object.instrumentum.tool.whetstone	Whetstone	RIB-object_type	10430		0	Combine with Hone (sharpening stone)?	0	6446		False	Q507559
+11110	object.instrumentum.vessel.amphora	Amphora	RIB-object_type	10450		0		117	6014		False	Q178401
+11120	object.instrumentum.vessel.barrel	Barrel	RIB-object_type	10450		0		118	6134		False	Q10289
+11130	object.instrumentum.vessel.beaker	Beaker	RIB-object_type	10450		0		121	6131		False	Q833823
+11140	object.instrumentum.vessel.bottle	Bottle	RIB-object_type	10450		0		122	6064		False	Q80228
+11150	object.instrumentum.vessel.bowl	Bowl	RIB-object_type	10450		0		123	6060		False	Q153988
+11160	object.instrumentum.vessel.casket	Casket	RIB-object_type	10450		0		124	6454		False	Q639460
+11170	object.instrumentum.vessel.cauldron	Cauldron	RIB-object_type	10450		0		125	6455		False	Q1317634
+11180	object.instrumentum.vessel.colander	Colander	RIB-object_type	10450		0		126	6456		False	Q1057060
+11190	object.instrumentum.vessel.costrel	Costrel	RIB-object_type	10450		0		127	6457		False	Q1396224
+11200	object.instrumentum.vessel.cup	Cup	RIB-object_type	10450		0		128	6359		False	Q81727
+11210	object.instrumentum.vessel.dish	Dish	RIB-object_type	10450		0		129	6031		False	Q746549
+11220	object.instrumentum.vessel.flagon	Flagon	RIB-object_type	10450		0		130	6450		False	Q10563755
+11230	object.instrumentum.vessel.flask	Flask	RIB-object_type	10450		0		131	6458		False	Q18696213
+11240	object.instrumentum.vessel.goblet	Goblet	RIB-object_type	10450		0		132	6185		False	Q18451251
+11250	object.instrumentum.vessel.inkwell	Ink well	RIB-object_type	10450		0		133	6459		False	Q1160546
+11260	object.instrumentum.vessel.jar	Jar	RIB-object_type	10450		0		134	6220		False	Q1207302
+11270	object.instrumentum.vessel.jug	Jug	RIB-object_type	10450		0		135	6129		False	Q2413314
+11280	object.instrumentum.vessel.lamp	Lamp	RIB-object_type	10450		0		137	6226		False	Q821952
+11290	object.instrumentum.vessel.dish.lanx	Lanx	RIB-object_type	11210		0		138	6460		False	Q1805615
+11300	object.instrumentum.vessel.lid	Lid	RIB-object_type	10450		0		139	6126		False	Q2488579
+11310	object.instrumentum.vessel.mortar	Mortar	RIB-object_type	10450		0		140	6461		False	Q45778
+11320	object.instrumentum.vessel.mortarium	Mortarium	RIB-object_type	10450		0		141	6256		False	Q1948673
+11330	object.instrumentum.vessel.other	Other vessel	RIB-object_type	10450		0		142	6402		False	
+11340	object.instrumentum.vessel.pan	Pan	RIB-object_type	10450		0		143	6462		False	
+11350	object.instrumentum.vessel.patera	Patera	RIB-object_type	10450		0		144	6266		False	
+11360	object.instrumentum.vessel.pitcher	Pitcher	RIB-object_type	10450		0		145	6463		False	
+11370	object.instrumentum.vessel.plate	Plate	RIB-object_type	10450		0		146	6419		False	
+11380	object.instrumentum.vessel.platter	Platter	RIB-object_type	10450		0		147	6296		False	
+11390	object.instrumentum.vessel.pot	Pot	RIB-object_type	10450		0		148	6302		False	
+11400	object.instrumentum.vessel.skyphos	Skyphos	RIB-object_type	10450		0		149	6464		False	
+11410	object.instrumentum.vessel.strainer	Strainer	RIB-object_type	10450		0		150	6465		False	
+11420	object.instrumentum.vessel.tank	Tank	RIB-object_type	10450		0		151	6466		False	
+11430	object.instrumentum.vessel.trulla	Trulla	RIB-object_type	10450		0		152	6086		False	
+11440	object.instrumentum.vessel.flask.unguent	Unguent flask	RIB-object_type	10450		0		153	6467		False	
+11450	object.instrumentum.vessel.unknown	Unknown vessel	RIB-object_type	10450		0		0	6397		False	
+11460	object.instrumentum.vessel.unspecified	Unspecified vessel	RIB-object_type	10450		0		155	6397		False	
+11470	object.instrumentum.vessel.urn	Urn	RIB-object_type	10450		0		156	6382		False	
+11480	object.instrumentum.vessel.vase	Vase	RIB-object_type	10450		0		157	6384		False	
+11490	object.instrumentum.vessel.barrel.bung	Barrel bung	RIB-object_type	11120		0		120	6451		False	
+11500	object.instrumentum.vessel.barrel.head	Barrel head	RIB-object_type	11120		0		0	6453		False	
+11510	object.instrumentum.vessel.barrel.stave	Barrel stave	RIB-object_type	11120		0		119	6452		False	
+11520	object.instrumentum.weapon.ball	Ball	RIB-object_type	10490		0		162	6038		False	
+11530	object.instrumentum.weapon.spearhead	Spearhead	RIB-object_type	10490		0		0	6303		False	
+11540	object.instrumentum.wooden_object.plank	Wooden plank	RIB-object_type	10500		0		0	6289		False	
+11550	object.monumental.altar	Altar	RIB-object_type	10020		0		165	6005		False	Q101687
+11560	object.monumental.arch_element	Architectural Element	RIB-object_type	10020		0		166	6410		False	Q391414
+11570	object.monumental.base	Base	RIB-object_type	10020		0		168	6042		False	Q12014132
+11580	object.monumental.block	Block	RIB-object_type	10020		0		172	6054		False	
+11590	object.monumental.building_stone	Building stone	RIB-object_type	10020		0		173	6073		False	
+11600	object.monumental.cippus	Cippus	RIB-object_type	10020		0		174	6065		False	
+11610	object.monumental.cornerstone	Corner stone	RIB-object_type	10020		0		0	6119		False	
+11620	object.monumental.letter	Letter (monumental)	RIB-object_type	10020		0		175	6231		False	
+11630	object.monumental.milestone	Milestone	RIB-object_type	10020		0		176	6247		False	Q10145
+11640	object.monumental.panel	Panel	RIB-object_type	10020		0	"Panel" in RIB maps to "Plaque" in LatinNow.	177	6291		False	
+11650	object.monumental.plaque	Plaque (monumental)	RIB-object_type	10020		0		178	6291		False	
+11660	object.monumental.plate	Plate (monumental)	RIB-object_type	10020		0		542	6294		False	
+11670	object.monumental.quarry	Quarry inscription	RIB-object_type	10020		0		179	6304		False	
+11680	object.monumental.rock	Rock inscription	RIB-object_type	10020		0		543	6164		False	
+11690	object.monumental.sarcophagus	Sarcophagus	RIB-object_type	10020		0		180	6314		False	
+11700	object.monumental.sculpture	Sculpture	RIB-object_type	10020		0		181	6320		False	Q860861
+11710	object.monumental.slab	Slab	RIB-object_type	10020		0		182	6327		False	
+11720	object.monumental.stele	Stele	RIB-object_type	10020		0		187	6159		False	Q178743
+11730	object.monumental.tablet	Tablet	RIB-object_type	10020		0		188	6350		False	
+11740	object.monumental.unknown	Unknown	RIB-object_type	10020		0		190	6469		False	
+11750	object.monumental.arch_element.architrave	Architrave	RIB-object_type	11560		0		547	6029		False	
+11760	object.monumental.arch_element.casing	Casing stone	RIB-object_type	11560		0		544	6085		False	
+11770	object.monumental.arch_element.column	Column or Pillar	RIB-object_type	11560		0		541	6104		False	
+11780	object.monumental.arch_element.coping	Coping stone	RIB-object_type	11560		0		545	6470		False	
+11790	object.monumental.arch_element.cornice	Cornice	RIB-object_type	11560		0		546	6120		False	
+11800	object.monumental.arch_element.facing	Facing stone	RIB-object_type	11560		0		548	6471		False	
+11810	object.monumental.arch_element.finial	Finial	RIB-object_type	11560		0		549	6118		False	
+11820	object.monumental.arch_element.frieze	Frieze	RIB-object_type	11560		0		550	6177		False	
+11830	object.monumental.arch_element.jamb	Jamb	RIB-object_type	11560		0		553	6147		False	
+11840	object.monumental.arch_element.pediment	Pediment	RIB-object_type	11560		0		551	6271		False	
+11850	object.monumental.arch_element.pilaster	Pilaster	RIB-object_type	11560		0		552	6282		False	
+11860	object.monumental.arch_element.plinth	Plinth	RIB-object_type	11560		0		540	6298		False	
+11870	object.monumental.arch_element.unknown	Unknown	RIB-object_type	11560		0		554	6410		False	
+11880	object.monumental.arch_element.voussoir	Voussoir	RIB-object_type	11560		0		167	6391		False	
+11890	object.monumental.base.altar	Altar Base	RIB-object_type	11570		0		169	6011		False	
+11900	object.monumental.base.statue	Statue Base	RIB-object_type	11570		0		170	6043		False	
+11910	object.monumental.base.tombstone	Tombstone Base	RIB-object_type	11570		0		171	6371		False	
+11920	object.monumental.slab.altar	Altar-slab	RIB-object_type	11710		0		555	6327		False	
+11930	object.monumental.slab.building	Building-slab	RIB-object_type	11710		0		183	6327		False	
+11940	object.unclassified	Unclassified	RIB-object_type	11000		0		0	0		False	
+11950	object.monumental.sculpture.relief	Sculptured relief	RIB-object_type	11700		0		0	6319		False	Q245117
+11960	object.monumental.gutter_stone	Gutter stone	RIB-object_type	11000		0		0	6197		False	
+11970	object.monumental.slab.tombstone	Tombstone-slab	RIB-object_type	11710		0		0	6254		False	
+11980	object.reuse	(reuse)	RIB-object_type	10010		0		0	0		False	
+11990	object.instrumentum.sheet	Sheet	RIB-object_type	10010		0		0	6322		False	
+12000	object.uncertain	Uncertain	RIB-object_type	10000		0		0	6209		False	
+12010	object.monumental.base.column	Column base	RIB-object_type	11570		0		0	6042		False	
+12020	object.instrumentum.gaming.counter	Gaming counter	RIB-object_type	10150		0		0	6166		False	
+12030	object.instrumentum.measure.water_clock	Water clock	RIB-object_type	10270		0		0	6474		False	
+12040	object.monumental.fragment	Monumental fragment	RIB-object_type	10020		0		0	6171		False	
+12050	object.instrumentum.vessel.stopper	Stopper	RIB-object_type	10450		0		0	6326		False	
+12060	object.instrumentum.coffin	Coffin	RIB-object_type	10010		0		0	6100		False	Q184418
+12070	object.instrumentum.tile.brick-or-tile	Brick or tile	RIB-object_type	10410		0		0	6361		False	
+12080	object.instrumentum.altar	Miniature altar	RIB-object_type	10010		0		0	6005		False	
+12090	object.instrumentum.model	Model	RIB-object_type	10010		0		0	6482		False	
+20000	material	Material	RIB-material	0		0		331	0		False	
+20010	material.bone	Bone	RIB-material	20000		0		265	2127		False	Q814769
+20020	material.ceramic	Ceramic	RIB-material	20000		0		195	2077		False	Q45621
+20030	material.glass	Glass	RIB-material	20000	https://www.eagle-network.eu/voc/material/lod/122	0		266	2109		False	Q11469
+20040	material.horn	Horn	RIB-material	20000		0		267	2406		False	Q82025
+20050	material.ivory	Ivory	RIB-material	20000		0		268	2356		False	Q82001
+20060	material.jet	Jet	RIB-material	20000		0		269	2401		False	Q543694
+20070	material.leather	Leather	RIB-material	20000		0		270	2149		False	Q286
+20080	material.metal	Metal	RIB-material	20000		0		202	2174		False	Q11426
+20090	material.mineral	Mineral	RIB-material	20000		0		214	2392		False	Q7946
+20100	material.stone	Stone	RIB-material	20000		0		228	2258		False	Q22731
+20110	material.opus_signinum	Opus signinum	RIB-material	20000		0		271	2434		False	Q761421
+20120	material.plaster	Plaster	RIB-material	20000		0		272	2370		False	Q274988
+20130	material.rock	Rock	RIB-material	20000		0		273	2104		False	Q8063
+20140	material.wood	Wood	RIB-material	20000	https://www.eagle-network.eu/voc/material/lod/123	0		274	2032		False	Q287
+20150	material.other	Other	RIB-material	20000		0		282	2285		False	
+20160	material.unknown	Unknown	RIB-material	20000		0		283	2284		False	
+20170	material.ceramic.brick	Brick	RIB-material	20020		0		196	2357		False	Q13174712
+20180	material.ceramic.ceramic	Ceramic (glazed)	RIB-material	20020		0		197	0		False	Q3664976
+20190	material.ceramic.clay	Clay	RIB-material	20020		0		198	2313		False	Q42302
+20200	material.ceramic.pipeclay	Pipeclay	RIB-material	20020		0		200	2423		False	Q3132942
+20210	material.ceramic.terracotta	Terracotta	RIB-material	20020		0		201	2390		False	Q60424
+20220	material.ceramic.clay.baked	Baked clay	RIB-material	20190		0		199	2422		False	Q42302
+20230	material.metal.brass	Brass	RIB-material	20080		0		203	2173		False	Q39782
+20240	material.metal.bronze	Bronze	RIB-material	20080		0		204	2036		False	Q34095
+20250	material.metal.copper	Copper	RIB-material	20080		0		205	2089		False	Q753
+20260	material.metal.gold	Gold	RIB-material	20080	https://www.eagle-network.eu/voc/material/lod/112	0		206	2111		False	Q897
+20270	material.metal.iron	Iron	RIB-material	20080		0		0	2096		False	Q677
+20280	material.metal.lead	Lead	RIB-material	20080	https://www.eagle-network.eu/voc/material/lod/108	0		207	2147		False	Q708
+20290	material.metal.pewter	Pewter	RIB-material	20080		0		208	2424		False	Q852372
+20300	material.metal.silver	Silver	RIB-material	20080	https://www.eagle-network.eu/voc/material/lod/115	0		209	2252		False	Q1090
+20310	material.metal.steel	Steel	RIB-material	20080		0		210	2425		False	Q11427
+20320	material.metal.tin	Tin	RIB-material	20080		0		211	2301		False	Q1096
+20330	material.metal.other	Other	RIB-material	20080		0		212	2174		False	Q11426
+20340	material.metal.unknown	Unknown	RIB-material	20080		0		213	2174		False	Q11426
+20350	material.mineral.chalcedony.bloodstone	Bloodstone	RIB-material	20370		0	Bloodstone (aka heliotrope) is a variety of chalcedony.	215	2427		False	Q430174
+20360	material.mineral.carnelian	Carnelian	RIB-material	20090		0	also spelled Cornelian	216	2090		False	Q324369
+20370	material.mineral.chalcedony	Chalcedony	RIB-material	20090		0		217	2428		False	Q170448
+20380	material.mineral.crystal	Crystal	RIB-material	20090		0		218	2429		False	Q43533
+20390	material.mineral.haematite	Haematite	RIB-material	20090		0		219	2404		False	Q103223
+20400	material.mineral.jasper	Jasper	RIB-material	20090		0		220	2133		False	Q201175
+20410	material.mineral.lapis_lazuli	Lapis lazuli	RIB-material	20090		0		221	2409		False	Q216798
+20420	material.mineral.nicolo	Nicolo	RIB-material	20090		0		222	2430		False	Q99856719
+20430	material.mineral.onyx	Onyx	RIB-material	20090		0		223	2195		False	Q180884
+20440	material.mineral.other	Other Mineral	RIB-material	20090		0		0	2392		False	Q7946
+20450	material.mineral.plasma	Plasma	RIB-material	20090		0	Plasma is a variety of chalcedony	224	2431		False	Q110671450
+20460	material.mineral.prase	Prase	RIB-material	20090		0	Prase is a light green translucent variety of chalcedony	225	2432		False	Q11826936
+20470	material.mineral.sard	Sard	RIB-material	20090		0		226	2433		False	Q4408563
+20480	material.mineral.sardonyx	Sardonyx	RIB-material	20090		0		227	2418		False	Q3428905
+20490	material.stone.basalt	Basalt	RIB-material	20100		0		229	2022		False	Q43338
+20500	material.stone.chalk	Chalk	RIB-material	20100		0		230	2384		False	Q183670
+20510	material.stone.dolerite	Dolerite	RIB-material	20100		0		231	2435		False	Q1235463
+20520	material.stone.granite	Granite	RIB-material	20100		0		232	2113		False	Q41177
+20530	material.stone.gritstone	Gritstone	RIB-material	20100		0		233	2125		False	Q1048392
+20540	material.stone.lava	Lava	RIB-material	20100		0		235	2410		False	Q40157
+20550	material.stone.limestone	Limestone	RIB-material	20100		0		237	2063		False	Q23757
+20560	material.stone.marble	Marble	RIB-material	20100		0		242	2159		False	Q40861
+20570	material.stone.tesserae	Tesserae stone	RIB-material	20100		0		244	2258		False	
+20580	material.stone.mudstone	Mudstone	RIB-material	20100		0		245	2191		False	Q6642424
+20590	material.stone.sandstone	Sandstone	RIB-material	20100		0		246	2245		False	Q13085
+20600	material.stone.schist	Schist	RIB-material	20100		0		253	2220		False	Q15315
+20610	material.stone.shale	Shale	RIB-material	20100		0		254	2436		False	Q751300
+20620	material.stone.siltstone	Siltstone	RIB-material	20100		0		255	2437		False	Q565731
+20630	material.stone.slate	Slate	RIB-material	20100		0		256	2253		False	Q207079
+20640	material.stone.soapstone	Soapstone	RIB-material	20100		0		257	2254		False	Q707896
+20650	material.stone.steatite	Steatite	RIB-material	20100		0		258	2255		False	Q18364120
+20660	material.ceramic.rhenish	Rhenishware	RIB-material	20020		0		0	2313		False	Q132304941
+20670	material.stone.travertine	Travertine	RIB-material	20100		0		260	2137		False	Q187156
+20680	material.stone.tufa	Tufa	RIB-material	20100		0	Wikidata has 'tufa' as calcareous sinter (Q1362288), also as synonyms of volcanic tuff and calcareous tuff.	261	2426		False	
+20690	material.stone.tuff	Tuff	RIB-material	20100		0		262	2281		False	
+20700	material.stone.other	Other	RIB-material	20100		0		263	2258		False	Q22731
+20710	material.stone.unknown	Unknown	RIB-material	20100		0		264	2258		False	
+20720	material.stone.gritstone.buff	Buff gritstone	RIB-material	20530		0		234	2125		False	Q1048392
+20730	material.stone.lava.niedermendig	Niedermendig Lava	RIB-material	20540		0		236	2410		False	Q132303611
+20740	material.stone.limestone.buff	Buff limestone	RIB-material	20550		0		238	2386		False	Q23757
+20750	material.stone.limestone.magnesian	Magnesian limestone	RIB-material	20550		0		239	2387		False	Q6731360
+20760	material.stone.limestone.oolitic	Oolitic limestone	RIB-material	20550		0		240	2199		False	Q12136017
+20770	material.stone.limestone.purbeck	Purbeck marble	RIB-material	20550		0	Not actually marble, but a fossiliferous limestone	241	2235		False	Q2118764
+20780	material.stone.marble.white	White marble	RIB-material	20560		0		243	2412		False	Q117052968
+20790	material.stone.sandstone.buff	Buff sandstone	RIB-material	20590		0		247	2245		False	Q13085
+20800	material.stone.sandstone.grey	Grey sandstone	RIB-material	20590		0		248	2245		False	Q13085
+20810	material.stone.sandstone.greywacke	Greywacke sandstone	RIB-material	20590		0		249	2218		False	Q917545
+20820	material.stone.sandstone.grit-hoar-edge	Hoar Edge grit sandstone	RIB-material	20590		0		0	2245		False	Q1048392
+20830	material.stone.sandstone.micaceous	Micaceous sandstone	RIB-material	20590		0		251	2245		False	
+20840	material.stone.sandstone.red	Red sandstone	RIB-material	20590		0		252	2245		False	Q13085
+20850	material.wood.alder	Alder	RIB-material	20140		0		275	2032		False	Q1355553
+20860	material.wood.larch	Larch	RIB-material	20140		0		276	2032		False	Q61996280
+20870	material.wood.maple	Maple	RIB-material	20140		0		277	2032		False	Q402516
+20880	material.wood.oak	Oak	RIB-material	20140		0		278	2032		False	Q2075708
+20890	material.wood.silver_fir	Silver fir	RIB-material	20140		0		279	2032		False	Q146992
+20900	material.wood.spruce	Spruce	RIB-material	20140		0		280	2032		False	Q2046308
+20910	material.wood.willow	Willow	RIB-material	20140		0		281	2032		False	Q36050
+20920	material.ceramic.coarseware	Coarseware	RIB-material	20020		0		0	2395		False	Q99743238
+20930	material.ceramic.fineware	Fineware	RIB-material	20020		0		0	2385		False	
+20940	material.ceramic.greyware	Greyware	RIB-material	20020		0		0	2077		False	Q41623931
+20950	material.ceramic.terrasigillata	Terra sigillata	RIB-material	20020		0		0	2334		False	Q367622
+20960	material.stone.marble.green	Green marble	RIB-material	20560		0		0	2159		False	Q123819465
+20970	material.stone.marble.black	Black marble	RIB-material	20560		0		0	2159		False	Q117052975
+20980	material.stone.freestone	Freestone	RIB-material	20100		0		0	2103		False	Q107196234
+20990	material.stone.sandstone.calcareous	Calcareous sandstone	RIB-material	20590		0		0	2245		False	Q131565171
+21000	material.stone.sandstone.buff_or_lighter	Buff-or-lighter sandstone	RIB-material	20590		0		0	2245		False	Q13085
+21010	material.stone.sandstone.cream-coloured	Cream-coloured sandstone	RIB-material	20590		0		0	2245		False	Q13085
+21020	material.stone.sandstone.cream-coloured.Manley	Cream-coloured Manley sandstone	RIB-material	20590		0		0	2245		False	Q13085
+21030	material.stone.sandstone.Keuper	Keuper sandstone	RIB-material	20590		0	Now known as Sherwood Sandstone	0	2245		False	
+21040	material.stone.sandstone.green	Green sandstone	RIB-material	20590		0		0	2245		False	Q13085
+21050	material.stone.sandstone.greyish	Greyish sandstone	RIB-material	20590		0		0	2245		False	Q13085
+21060	material.stone.sandstone.light-coloured	Light-coloured sandstone	RIB-material	20590		0		0	2245		False	Q13085
+21070	material.stone.sandstone.Pennant	Pennant sandstone	RIB-material	20590		0		0	2245		False	
+21080	material.stone.sandstone.reddish	Reddish sandstone	RIB-material	20590		0		0	2245		False	Q13085
+21090	material.stone.sandstone.Rhaetic	Rhaetic sandstone	RIB-material	20590		0		0	2245		False	
+21100	material.stone.sandstone.white	White sandstone	RIB-material	20590		0		0	2245		False	Q13085
+21110	material.stone.sandstone.whitish	Whitish sandstone	RIB-material	20590		0		0	2245		False	Q13085
+21120	material.stone.sandstone.whitish-buff	Whitish-buff sandstone	RIB-material	20590		0		0	2245		False	Q13085
+21130	material.stone.sandstone.yellow	Yellow sandstone	RIB-material	20590		0		0	2245		False	Q13085
+21140	material.stone.sandstone.yellow-buff	Yellow-buff sandstone	RIB-material	20590		0		0	2245		False	Q13085
+21150	material.stone.sandstone.yellowish-buff	Yellowish-buff sandstone	RIB-material	20590		0		0	2245		False	Q13085
+21160	material.stone.freestone.white	White freestone	RIB-material	20980		0		0	2103		False	Q107196234
+21170	material.stone.gritstone.Millstone	Millstone grit	RIB-material	20530		0		0	2189		False	Q6860042
+21180	material.stone.gritstone.red	Red gritstone	RIB-material	20530		0		0	2125		False	Q1048392
+21190	material.stone.gritstone.reddish	Reddish gritstone	RIB-material	20530		0		0	2125		False	Q1048392
+21200	material.stone.limestone.magnesian.buff	Buff magnesian limestone	RIB-material	20750		0		0	2387		False	Q6731360
+21210	material.stone.metamorphic	Metamorphic stone	RIB-material	20100		0		0	2258		False	Q47069
+21220	material.stone.sarsen	Sarsen stone	RIB-material	20100		0		0	2258		False	Q2920343
+21230	material.stone.schist.grey	Grey schist	RIB-material	20600		0		0	2123		False	Q15315
+21240	material.stone.slate.Welsh	Welsh slate	RIB-material	20630		0		0	2253		False	Q207079
+21250	material.stone.whinstone	Whinstone	RIB-material	20100		0		0	2291		False	Q7993681
+21260	material.stone.lias	Lias	RIB-material	20100		0		0	2258		False	Q124556338
+21270	material.stone.lias.white	White lias	RIB-material	21260		0		0	2258		False	Q124556338
+21280	material.stone.marble.Carrara	Carrara marble	RIB-material	20560		0		0	2159		False	Q40088
+21290	material.stone.igneous	Igneous stone	RIB-material	20100		0		0	2258		False	Q42045
+21300	material.stone.igneous.fine-grained	Fine-grained igneous stone	RIB-material	21290		0		0	2258		False	Q42045
+21310	material.stone.greensand	Greensand	RIB-material	20100		0		0	2258		False	Q5604432
+21320	material.metal.bronze.gilt	Gilt bronze	RIB-material	20240		0		0	2036		False	Q132303977
+21330	material.metal.silver.gilt	Gilt silver	RIB-material	20300		0		0	2252		False	Q390584
+21340	material.ceramic.arretine	Arretine	RIB-material	20020		0		0	2383		False	Q66262563
+21350	material.stone.conglomerate	Conglomerate	RIB-material	20100		0		0	2141		False	Q191704
+21360	material.stone.marble.Luna	Luna marble	RIB-material	20560		0		0	2159		False	Q40861
+21370	material.stone.marble.coloured	Coloured marble	RIB-material	20560		0		0	2159		False	Q40861
+30000	text	Text Type/Function	RIB-text_type	0		0		245	0		False	
+30010	text.building	Building	RIB-text_type	30000		0		285	3160	https://ontology.inscriptiones.org/type_of_inscription/Building_inscription	False	Q90766967
+30020	text.dedicatory	Dedicatory	RIB-text_type	30000		0		289	3204	https://ontology.inscriptiones.org/type_of_inscription/Honorific	False	Q1762010
+30030	text.funerary	Funerary	RIB-text_type	30000		0		290	3059	https://ontology.inscriptiones.org/type_of_inscription/Funerary	False	
+30040	text.makers_mark	Maker's mark	RIB-text_type	30000		0		0	3225	https://ontology.inscriptiones.org/type_of_inscription/Maker	False	Q57248774
+30050	text.document	Document	RIB-text_type	30000		0		297	3161	https://ontology.inscriptiones.org/type_of_inscription/Pragmatic	False	
+30060	text.fasti	Fasti	RIB-text_type	30000		0		301	0	https://ontology.inscriptiones.org/type_of_inscription/Fasti	False	Q1236466
+30070	text.place_marker	Place Marker	RIB-text_type	30000		0		304	3148	https://ontology.inscriptiones.org/type_of_inscription/Space_delimitation	False	
+30080	text.ludic	Ludic	RIB-text_type	30000		0		308	3306	https://ontology.inscriptiones.org/type_of_inscription/Entertainment	False	
+30090	text.writing_practice.alphabet	Alphabet	RIB-text_type	30600		0		309	3159	https://ontology.inscriptiones.org/type_of_inscription/Abecedarium	False	
+30100	text.graffito	Graffito [DEPRECATED]	RIB-text_type	30000		0		310	3073		True	
+30110	text.label	Label	RIB-text_type	30000		0		311	3055	https://ontology.inscriptiones.org/type_of_inscription/Label	False	Q722218
+30120	text.religion.magic	Magic	RIB-text_type	30760		0		312	3309	https://ontology.inscriptiones.org/type_of_inscription/Magic	False	
+30130	text.measure	Measure	RIB-text_type	30000		0		0	3314	https://ontology.inscriptiones.org/type_of_inscription/Measure	False	
+30140	text.quarry	Quarry	RIB-text_type	30000		0		571	3312	https://ontology.inscriptiones.org/type_of_inscription/Mason	False	
+30150	text.production_mark	Production mark	RIB-text_type	30000		0		316	3308	https://ontology.inscriptiones.org/type_of_inscription/Production	False	
+30160	text.verse	Verse	RIB-text_type	30000		0		323	3166		False	
+30170	text.other	Other	RIB-text_type	30000		0		324	0	https://ontology.inscriptiones.org/type_of_inscription/Unable_to_determine	False	
+30180	text.unknown	Unknown	RIB-text_type	30000		0	no information available about item, no metadata	325	3151	https://ontology.inscriptiones.org/type_of_inscription/Unable_to_determine	False	
+30190	text.not_assigned	Not assigned	RIB-text_type	30000		0	not yet reviewed	326	3001	https://ontology.inscriptiones.org/type_of_inscription/Unassigned	False	
+30200	text.building.century	Centurial stone	RIB-text_type	30010		0		286	3160	https://ontology.inscriptiones.org/type_of_inscription/Centurial_stone	False	Q111325717
+30210	text.building.distance	Distance slab	RIB-text_type	30010		0		287	3160	https://ontology.inscriptiones.org/type_of_inscription/Distance_slab	False	
+30220	text.reuse1	(Reuse)	RIB-text_type	30000		0		288	0		True	
+30230	text.funerary.epitaph	Epitaph	RIB-text_type	30030		0		291	3157	https://ontology.inscriptiones.org/type_of_inscription/Funerary	False	Q1772
+30240	text.funerary.iura	Iura Sepulcrorum	RIB-text_type	30030		0		292	3141	https://ontology.inscriptiones.org/type_of_inscription/Funerary	False	
+30250	text.funerary.other	Other	RIB-text_type	30030		0		293	3142	https://ontology.inscriptiones.org/type_of_inscription/Funerary	False	
+30260	text.reuse2	(Reuse)	RIB-text_type	30000		0		295	0		True	
+30270	text.honorific	Honorific	RIB-text_type	30000		0		296	3156	https://ontology.inscriptiones.org/type_of_inscription/Honorific	False	Q125323109
+30280	text.document.private	Private	RIB-text_type	30050		0		298	3162	https://ontology.inscriptiones.org/type_of_inscription/Pragmatic	False	
+30290	text.document.public	Public	RIB-text_type	30050		0		299	3163	https://ontology.inscriptiones.org/type_of_inscription/Pragmatic	False	
+30300	text.document.military	Military	RIB-text_type	30050		0		300	3270	https://ontology.inscriptiones.org/type_of_inscription/Pragmatic	False	
+30310	text.fasti.list	List	RIB-text_type	30060		0		302	3245	https://ontology.inscriptiones.org/type_of_inscription/Fasti	False	
+30320	text.fasti.calendar	Calendar	RIB-text_type	30060		0		303	0	https://ontology.inscriptiones.org/type_of_inscription/Calendar	False	
+30330	text.place_marker.boundary	Boundary marker	RIB-text_type	30070		0		305	3149	https://ontology.inscriptiones.org/type_of_inscription/Boundary_marker	False	
+30340	text.place_marker.milestone	Milestone	RIB-text_type	30070		0		306	3150	https://ontology.inscriptiones.org/type_of_inscription/Milestone	False	
+30350	text.place_marker.other	Other	RIB-text_type	30070		0		307	3169	https://ontology.inscriptiones.org/type_of_inscription/Space_delimitation	False	
+30360	text.religion.magic.charm	Charm	RIB-text_type	30120		0		313	3310	https://ontology.inscriptiones.org/type_of_inscription/Magic	False	
+30370	text.religion.magic.defixio	Defixio	RIB-text_type	30120		0		314	3154	https://ontology.inscriptiones.org/type_of_inscription/Defixio	False	Q1430557
+30380	text.religion.magic.other	Other magic	RIB-text_type	30120		0		315	3311	https://ontology.inscriptiones.org/type_of_inscription/Magic	False	
+30390	text.measure.capacity	Measure of capacity	RIB-text_type	30130		0		0	3316	https://ontology.inscriptiones.org/type_of_inscription/Capacity	False	
+30400	text.measure.weight	Weight measure	RIB-text_type	30130		0		0	3321	https://ontology.inscriptiones.org/type_of_inscription/Weight	False	
+30410	text.production_mark.auxiliary	Auxiliary production mark	RIB-text_type	30150		0		317	3308	https://ontology.inscriptiones.org/type_of_inscription/Production	False	
+30420	text.production_mark.civic	Civic production mark	RIB-text_type	30150		0		318	3308	https://ontology.inscriptiones.org/type_of_inscription/Production	False	
+30430	text.production_mark.imperial	Imperial production mark	RIB-text_type	30150		0		319	3308	https://ontology.inscriptiones.org/type_of_inscription/Production	False	
+30440	text.production_mark.legionary	Legionary production mark	RIB-text_type	30150		0		320	3308	https://ontology.inscriptiones.org/type_of_inscription/Production	False	
+30450	text.production_mark.private	Private production mark	RIB-text_type	30150		0		321	3308	https://ontology.inscriptiones.org/type_of_inscription/Production	False	
+30460	text.production_mark.procuratorial	Procuratorial production mark	RIB-text_type	30150		0		322	3308	https://ontology.inscriptiones.org/type_of_inscription/Production	False	
+30470	text.anepigraphic	Anepigraphic	RIB-text_type	30000		0		0	3201	https://ontology.inscriptiones.org/type_of_inscription/Anepigraphic	False	
+30480	text.building.other	Other building	RIB-text_type	30010		0		0	3160	https://ontology.inscriptiones.org/type_of_inscription/Building_inscription	False	
+30490	text.calendar	Calendar	RIB-text_type	30000		0		0	3300	https://ontology.inscriptiones.org/type_of_inscription/Calendar	False	
+30500	text.date	Date	RIB-text_type	30000		0		0	3302	https://ontology.inscriptiones.org/type_of_inscription/Date	False	
+30510	text.document.military.diploma	Diploma	RIB-text_type	30300		0		0	3274	https://ontology.inscriptiones.org/type_of_inscription/Military_diploma	False	
+30520	text.document.private.testamentum	Will	RIB-text_type	30280		0		0	3162	https://ontology.inscriptiones.org/type_of_inscription/Testament	False	Q155656
+30530	text.exhortation_slogan_aphorism	Exhortation, Slogan, or Aphorism	RIB-text_type	30000		0		0	3303	https://ontology.inscriptiones.org/type_of_inscription/Exhortation	False	
+30540	text.dedicatory.imperial	Imperial dedication	RIB-text_type	30020		0		0	3322	https://ontology.inscriptiones.org/type_of_inscription/Honorific	False	
+30550	text.insult	Insult	RIB-text_type	30000		0		0	3304	https://ontology.inscriptiones.org/type_of_inscription/Insult	False	Q571571
+30560	text.itinerary	Itinerary	RIB-text_type	30000		0		0	3223	https://ontology.inscriptiones.org/type_of_inscription/Itinerary	False	
+30570	text.label.contents	Label (contents)	RIB-text_type	30110		0		0	3055	https://ontology.inscriptiones.org/type_of_inscription/Contents	False	
+30580	text.label.roundel	Label (roundel)	RIB-text_type	30110		0		0	3055	https://ontology.inscriptiones.org/type_of_inscription/Label	False	
+30590	text.label.sealing	Label (sealing)	RIB-text_type	30110		0		0	3055	https://ontology.inscriptiones.org/type_of_inscription/Label	False	
+30600	text.writing_practice	Writing practice	RIB-text_type	30000		0		0	3305	https://ontology.inscriptiones.org/type_of_inscription/Writing_practice	False	
+30610	text.list	List	RIB-text_type	30000		0		0	3245	https://ontology.inscriptiones.org/type_of_inscription/Inventories	False	Q12139612
+30620	text.list.expenses	List of expenses	RIB-text_type	30610		0		0	3245	https://ontology.inscriptiones.org/type_of_inscription/Accounts	False	
+30630	text.list.production	Production list	RIB-text_type	30610		0		0	3299	https://ontology.inscriptiones.org/type_of_inscription/Inventories	False	
+30640	text.list.names	List of names	RIB-text_type	30610	https://www.eagle-network.eu/voc/typeins/lod/111	0		0	3298	https://ontology.inscriptiones.org/type_of_inscription/Names	False	
+30650	text.seat_incription	Seat inscription	RIB-text_type	30000		0		0	3237	https://ontology.inscriptiones.org/type_of_inscription/Seat_inscription	False	
+30660	text.ludic.gaming	Gaming	RIB-text_type	30080		0		0	3307	https://ontology.inscriptiones.org/type_of_inscription/Gaming_element	False	
+30670	text.measure.age	Measure of age	RIB-text_type	30130		0		0	3315	https://ontology.inscriptiones.org/type_of_inscription/Age	False	
+30680	text.measure.currency	Measure of currency	RIB-text_type	30130		0		0	3317	https://ontology.inscriptiones.org/type_of_inscription/Price	False	
+30690	text.measure.numeral	Numeral	RIB-text_type	30130		0		0	3318	https://ontology.inscriptiones.org/type_of_inscription/Measure	False	
+30700	text.measure.quantity	Measure of quantity	RIB-text_type	30130		0		0	3319	https://ontology.inscriptiones.org/type_of_inscription/Quantity	False	
+30710	text.measure.tally_mark	Tally mark	RIB-text_type	30130		0		0	3320	https://ontology.inscriptiones.org/type_of_inscription/Measure	False	
+30720	text.origin_mark	Mark of origin	RIB-text_type	30000		0		0	3313	https://ontology.inscriptiones.org/type_of_inscription/Origin	False	
+30730	text.owners_mark	Mark of ownership	RIB-text_type	30000		0		0	3294	https://ontology.inscriptiones.org/type_of_inscription/Ownership	False	Q102181632
+30740	text.owners_mark.imperial	Mark of imperial ownership	RIB-text_type	30730		0		0	3294	https://ontology.inscriptiones.org/type_of_inscription/Ownership	False	
+30750	text.building.imperial	Imperial building	RIB-text_type	30010		0		0	3160	https://ontology.inscriptiones.org/type_of_inscription/Building_inscription	False	
+30760	text.religion	Religion	RIB-text_type	30000		0		0	3293	https://ontology.inscriptiones.org/type_of_inscription/Religious	False	
+30770	text.religion.christian	Christian	RIB-text_type	30760		0		0	3275	https://ontology.inscriptiones.org/type_of_inscription/Religious	False	
+30780	text.religion.dedicatory	Religious dedication	RIB-text_type	30760		0		0	3153	https://ontology.inscriptiones.org/type_of_inscription/Dedication	False	
+30790	text.religion.votive	Votive	RIB-text_type	30760		0		0	3135	https://ontology.inscriptiones.org/type_of_inscription/Dedication	False	
+30800	text.speaking_object	Speaking object	RIB-text_type	30000		0		0	3165	https://ontology.inscriptiones.org/type_of_inscription/Expressive	False	
+30810	text.uncertain	Uncertain	RIB-text_type	30000		0	some information available, but insufficient to support an assignment of value	0	3151	https://ontology.inscriptiones.org/type_of_inscription/Unable_to_determine	False	
+30820	text.commemorative	Commemorative	RIB-text_type	30000		0		0	3292	https://ontology.inscriptiones.org/type_of_inscription/Commemorative	False	
+30830	text.dedicatory.other	Other dedication	RIB-text_type	30020		0		0	3204	https://ontology.inscriptiones.org/type_of_inscription/Honorific	False	
+30840	text.honorific.other	Honorific (other)	RIB-text_type	30270		0		0	3139	https://ontology.inscriptiones.org/type_of_inscription/Honorific	False	
+30850	text.honorific.imperial	Honorific (imperial)	RIB-text_type	30270		0		0	3323	https://ontology.inscriptiones.org/type_of_inscription/Honorific	False	
+30860	text.document.military.renuntium	Renuntium	RIB-text_type	30300		0		0	3270	https://ontology.inscriptiones.org/type_of_inscription/Renuntium	False	
+40000	tabcat	Tablet Category	RIB-tabcat	0		0	Used by Bloomberg tablets and Vindolanda Tablets	282	0		False	
+40010	tabcat.accounts_lists	Accounts and Lists	RIB-tabcat	40000		0		328	0		False	
+40020	tabcat.correspondence	Correspondence	RIB-tabcat	40000		0		330	0		False	
+40030	tabcat.descripta	Descripta	RIB-tabcat	40000		0		338	0		False	
+40040	tabcat.financial_legal	Financial or legal documents	RIB-tabcat	40000		0		339	0		False	
+40050	tabcat.literary	Literary and sub-literary texts	RIB-tabcat	40000		0		343	0		False	
+40060	tabcat.military	Military documents	RIB-tabcat	40000		0		344	0		False	
+40070	tabcat.misc	Miscellaneous	RIB-tabcat	40000		0		349	0		False	
+40080	tabcat.shorthand	Shorthand texts	RIB-tabcat	40000		0		353	0		False	
+40090	tabcat.stylus_tag_label	Stylus tags or label	RIB-tabcat	40000		0		354	0		False	
+40100	tabcat.accounts_lists.account_minor	Minor account	RIB-tabcat	40010		0		329	0		False	
+40110	tabcat.correspondence.address	Addresses	RIB-tabcat	40020		0		331	0		False	
+40120	tabcat.correspondence.letter_text	Letters	RIB-tabcat	40020		0		334	0		False	
+40130	tabcat.correspondence.address.recipient_named	With name of recipient	RIB-tabcat	40110		0		332	0		False	
+40140	tabcat.correspondence.address.acephalous	Acephalous, without name of recipient	RIB-tabcat	40110		0		333	0		False	
+40150	tabcat.correspondence.letter_text.first_line_present	Letter-text with first line	RIB-tabcat	40120		0		335	0		False	
+40160	tabcat.correspondence.letter_text.first_line_lost	Letter-text, first line lost	RIB-tabcat	40120		0		336	0		False	
+40170	tabcat.correspondence.letter_text.minor	Minor letters	RIB-tabcat	40120		0		337	0		False	
+40180	tabcat.financial_legal.dated	Dated documents	RIB-tabcat	40040		0		340	0		False	
+40190	tabcat.financial_legal.date_lost	Documents, date lost	RIB-tabcat	40040		0		341	0		False	
+40200	tabcat.financial_legal.witness_list	Lists of witnesses	RIB-tabcat	40040		0		342	0		False	
+40210	tabcat.military.misc	Miscellaneous documents	RIB-tabcat	40060		0		345	0		False	
+40220	tabcat.military.report_official	Official reports	RIB-tabcat	40060		0		346	0		False	
+40230	tabcat.military.renuntium	Renuntium	RIB-tabcat	40060		0		347	0		False	
+40240	tabcat.military.report_strength	Strength reports	RIB-tabcat	40060		0		348	0		False	
+40250	tabcat.misc.alphabet	Alphabet	RIB-tabcat	40070		0		350	0		False	
+40260	tabcat.misc.numerals	Numerals	RIB-tabcat	40070		0		351	0		False	
+40270	tabcat.misc.unusual_uninscribed	Unusual format but not inscribed	RIB-tabcat	40070		0		352	0		False	
+50000	statepreserv	State of Preservation	RIB-statepreserv	0		0		552	0		False	
+50010	statepreserv.complete	Complete	RIB-statepreserv	50000		0		356	0		False	
+50020	statepreserv.fragmentary	Fragmentary	RIB-statepreserv	50000		0		0	0		False	
+50030	statepreserv.lost	Lost	RIB-statepreserv	50000		0		0	0		False	
+50040	statepreserv.complete.broken	Broken	RIB-statepreserv	50010		0		357	0		False	
+50050	statepreserv.complete.intact	Intact	RIB-statepreserv	50010		0		358	0		False	
+50060	statepreserv.complete.probably	Probably complete	RIB-statepreserv	50010		0		0	0		False	
+50070	statepreserv.fragmentary.multiple	Multiple fragments	RIB-statepreserv	50020		0		0	0		False	
+50080	statepreserv.fragmentary.multiple.contiguous	Contiguous fragments	RIB-statepreserv	50070		0		0	0		False	
+50090	statepreserv.fragmentary.multiple.non_contiguous	Non-contiguous fragments	RIB-statepreserv	50070		0		0	0		False	
+50100	statepreserv.fragmentary.single	Single fragment	RIB-statepreserv	50020		0		0	0		False	
+50110	statepreserv.unknown	Unknown	RIB-statepreserv	50000		0		0	0		False	
+60000	writing	Execution Technique	RIB-execution_technique	0		0		541	0		False	
+60010	writing.inscribed	Inscribed	RIB-execution_technique	60000		0	https://www.eagle-network.eu/voc/writing.html	364	10001		False	
+60020	writing.impressed	Impressed	RIB-execution_technique	60000		0		375	10012		False	
+60030	writing.protruding	Protruding	RIB-execution_technique	60000		0		379	10016		False	
+60040	writing.painted	Painted	RIB-execution_technique	60000	https://www.eagle-network.eu/voc/writing/lod/10	0		384	10021		False	
+60050	writing.inset	Inset	RIB-execution_technique	60000		0		387	10024		False	
+60060	writing.stamped	Stamped	RIB-execution_technique	60000	https://www.eagle-network.eu/voc/writing/lod/13	0		390	10027		False	
+60070	writing.relief	In Relief	RIB-execution_technique	60000		0		0	10029		False	
+60080	writing.retrograde	Retrograde	RIB-execution_technique	60000		0		0	0		False	
+60090	writing.ante-cocturam	Ante Cocturam	RIB-execution_technique	60000		0		0	0		False	
+60100	writing.post-cocturam	Post Cocturam	RIB-execution_technique	60000		0		0	0		False	
+60110	writing.inscribed.carved	Carved	RIB-execution_technique	60010	https://www.eagle-network.eu/voc/writing/lod/1	0		365	10002		False	
+60120	writing.inscribed.chiseled	Chiseled	RIB-execution_technique	60010	https://www.eagle-network.eu/voc/writing/lod/1	0		366	10003		False	
+60130	writing.inscribed.engraved	Engraved	RIB-execution_technique	60010	https://www.eagle-network.eu/voc/writing/lod/3	0		367	10004		False	
+60140	writing.inscribed.etched	Etched (with a sharp point)	RIB-execution_technique	60010		0		368	10005		False	
+60150	writing.inscribed.finger	Finger-drawn	RIB-execution_technique	60010		0		0	0		False	
+60160	writing.inscribed.incised	Incised	RIB-execution_technique	60010	https://www.eagle-network.eu/voc/writing/lod/1	0		369	10006		False	
+60170	writing.inscribed.inked	Inked	RIB-execution_technique	60010	https://www.eagle-network.eu/voc/writing/lod/2	0		370	10007		False	
+60180	writing.inscribed.stilo	Inscribed on a soft surface	RIB-execution_technique	60010	https://www.eagle-network.eu/voc/writing/lod/14	0		371	10008		False	
+60190	writing.inscribed.pecked	Pecked	RIB-execution_technique	60010		0		372	10009		False	
+60200	writing.inscribed.punched	Punched	RIB-execution_technique	60010	https://www.eagle-network.eu/voc/writing/lod/11	0		373	10010		False	
+60210	writing.inscribed.scored	Scored	RIB-execution_technique	60010		0		0	0		False	
+60220	writing.inscribed.scratched	Scratched	RIB-execution_technique	60010	https://www.eagle-network.eu/voc/writing/lod/9	0		374	10011		False	
+60230	writing.impressed.embossed	Embossed	RIB-execution_technique	60020		0		0	0		False	
+60240	writing.impressed.troughs	In Troughs	RIB-execution_technique	60020		0		376	10013		False	
+60250	writing.impressed.points	In Points (chasing)	RIB-execution_technique	60020		0		377	10014		False	
+60260	writing.impressed.other	Other	RIB-execution_technique	60020		0		378	10015		False	
+60270	writing.protruding.applied	Applied	RIB-execution_technique	60030	https://www.eagle-network.eu/voc/writing/lod/6	0		380	10017		False	
+60280	writing.protruding.molded	Molded	RIB-execution_technique	60030	https://www.eagle-network.eu/voc/writing/lod/8	0		381	10018		False	
+60290	writing.protruding.relief	In Relief (cut)	RIB-execution_technique	60030	https://www.eagle-network.eu/voc/writing/lod/7	0		382	10019		False	
+60300	writing.protruding.points	In Points (repoussé)	RIB-execution_technique	60030		0		383	10020		False	Q656884
+60310	writing.painted.brush	With Brush	RIB-execution_technique	60040	https://www.eagle-network.eu/voc/writing/lod/10	0		385	10022		False	
+60320	writing.painted.other	With Other	RIB-execution_technique	60040		0		386	10023		False	
+60330	writing.inset.mosaic	Mosaic	RIB-execution_technique	60050	https://www.eagle-network.eu/voc/writing/lod/16	0		388	10025		False	
+60340	writing.inset.inlaid	Inlaid	RIB-execution_technique	60050	https://www.eagle-network.eu/voc/writing/lod/4	0		389	10026		False	
+60350	writing.inset.niello	Niello	RIB-execution_technique	60050		0		0	10034		False	
+60360	writing.stamped.branded	Branded	RIB-execution_technique	60060		0		0	0		False	Q8032296
+60370	writing.stamped.impressed	Impressed	RIB-execution_technique	60060		0		391	10028		False	
+60380	writing.cast	Cast	RIB-execution_technique	60000		0		0	10037		False	
+60390	writing.cast.openwork	Openwork	RIB-execution_technique	60380		0		0	10038		False	
+70000	script	Script Type	RIB-script_type	0		0		156	0		False	
+70010	script.address	Address	RIB-script_type	70000		0		567	9014		False	
+70020	script.bookhand	Bookhand	RIB-script_type	70000		0		566	9010		False	
+70030	script.capitals	Capitals	RIB-script_type	70000		0		394	0		False	
+70040	script.cursive	Cursive	RIB-script_type	70000		0		396	0		False	Q1079418
+70050	script.litterae-elongatae	Litterae elongatae	RIB-script_type	70000		0		565	9011		False	Q31840115
+70060	script.shorthand	Shorthand	RIB-script_type	70000		0		561	9009		False	Q181066
+70070	script.uncertain	Uncertain	RIB-script_type	70000		0		563	9012		False	
+70080	script.unclassified	Unclassified	RIB-script_type	70000		0		399	0		False	
+70090	script.unknown	Unknown	RIB-script_type	70000		0		562	9013		False	
+70100	script.capitals.monumental	Monumental capitals	RIB-script_type	70030		0		560	9001		False	Q533425
+70110	script.capitals.rustic	Rustic capitals	RIB-script_type	70030		0		395	9005		False	Q1034681
+70120	script.cursive.nrc	New Roman Cursive	RIB-script_type	70040		0		397	9007		False	Q33259617
+70130	script.cursive.orc	Old Roman Cursive	RIB-script_type	70040		0		398	9006		False	Q254849
+70140	script.cursive.mixed	Mixed Roman Cursive	RIB-script_type	70040		0		564	9008		False	
+80000	lang	Text Language	RIB-lang	0		0		149	0		False	
+80010	lang.indo-european	Indo-European	RIB-lang	80000		0		0	1200		False	Q19860
+80020	lang.non-indo-european	Non-Indo-European	RIB-lang	80000		0		0	1300		False	
+80030	lang.tartessian	Tartessian	RIB-lang	80000		0		0	1110		False	Q36795
+80040	lang.turdetanian	Turdetani	RIB-lang	80000		0		0	1112		False	Q1353723
+80050	lang.unknown	Unknown	RIB-lang	80000		0		414	1401		False	
+80060	lang.celtic	Celtic	RIB-lang	80000		0		401	1010		False	Q25293
+80070	lang.dacian	Dacian	RIB-lang	80000		0		568	1092		False	Q682547
+80080	lang.germanic	Germanic	RIB-lang	80000		0		0	1035		False	Q21200
+80090	lang.greek	Ancient Greek	RIB-lang	80000		0		405	1040		False	Q35497
+80100	lang.italic	Italic	RIB-lang	80000		0		0	1049		False	Q131848
+80110	lang.lusitanian	Lusitanian	RIB-lang	80000		0		570	1090		False	Q35960
+80120	lang.thracian	Thracian	RIB-lang	80000		0		569	1091		False	Q36793
+80130	lang.celtic.british	British Celtic	RIB-lang	80060		0		0	1011		False	Q156877
+80140	lang.celtiberian	Celtiberian	RIB-lang	80000		0		0	1015		False	Q37012
+80150	lang.celtic.greek-trans	Celtic (transcr. Greek)	RIB-lang	80060		0		402	1010		False	Q25293
+80160	lang.transalpine-gaulish	Transalpine Gaulish	RIB-lang	80000		0		411	1080		False	Q65455889
+80170	lang.noric	Noric	RIB-lang	80000		0		407	1060		False	Q37023
+80180	lang.transalpine-gaulish.greek-trans	Transalpine Gaulish (transcr. Greek)	RIB-lang	80160		0		412	1080		False	Q65455889
+80190	lang.transalpine-gaulish.latin-trans	Transalpine Gaulish (transcr. Latin)	RIB-lang	80160		0		413	1080		False	Q65455889
+80200	lang.noric.italic-trans	Noric (transcr. Italic)	RIB-lang	80170		0		408	1060		False	Q37023
+80210	lang.noric.latin-trans	Noric (transcr. Latin)	RIB-lang	80170		0		409	1060		False	Q37023
+80220	lang.latin	Latin	RIB-lang	80000		0		406	1050		False	Q397
+80230	lang.oscan	Oscan	RIB-lang	80000		0		0	1051		False	Q36653
+80240	lang.umbrian	Umbrian	RIB-lang	80000		0		0	1052		False	Q36957
+80250	lang.afro-asiatic	Afro-Asiatic	RIB-lang	80000		0		0	1019		False	Q25268
+80260	lang.etruscan	Etruscan	RIB-lang	80000		0		404	1030		False	Q35726
+80270	lang.iberian	Iberian	RIB-lang	80000		0		0	1045		False	Q855215
+80280	lang.raetic	Raetic	RIB-lang	80000		0		410	1070		False	Q36689
+80290	lang.semitic	Semitic	RIB-lang	80000		0		0	1100		False	Q34049
+80300	lang.coptic	Coptic	RIB-lang	80000		0		403	1020		False	Q36155
+80310	lang.aquitanian	Aquitanian	RIB-lang	80000		0		0	1047		False	Q500522
+80320	lang.hebrew	Hebrew	RIB-lang	80290		0		0	1102		False	Q9288
+80330	lang.phoenician	Phoenician	RIB-lang	80290		0		0	1104		False	Q36734
+80340	lang.punic	Punic	RIB-lang	80290		0		0	1106		False	Q535958
+80350	lang.old-english	Old English	RIB-lang	80080		0		0	1202		False	Q42365
+80360	lang.palmyrene	Palmyrene	RIB-lang	80290		0		0	1108		False	Q1510113
+90000	form	Object Form	RIB-object_form	0		0		131	0		False	
+90010	form.roundel	Roundel forms	RIB-object_form	90000		0		418	0		False	
+90020	form.ceram	Ceramic forms	RIB-object_form	90000		0		423	0		False	
+90030	form.roundel.kenyon.A	Kenyon, Type A	RIB-object_form	92400		0		0	0		False	
+90040	form.roundel.kenyon.B	Kenyon, Type B	RIB-object_form	92400		0		0	0		False	
+90050	form.roundel.kenyon.C	Kenyon, Type C	RIB-object_form	92400		0		0	0		False	
+90060	form.ceram.augst	Augst forms	RIB-object_form	90020		0		424	0		False	
+90070	form.ceram.camulodunum	Camulodunum forms	RIB-object_form	90020		0		426	0		False	
+90080	form.ceram.curle	Curle forms	RIB-object_form	90020		0		445	0		False	
+90090	form.ceram.dechelette	Déchelette forms	RIB-object_form	90020		0		449	0		False	
+90100	form.ceram.drag	Dragendorff forms	RIB-object_form	90020		0		453	0		False	
+90110	form.ceram.dressel	Dressel forms	RIB-object_form	90020		0		485	0		False	
+90120	form.ceram.gauloise	Gauloise forms	RIB-object_form	90020		0		491	0		False	
+90130	form.ceram.gillam	Gillam types	RIB-object_form	90020		0		496	0		False	
+90140	form.ceram.haltern	Haltern forms	RIB-object_form	90020		0		506	0		False	
+90150	form.ceram.lra	Late Roman Army forms	RIB-object_form	90020		0		508	0		False	
+90160	form.ceram.loeschcke	Loeschcke forms	RIB-object_form	90020		0		511	0		False	
+90170	form.ceram.london	London forms	RIB-object_form	90020		0		514	0		False	
+90180	form.ceram.ludowici	Ludowici forms	RIB-object_form	90020		0		516	0		False	
+90190	form.ceram.peawill	Peacock and Williams classes	RIB-object_form	90020		0		519	0		False	
+90200	form.ceram.pelichet	Pélichet forms	RIB-object_form	90020		0		526	0		False	
+90210	form.ceram.ritterling	Ritterling forms	RIB-object_form	90020		0		528	0		False	
+90220	form.ceram.walters	Walters forms	RIB-object_form	90020		0		534	0		False	
+90230	form.ceram.unknown	Unknown	RIB-object_form	90020		0		538	0		False	
+90240	form.ceram.unclassified	Not yet classified	RIB-object_form	90020		0		539	0		False	
+90250	form.ceram.augst.21	Augst 21	RIB-object_form	90060		0		425	0		False	
+90260	form.ceram.camulodunum.001	Camulodunum 1	RIB-object_form	90070		0		427	0		False	
+90270	form.ceram.camulodunum.004	Camulodunum 4	RIB-object_form	90070		0		428	0		False	
+90280	form.ceram.camulodunum.007_8	Camulodunum 7/8	RIB-object_form	90070		0		429	0		False	
+90290	form.ceram.camulodunum.008	Camulodunum 8	RIB-object_form	90070		0		430	0		False	
+90295	form.ceram.camulodunum.S4A.prime	Camulodunum S4A’	RIB-object_form	90070		0		0	0		False	
+90300	form.ceram.camulodunum.021	Camulodunum 21	RIB-object_form	90070		0		431	0		False	
+90310	form.ceram.camulodunum.022	Camulodunum 22	RIB-object_form	90070		0		432	0		False	
+90320	form.ceram.camulodunum.113	Camulodunum 113	RIB-object_form	90070		0		433	0		False	
+90330	form.ceram.camulodunum.120	Camulodunum 120	RIB-object_form	90070		0		434	0		False	
+90340	form.ceram.camulodunum.181	Camulodunum 181	RIB-object_form	90070		0		435	0		False	
+90350	form.ceram.camulodunum.183	Camulodunum 183	RIB-object_form	90070		0		436	0		False	
+90360	form.ceram.camulodunum.184	Camulodunum 184	RIB-object_form	90070		0		437	0		False	
+90370	form.ceram.camulodunum.185A	Camulodunum 185A	RIB-object_form	90070		0		438	0		False	
+90380	form.ceram.camulodunum.185B	Camulodunum 185B	RIB-object_form	90070		0		439	0		False	
+90390	form.ceram.camulodunum.186	Camulodunum 186	RIB-object_form	90070		0		440	0		False	
+90400	form.ceram.camulodunum.186A	Camulodunum 186A	RIB-object_form	90070		0		441	0		False	
+90410	form.ceram.camulodunum.186C	Camulodunum 186C	RIB-object_form	90070		0		442	0		False	
+90420	form.ceram.camulodunum.227	Camulodunum 227	RIB-object_form	90070		0		443	0		False	
+90430	form.ceram.camulodunum.267	Camulodunum 267	RIB-object_form	90070		0		444	0		False	
+90440	form.ceram.camulodunum.268	Camulodunum 268	RIB-object_form	90070		0		0	0		False	
+90450	form.ceram.curle.11	Curle 11	RIB-object_form	90080		0		446	0		False	
+90460	form.ceram.curle.15	Curle 15	RIB-object_form	90080		0		447	0		False	
+90470	form.ceram.curle.23	Curle 23	RIB-object_form	90080		0		448	0		False	
+90480	form.ceram.dechelette.62	Déchelette 62	RIB-object_form	90090		0		450	0		False	
+90490	form.ceram.dechelette.65	Déchelette 65	RIB-object_form	90090		0		451	0		False	
+90500	form.ceram.dechelette.67	Déchelette 67	RIB-object_form	90090		0		452	0		False	
+90510	form.ceram.drag.02_4	Drag. 2/4	RIB-object_form	90100		0		454	0		False	
+90520	form.ceram.drag.17	Drag. 17	RIB-object_form	90100		0		455	0		False	
+90530	form.ceram.drag.11	Drag. 11	RIB-object_form	90100		0		456	0		False	Q80102363
+90540	form.ceram.drag.15_17	Drag. 15/17	RIB-object_form	90100		0		457	0		False	Q79882804
+90550	form.ceram.drag.18	Drag. 18	RIB-object_form	90100		0		458	0		False	Q79882825
+90560	form.ceram.drag.18R	Drag. 18R	RIB-object_form	90100		0		459	0		False	
+90570	form.ceram.drag.18_31	Drag. 18/31	RIB-object_form	90100		0		460	0		False	Q79883062
+90580	form.ceram.drag.18_31R	Drag. 18/31R	RIB-object_form	90100		0		461	0		False	
+90585	form.ceram.dressel.28	Dressel 28	RIB-object_form	90110		0		0	0		False	
+90590	form.ceram.drag.22	Drag. 22	RIB-object_form	90100		0		462	0		False	Q79883418
+90595	form.ceram.drag.24	Dragendorff 24	RIB-object_form	90110		0		0	0		False	
+90600	form.ceram.drag.24_25	Drag. 24/25	RIB-object_form	90100		0		463	0		False	Q79883759
+90610	form.ceram.drag.27	Drag. 27	RIB-object_form	90100		0		464	0		False	Q79883941
+90620	form.ceram.drag.27g	Drag. 27g	RIB-object_form	90100		0		465	0		False	
+90630	form.ceram.drag.29	Drag. 29	RIB-object_form	90100		0		466	0		False	Q79884021
+90640	form.ceram.drag.30	Drag. 30	RIB-object_form	90100		0		467	0		False	Q79884026
+90650	form.ceram.drag.31	Drag. 31	RIB-object_form	90100		0		468	0		False	Q79884030
+90660	form.ceram.drag.31R	Drag. 31R	RIB-object_form	90100		0		469	0		False	
+90670	form.ceram.drag.32	Drag. 32	RIB-object_form	90100		0		470	0		False	Q79884032
+90680	form.ceram.drag.33	Drag. 33	RIB-object_form	90100		0		471	0		False	Q79407335
+90690	form.ceram.drag.33a	Drag. 33a	RIB-object_form	90100		0		0	0		False	
+90700	form.ceram.drag.35	Drag. 35	RIB-object_form	90100		0		472	0		False	Q79884081
+90705	form.ceram.drag.35_36	Dragendorff 35/36	RIB-object_form	90110		0		0	0		False	Q79884284
+90710	form.ceram.drag.36	Drag. 36	RIB-object_form	90100		0		473	0		False	
+90720	form.ceram.drag.37	Drag. 37	RIB-object_form	90100		0		474	0		False	Q75719779
+90730	form.ceram.drag.38	Drag. 38	RIB-object_form	90100		0		475	0		False	Q79884626
+90740	form.ceram.drag.40	Drag. 40	RIB-object_form	90100		0		476	0		False	Q79884831
+90750	form.ceram.drag.42	Drag. 42	RIB-object_form	90100		0		477	0		False	Q79885208
+90760	form.ceram.drag.43	Drag. 43	RIB-object_form	90100		0		478	0		False	Q79885331
+90770	form.ceram.drag.44	Drag. 44	RIB-object_form	90100		0		479	0		False	Q79885333
+90780	form.ceram.drag.45	Drag. 45	RIB-object_form	90100		0		480	0		False	Q79885336
+90790	form.ceram.drag.46	Drag. 46	RIB-object_form	90100		0		481	0		False	Q79885342
+90800	form.ceram.drag.54	Drag. 54	RIB-object_form	90100		0		482	0		False	
+90810	form.ceram.drag.79	Drag. 79	RIB-object_form	90100		0		483	0		False	
+90820	form.ceram.drag.79R	Drag. 79R	RIB-object_form	90100		0		484	0		False	
+90830	form.ceram.dressel.02-4	Dressel 2/4	RIB-object_form	90110		0		486	0		False	
+90840	form.ceram.dressel.16	Dressel 16	RIB-object_form	90110		0		487	0		False	
+90850	form.ceram.dressel.20	Dressel 20	RIB-object_form	90110		0		488	0		False	Q110712991
+90860	form.ceram.dressel.30	Dressel 30	RIB-object_form	90110		0		489	0		False	
+90870	form.ceram.dressel.37	Dressel 37	RIB-object_form	90110		0		490	0		False	
+90880	form.ceram.gauloise.1	Gauloise 1	RIB-object_form	90120		0		492	0		False	
+90890	form.ceram.gauloise.2	Gauloise 2	RIB-object_form	90120		0		493	0		False	
+90900	form.ceram.gauloise.3	Gauloise 3	RIB-object_form	90120		0		494	0		False	
+90910	form.ceram.gauloise.4	Gauloise 4	RIB-object_form	90120		0		495	0		False	
+90920	form.ceram.gillam.117	Gillam type 117	RIB-object_form	90130		0		497	0		False	
+90930	form.ceram.gillam.145	Gillam type 145	RIB-object_form	90130		0		498	0		False	
+90940	form.ceram.gillam.146	Gillam type 146	RIB-object_form	90130		0		499	0		False	
+90950	form.ceram.gillam.221	Gillam type 221	RIB-object_form	90130		0		500	0		False	
+90960	form.ceram.gillam.227	Gillam type 227	RIB-object_form	90130		0		501	0		False	
+90970	form.ceram.gillam.228	Gillam type 228	RIB-object_form	90130		0		502	0		False	
+90980	form.ceram.gillam.293	Gillam type 293	RIB-object_form	90130		0		503	0		False	
+90990	form.ceram.gillam.322	Gillam type 322	RIB-object_form	90130		0		504	0		False	
+91000	form.ceram.gillam.329	Gillam type 329	RIB-object_form	90130		0		505	0		False	
+91010	form.ceram.haltern.70	Haltern 70	RIB-object_form	90140		0		507	0		False	
+91020	form.ceram.lra.1	Late Roman Army 1	RIB-object_form	90150		0		509	0		False	
+91030	form.ceram.lra.2	Late Roman Army 2	RIB-object_form	90150		0		510	0		False	
+91040	form.ceram.loeschcke.1	Loeschcke 1	RIB-object_form	90160		0		512	0		False	
+91050	form.ceram.loeschcke.1b	Loeschcke 1b	RIB-object_form	90160		0		513	0		False	
+91060	form.ceram.london.555	London 555	RIB-object_form	90170		0		515	0		False	
+91070	form.ceram.ludowici.Tf	Ludowici Tf	RIB-object_form	90180		0		517	0		False	
+91080	form.ceram.ludowici.Tg	Ludowici Tg	RIB-object_form	90180		0		518	0		False	
+91090	form.ceram.peawill.09	Peacock and Williams class 9	RIB-object_form	90190		0		520	0		False	
+91100	form.ceram.peawill.17	Peacock and Williams class 17	RIB-object_form	90190		0		521	0		False	
+91110	form.ceram.peawill.18	Peacock and Williams class 18	RIB-object_form	90190		0		522	0		False	
+91120	form.ceram.peawill.25	Peacock and Williams class 25	RIB-object_form	90190		0		523	0		False	
+91130	form.ceram.peawill.27	Peacock and Williams class 27	RIB-object_form	90190		0		524	0		False	
+91140	form.ceram.peawill.43	Peacock and Williams class 43	RIB-object_form	90190		0		525	0		False	
+91150	form.ceram.pelichet.47	Pélichet 47	RIB-object_form	90200		0		527	0		False	
+91160	form.ceram.ritterling.01	Ritterling 1	RIB-object_form	90210		0		529	0		False	
+91170	form.ceram.ritterling.05	Ritterling 5	RIB-object_form	90210		0		530	0		False	
+91180	form.ceram.ritterling.08	Ritterling 8	RIB-object_form	90210		0		531	0		False	
+91190	form.ceram.ritterling.09	Ritterling 9	RIB-object_form	90210		0		532	0		False	
+91200	form.ceram.ritterling.13	Ritterling 13	RIB-object_form	90210		0		533	0		False	
+91210	form.ceram.walters.79	Walters 79	RIB-object_form	90220		0		535	0		False	
+91220	form.ceram.walters.79_80	Walters 79/80	RIB-object_form	90220		0		536	0		False	
+91230	form.ceram.walters.80	Walters 80	RIB-object_form	90220		0		537	0		False	
+91240	form.ring	Finger-ring forms	RIB-object_form	90000		0		0	0		False	
+91250	form.ring.brancaster	Brancaster	RIB-object_form	91240		0		0	0		False	
+91260	form.ring.henig	Henig ring forms	RIB-object_form	91240		0		0	0		False	
+91270	form.ring.henig.v	Henig type V	RIB-object_form	91260		0		0	0		False	
+91280	form.ring.henig.viii	Henig type VIII	RIB-object_form	91260		0		0	0		False	
+91290	form.ring.henig.xi	Henig type XI	RIB-object_form	91260		0		0	0		False	
+91300	form.fibula	Brooch/fibula forms	RIB-object_form	90000		0		0	0		False	
+91310	form.fibula.aucissa	Aucissa	RIB-object_form	91300		0		0	0		False	Q758628
+91320	form.fibula.colchester	Colchester brooch forms	RIB-object_form	91300		0		0	0		False	Q111692771
+91330	form.fibula.colchester.A	Colchester type A	RIB-object_form	91320		0		0	0		False	Q111692771
+91340	form.fibula.crossbow	Crossbow	RIB-object_form	91300		0		0	0		False	Q244602
+91350	form.fibula.fantail	Fantail	RIB-object_form	91300		0		0	0		False	Q111700013
+91360	form.fibula.hod-hill	Hod Hill	RIB-object_form	91300		0		0	0		False	Q111700323
+91370	form.fibula.langton-down	Langton Down	RIB-object_form	91300		0		0	0		False	Q111700957
+91380	form.fibula.penannular	Penannular	RIB-object_form	91300		0		0	0		False	Q2117448
+91390	form.fibula.thistle	Thistle	RIB-object_form	91300		0		0	0		False	Q111710697
+91400	form.fibula.trumpet	Trumpet	RIB-object_form	91300		0		0	0		False	Q111710815
+91410	form.ceram.beltran	Beltrán amphora forms	RIB-object_form	90020		0		0	0		False	
+91420	form.ceram.beltran.I	Beltrán I	RIB-object_form	91410		0		0	0		False	
+91430	form.ceram.beltran.IIA	Beltrán IIA	RIB-object_form	91410		0		0	0		False	
+91440	form.ceram.beltran.IIB	Beltrán IIB	RIB-object_form	91410		0		0	0		False	
+91450	form.ceram.beltran.68	Beltrán 68	RIB-object_form	91410		0		0	0		False	
+91460	form.ceram.beltran.72	Beltrán 72	RIB-object_form	91410		0		0	0		False	
+91470	form.ceram.boon.leg_2	Boon tile forms (Legio II)	RIB-object_form	90020		0		0	0		False	
+91480	form.ceram.boon.leg_2.A-i-1	Boon type A i 1	RIB-object_form	91470		0		0	0		False	
+91490	form.ceram.boon.leg_2.A-i-2	Boon type A i 2	RIB-object_form	91470		0		0	0		False	
+91500	form.ceram.boon.leg_2.A-i-3	Boon type A i 3	RIB-object_form	91470		0		0	0		False	
+91510	form.ceram.boon.leg_2.A-i-4	Boon type A i 4	RIB-object_form	91470		0		0	0		False	
+91520	form.ceram.boon.leg_2.A-ii-1	Boon type A ii 1	RIB-object_form	91470		0		0	0		False	
+91530	form.ceram.boon.leg_2.A-ii-2	Boon type A ii 2	RIB-object_form	91470		0		0	0		False	
+91540	form.ceram.boon.leg_2.A-ii-3	Boon type A ii 3	RIB-object_form	91470		0		0	0		False	
+91550	form.ceram.boon.leg_2.A-ii-4	Boon type A ii 4	RIB-object_form	91470		0		0	0		False	
+91560	form.ceram.boon.leg_2.A-ii-5	Boon type A ii 5	RIB-object_form	91470		0		0	0		False	
+91570	form.ceram.boon.leg_2.A-ii-6	Boon type A ii 6	RIB-object_form	91470		0		0	0		False	
+91580	form.ceram.boon.leg_2.A-ii-7	Boon type A ii 7	RIB-object_form	91470		0		0	0		False	
+91590	form.ceram.boon.leg_2.A-ii-8	Boon type A ii 8	RIB-object_form	91470		0		0	0		False	
+91600	form.ceram.boon.leg_2.A-iii-1	Boon type A iii 1	RIB-object_form	91470		0		0	0		False	
+91610	form.ceram.boon.leg_2.A-iii-2	Boon type A iii 2	RIB-object_form	91470		0		0	0		False	
+91620	form.ceram.boon.leg_2.A-iv-1	Boon type A iv 1	RIB-object_form	91470		0		0	0		False	
+91630	form.ceram.boon.leg_2.A-iv-2	Boon type A iv 2	RIB-object_form	91470		0		0	0		False	
+91640	form.ceram.boon.leg_2.A-iv-3	Boon type A iv 3	RIB-object_form	91470		0		0	0		False	
+91650	form.ceram.boon.leg_2.A-ix-1	Boon type A ix 1	RIB-object_form	91470		0		0	0		False	
+91660	form.ceram.boon.leg_2.A-v-1	Boon type A v 1	RIB-object_form	91470		0		0	0		False	
+91670	form.ceram.boon.leg_2.A-v-2	Boon type A v 2	RIB-object_form	91470		0		0	0		False	
+91680	form.ceram.boon.leg_2.A-v-3	Boon type A v 3	RIB-object_form	91470		0		0	0		False	
+91690	form.ceram.boon.leg_2.A-vi-1	Boon type A vi 1	RIB-object_form	91470		0		0	0		False	
+91700	form.ceram.boon.leg_2.A-vii-1	Boon type A vii 1	RIB-object_form	91470		0		0	0		False	
+91710	form.ceram.boon.leg_2.A-viii-1	Boon type A viii 1	RIB-object_form	91470		0		0	0		False	
+91720	form.ceram.boon.leg_2.A-x-1	Boon type A x 1	RIB-object_form	91470		0		0	0		False	
+91730	form.ceram.boon.leg_2.A-x-2	Boon type A x 2	RIB-object_form	91470		0		0	0		False	
+91740	form.ceram.boon.leg_2.A-xi-1	Boon type A xi 1	RIB-object_form	91470		0		0	0		False	
+91750	form.ceram.boon.leg_2.A-xi-2	Boon type A xi 2	RIB-object_form	91470		0		0	0		False	
+91760	form.ceram.boon.leg_2.A-xii-1	Boon type A xii 1	RIB-object_form	91470		0		0	0		False	
+91770	form.ceram.boon.leg_2.A-xii-2	Boon type A xii 2	RIB-object_form	91470		0		0	0		False	
+91780	form.ceram.boon.leg_2.A-xiii-1	Boon type A xiii 1	RIB-object_form	91470		0		0	0		False	
+91790	form.ceram.boon.leg_2.A-xiv-1	Boon type A xiv 1	RIB-object_form	91470		0		0	0		False	
+91800	form.ceram.boon.leg_2.A-xix-1	Boon type A xix 1	RIB-object_form	91470		0		0	0		False	
+91810	form.ceram.boon.leg_2.A-xix-2	Boon type A xix 2	RIB-object_form	91470		0		0	0		False	
+91820	form.ceram.boon.leg_2.A-xix-3	Boon type A xix 3	RIB-object_form	91470		0		0	0		False	
+91830	form.ceram.boon.leg_2.A-xv-1	Boon type A xv 1	RIB-object_form	91470		0		0	0		False	
+91840	form.ceram.boon.leg_2.A-xvi-1	Boon type A xvi 1	RIB-object_form	91470		0		0	0		False	
+91850	form.ceram.boon.leg_2.A-xvi-2	Boon type A xvi 2	RIB-object_form	91470		0		0	0		False	
+91860	form.ceram.boon.leg_2.A-xvii-1	Boon type A xvii 1	RIB-object_form	91470		0		0	0		False	
+91870	form.ceram.boon.leg_2.A-xvii-2	Boon type A xvii 2	RIB-object_form	91470		0		0	0		False	
+91880	form.ceram.boon.leg_2.A-xviii-1	Boon type A xviii 1	RIB-object_form	91470		0		0	0		False	
+91890	form.ceram.boon.leg_2.A-xviii-2	Boon type A xviii 2	RIB-object_form	91470		0		0	0		False	
+91900	form.ceram.boon.leg_2.A-xx-1	Boon type A xx 1	RIB-object_form	91470		0		0	0		False	
+91910	form.ceram.boon.leg_2.A-xx-2	Boon type A xx 2	RIB-object_form	91470		0		0	0		False	
+91920	form.ceram.boon.leg_2.A-xxi-1	Boon type A xxi 1	RIB-object_form	91470		0		0	0		False	
+91930	form.ceram.boon.leg_2.A-xxi-2	Boon type A xxi 2	RIB-object_form	91470		0		0	0		False	
+91940	form.ceram.boon.leg_2.A-xxi-3	Boon type A xxi 3	RIB-object_form	91470		0		0	0		False	
+91950	form.ceram.boon.leg_2.A-xxi-4	Boon type A xxi 4	RIB-object_form	91470		0		0	0		False	
+91960	form.ceram.boon.leg_2.A-xxii-1	Boon type A xxii 1	RIB-object_form	91470		0		0	0		False	
+91970	form.ceram.boon.leg_2.A-xxii-2	Boon type A xxii 2	RIB-object_form	91470		0		0	0		False	
+91980	form.ceram.boon.leg_2.B-i-1	Boon type B i 1	RIB-object_form	91470		0		0	0		False	
+91990	form.ceram.boon.leg_2.B-ii-1	Boon type B ii 1	RIB-object_form	91470		0		0	0		False	
+92000	form.ceram.boon.leg_2.B-iii-1	Boon type B iii 1	RIB-object_form	91470		0		0	0		False	
+92010	form.ceram.boon.leg_2.B-iv-1	Boon type B iv 1	RIB-object_form	91470		0		0	0		False	
+92020	form.ceram.boon.leg_2.B-v-1	Boon type B v 1	RIB-object_form	91470		0		0	0		False	
+92030	form.ceram.boon.leg_2.B-vi-1	Boon type B vi 1	RIB-object_form	91470		0		0	0		False	
+92040	form.ceram.boon.leg_2.B-vi-2	Boon type B vi 2	RIB-object_form	91470		0		0	0		False	
+92050	form.ceram.boon.leg_2.C-i-1	Boon type C i 1	RIB-object_form	91470		0		0	0		False	
+92060	form.ceram.boon.leg_2.C-ii-1	Boon type C ii 1	RIB-object_form	91470		0		0	0		False	
+92070	form.ceram.boon.leg_2.D-i-1	Boon type D i 1	RIB-object_form	91470		0		0	0		False	
+92080	form.ceram.boon.leg_2.D-ii-1	Boon type D ii 1	RIB-object_form	91470		0		0	0		False	
+92090	form.ceram.boon.leg_2.Z-1	Boon type Z 1	RIB-object_form	91470		0		0	0		False	
+92100	form.ceram.boon.leg_2.Z-2	Boon type Z 2	RIB-object_form	91470		0		0	0		False	
+92110	form.ceram.boon.leg_2.Z-3	Boon type Z 3	RIB-object_form	91470		0		0	0		False	
+92120	form.ceram.boon.leg_2.Z-4	Boon type Z 4	RIB-object_form	91470		0		0	0		False	
+92130	form.ceram.boon.leg_2.Z-5	Boon type Z 5	RIB-object_form	91470		0		0	0		False	
+92140	form.ceram.boon.leg_2.Z-6	Boon type Z 6	RIB-object_form	91470		0		0	0		False	
+92150	form.ceram.brodribb	Brodribb tile forms (Classis Britannica)	RIB-object_form	90020		0		0	0		False	
+92160	form.ceram.brodribb.01	Brodribb type 1	RIB-object_form	92150		0		0	0		False	
+92170	form.ceram.brodribb.01-B	Brodribb type 1 B	RIB-object_form	92150		0		0	0		False	
+92180	form.ceram.brodribb.01-C	Brodribb type 1 C	RIB-object_form	92150		0		0	0		False	
+92190	form.ceram.brodribb.02	Brodribb type 2	RIB-object_form	92150		0		0	0		False	
+92200	form.ceram.brodribb.02-A	Brodribb type 2 A	RIB-object_form	92150		0		0	0		False	
+92210	form.ceram.brodribb.02-B	Brodribb type 2 B	RIB-object_form	92150		0		0	0		False	
+92220	form.ceram.brodribb.03	Brodribb type 3	RIB-object_form	92150		0		0	0		False	
+92230	form.ceram.brodribb.04	Brodribb type 4	RIB-object_form	92150		0		0	0		False	
+92240	form.ceram.brodribb.05	Brodribb type 5	RIB-object_form	92150		0		0	0		False	
+92250	form.ceram.brodribb.06	Brodribb type 6	RIB-object_form	92150		0		0	0		False	
+92260	form.ceram.brodribb.07	Brodribb type 7	RIB-object_form	92150		0		0	0		False	
+92270	form.ceram.brodribb.08	Brodribb type 8	RIB-object_form	92150		0		0	0		False	
+92280	form.ceram.brodribb.09	Brodribb type 9	RIB-object_form	92150		0		0	0		False	
+92290	form.ceram.brodribb.10	Brodribb type 10	RIB-object_form	92150		0		0	0		False	
+92300	form.ceram.brodribb.11	Brodribb type 11	RIB-object_form	92150		0		0	0		False	
+92310	form.ceram.brodribb.12	Brodribb type 12	RIB-object_form	92150		0		0	0		False	
+92320	form.ceram.brodribb.12-A	Brodribb type 12 A	RIB-object_form	92150		0		0	0		False	
+92330	form.ceram.brodribb.13	Brodribb type 13	RIB-object_form	92150		0		0	0		False	
+92340	form.ceram.brodribb.14	Brodribb type 14	RIB-object_form	92150		0		0	0		False	
+92350	form.ceram.brodribb.15	Brodribb type 15	RIB-object_form	92150		0		0	0		False	
+92360	form.ceram.brodribb.16	Brodribb type 16	RIB-object_form	92150		0		0	0		False	
+92370	form.ceram.brodribb.17	Brodribb type 17	RIB-object_form	92150		0		0	0		False	
+92380	form.ceram.brodribb.18	Brodribb type 18	RIB-object_form	92150		0		0	0		False	
+92390	form.ceram.brodribb.19	Brodribb type 19	RIB-object_form	92150		0		0	0		False	
+92400	form.roundel.kenyon	Kenyon	RIB-object_form	90010		0		0	0		False	
+92410	form.ceram.brodribb.19-A	Brodribb type 19 A	RIB-object_form	92150		0		0	0		False	
+92420	form.ceram.brodribb.19-B	Brodribb type 19 B	RIB-object_form	92150		0		0	0		False	
+92430	form.ceram.brodribb.19-C	Brodribb type 19 C	RIB-object_form	92150		0		0	0		False	
+92440	form.ceram.brodribb.19-D	Brodribb type 19 D	RIB-object_form	92150		0		0	0		False	
+92450	form.ceram.brodribb.19-E	Brodribb type 19 E	RIB-object_form	92150		0		0	0		False	
+92460	form.ceram.brodribb.19-F	Brodribb type 19 F	RIB-object_form	92150		0		0	0		False	
+92470	form.ceram.brodribb.19-G	Brodribb type 19 G	RIB-object_form	92150		0		0	0		False	
+92480	form.ceram.brodribb.19-H	Brodribb type 19 H	RIB-object_form	92150		0		0	0		False	
+92490	form.ceram.brodribb.19-J	Brodribb type 19 J	RIB-object_form	92150		0		0	0		False	
+92500	form.ceram.brodribb.20	Brodribb type 20	RIB-object_form	92150		0		0	0		False	
+92510	form.ceram.brodribb.20-A	Brodribb type 20 A	RIB-object_form	92150		0		0	0		False	
+92520	form.ceram.brodribb.20-B	Brodribb type 20 B	RIB-object_form	92150		0		0	0		False	
+92530	form.ceram.brodribb.20-C	Brodribb type 20 C	RIB-object_form	92150		0		0	0		False	
+92540	form.ceram.brodribb.20-D	Brodribb type 20 D	RIB-object_form	92150		0		0	0		False	
+92550	form.ceram.brodribb.20-E	Brodribb type 20 E	RIB-object_form	92150		0		0	0		False	
+92560	form.ceram.brodribb.20-G	Brodribb type 20 G	RIB-object_form	92150		0		0	0		False	
+92570	form.ceram.brodribb.20-J	Brodribb type 20 J	RIB-object_form	92150		0		0	0		False	
+92580	form.ceram.brodribb.21	Brodribb type 21	RIB-object_form	92150		0		0	0		False	
+92590	form.ceram.brodribb.21-B	Brodribb type 21 B	RIB-object_form	92150		0		0	0		False	
+92600	form.ceram.brodribb.22	Brodribb type 22	RIB-object_form	92150		0		0	0		False	
+92610	form.ceram.brodribb.22-A	Brodribb type 22 A	RIB-object_form	92150		0		0	0		False	
+92620	form.ceram.brodribb.23	Brodribb type 23	RIB-object_form	92150		0		0	0		False	
+92630	form.ceram.brodribb.24	Brodribb type 24	RIB-object_form	92150		0		0	0		False	
+92640	form.ceram.brodribb.25	Brodribb type 25	RIB-object_form	92150		0		0	0		False	
+92650	form.ceram.brodribb.26	Brodribb type 26	RIB-object_form	92150		0		0	0		False	
+92660	form.ceram.brodribb.27	Brodribb type 27	RIB-object_form	92150		0		0	0		False	
+92670	form.ceram.brodribb.28	Brodribb type 28	RIB-object_form	92150		0		0	0		False	
+92680	form.ceram.brodribb.29	Brodribb type 29	RIB-object_form	92150		0		0	0		False	
+92690	form.ceram.brodribb.30	Brodribb type 30	RIB-object_form	92150		0		0	0		False	
+92700	form.ceram.brodribb.31	Brodribb type 31	RIB-object_form	92150		0		0	0		False	
+92710	form.ceram.brodribb.32	Brodribb type 32	RIB-object_form	92150		0		0	0		False	
+92720	form.ceram.brodribb.33	Brodribb type 33	RIB-object_form	92150		0		0	0		False	
+92730	form.ceram.brodribb.34	Brodribb type 34	RIB-object_form	92150		0		0	0		False	
+92740	form.ceram.brodribb.35	Brodribb type 35	RIB-object_form	92150		0		0	0		False	
+92750	form.ceram.brodribb.36	Brodribb type 36	RIB-object_form	92150		0		0	0		False	
+92760	form.ceram.brodribb.37	Brodribb type 37	RIB-object_form	92150		0		0	0		False	
+92770	form.ceram.brodribb.38	Brodribb type 38	RIB-object_form	92150		0		0	0		False	
+92780	form.ceram.brodribb.39	Brodribb type 39	RIB-object_form	92150		0		0	0		False	
+92790	form.ceram.brodribb.40	Brodribb type 40	RIB-object_form	92150		0		0	0		False	
+92800	form.ceram.brodribb.41	Brodribb type 41	RIB-object_form	92150		0		0	0		False	
+92810	form.ceram.brodribb.42	Brodribb type 42	RIB-object_form	92150		0		0	0		False	
+92820	form.ceram.brodribb.43	Brodribb type 43	RIB-object_form	92150		0		0	0		False	
+92830	form.ceram.brodribb.44	Brodribb type 44	RIB-object_form	92150		0		0	0		False	
+92840	form.ceram.brodribb.45	Brodribb type 45	RIB-object_form	92150		0		0	0		False	
+92850	form.ceram.brodribb.46	Brodribb type 46	RIB-object_form	92150		0		0	0		False	
+92860	form.ceram.brodribb.47	Brodribb type 47	RIB-object_form	92150		0		0	0		False	
+92870	form.ceram.brodribb.48	Brodribb type 48	RIB-object_form	92150		0		0	0		False	
+92880	form.ceram.brodribb.49	Brodribb type 49	RIB-object_form	92150		0		0	0		False	
+92890	form.ceram.brodribb.50	Brodribb type 50	RIB-object_form	92150		0		0	0		False	
+92900	form.ceram.brodribb.51	Brodribb type 51	RIB-object_form	92150		0		0	0		False	
+92910	form.ceram.brodribb.52	Brodribb type 52	RIB-object_form	92150		0		0	0		False	
+92920	form.ceram.brodribb.53	Brodribb type 53	RIB-object_form	92150		0		0	0		False	
+92930	form.ceram.brodribb.54	Brodribb type 54	RIB-object_form	92150		0		0	0		False	
+92940	form.ceram.brodribb.55	Brodribb type 55	RIB-object_form	92150		0		0	0		False	
+92950	form.ceram.brodribb.56	Brodribb type 56	RIB-object_form	92150		0		0	0		False	
+92960	form.ceram.clifford	Clifford civic tile stamp forms	RIB-object_form	90020		0		0	0		False	
+92970	form.ceram.clifford.1-a	Clifford type 1 A	RIB-object_form	92960		0		0	0		False	
+92980	form.ceram.clifford.1-b	Clifford type 1 B	RIB-object_form	92960		0		0	0		False	
+92990	form.ceram.clifford.1-c	Clifford type 1 C	RIB-object_form	92960		0		0	0		False	
+93000	form.ceram.clifford.1-d	Clifford type 1 D	RIB-object_form	92960		0		0	0		False	
+93010	form.ceram.clifford.1-e	Clifford type 1 E	RIB-object_form	92960		0		0	0		False	
+93020	form.ceram.clifford.1-f	Clifford type 1 F	RIB-object_form	92960		0		0	0		False	
+93030	form.ceram.clifford.2	Clifford type 2	RIB-object_form	92960		0		0	0		False	
+93040	form.ceram.clifford.3	Clifford type 3	RIB-object_form	92960		0		0	0		False	
+93050	form.ceram.clifford.4	Clifford type 4	RIB-object_form	92960		0		0	0		False	
+93060	form.ceram.clifford.5	Clifford type 5	RIB-object_form	92960		0		0	0		False	
+93070	form.ceram.clifford.7	Clifford type 7	RIB-object_form	92960		0		0	0		False	
+93080	form.ceram.collingwood	Collingwood dish forms	RIB-object_form	90020		0		0	0		False	
+93090	form.ceram.collingwood.44	Collingwood 44	RIB-object_form	93080		0		0	0		False	
+93100	form.ceram.crambeck	Crambeck forms	RIB-object_form	90020		0		0	0		False	
+93110	form.ceram.crambeck.5a	Crambeck 5a	RIB-object_form	93100		0		0	0		False	
+93120	form.ceram.darvill	Darvill private tile stamp forms	RIB-object_form	90020		0		0	0		False	
+93130	form.ceram.darvill.a	Darvill type a	RIB-object_form	93120		0		0	0		False	
+93140	form.ceram.darvill.b	Darvill type b	RIB-object_form	93120		0		0	0		False	
+93150	form.ceram.darvill.c	Darvill type c	RIB-object_form	93120		0		0	0		False	
+93160	form.ceram.darvill.d	Darvill type d	RIB-object_form	93120		0		0	0		False	
+93170	form.ceram.darvill.e	Darvill type e	RIB-object_form	93120		0		0	0		False	
+93180	form.ceram.darvill.f	Darvill type f	RIB-object_form	93120		0		0	0		False	
+93190	form.ceram.darvill.g	Darvill type g	RIB-object_form	93120		0		0	0		False	
+93200	form.ceram.darvill.h	Darvill type h	RIB-object_form	93120		0		0	0		False	
+93210	form.ceram.darvill.i	Darvill type i	RIB-object_form	93120		0		0	0		False	
+93220	form.ceram.grimes.leg_20	Grimes tile forms (Legio XX)	RIB-object_form	90020		0		0	0		False	
+93230	form.ceram.grimes.leg_20.01	Grimes type 1	RIB-object_form	93220		0		0	0		False	
+93240	form.ceram.grimes.leg_20.02	Grimes type 2	RIB-object_form	93220		0		0	0		False	
+93250	form.ceram.grimes.leg_20.03	Grimes type 3	RIB-object_form	93220		0		0	0		False	
+93260	form.ceram.grimes.leg_20.04	Grimes type 4	RIB-object_form	93220		0		0	0		False	
+93270	form.ceram.grimes.leg_20.05	Grimes type 5	RIB-object_form	93220		0		0	0		False	
+93280	form.ceram.grimes.leg_20.06	Grimes type 6	RIB-object_form	93220		0		0	0		False	
+93290	form.ceram.grimes.leg_20.07	Grimes type 7	RIB-object_form	93220		0		0	0		False	
+93300	form.ceram.grimes.leg_20.08	Grimes type 8	RIB-object_form	93220		0		0	0		False	
+95400	form.fibula.plate	Plate	RIB-object_form	91300		0		0	0		False	Q111304341
+95410	form.ring.henig.xv	Henig type XV	RIB-object_form	91260		0		0	0		False	
+30870	text.document.military.diploma.type_I	Diploma (Type I)	RIB-text_type	30510		0		0	3274	https://ontology.inscriptiones.org/type_of_inscription/Military_diploma	False	
+30880	text.document.military.diploma.type_II	Diploma (Type II)	RIB-text_type	30510		0		0	3274	https://ontology.inscriptiones.org/type_of_inscription/Military_diploma	False	
+30890	text.document.military.diploma.type_II.A	Diploma (Type IIA)	RIB-text_type	30880		0		0	3274	https://ontology.inscriptiones.org/type_of_inscription/Military_diploma	False	
+30900	text.document.military.diploma.type_II.B	Diploma (Type IIB)	RIB-text_type	30880		0		0	3274	https://ontology.inscriptiones.org/type_of_inscription/Military_diploma	False	
+30910	text.document.military.diploma.type_II.C	Diploma (Type IIC)	RIB-text_type	30880		0		0	3274	https://ontology.inscriptiones.org/type_of_inscription/Military_diploma	False	
+30920	text.document.military.diploma.type_II.D	Diploma (Type IID)	RIB-text_type	30880		0		0	3274	https://ontology.inscriptiones.org/type_of_inscription/Military_diploma	False	
+30930	text.document.military.diploma.type_II.E	Diploma (Type IIE)	RIB-text_type	30880		0		0	3274	https://ontology.inscriptiones.org/type_of_inscription/Military_diploma	False	
+30940	text.document.military.diploma.type_III	Diploma (Type III)	RIB-text_type	30510		0		0	3274	https://ontology.inscriptiones.org/type_of_inscription/Military_diploma	False	
+30950	text.document.military.diploma.type_III.A	Diploma (Type IIIA)	RIB-text_type	30940		0		0	3274	https://ontology.inscriptiones.org/type_of_inscription/Military_diploma	False	
+30960	text.document.military.diploma.type_III.B	Diploma (Type IIIB)	RIB-text_type	30940		0		0	3274	https://ontology.inscriptiones.org/type_of_inscription/Military_diploma	False	
+30970	text.document.military.diploma.type_III.C	Diploma (Type IIC)	RIB-text_type	30940		0		0	3274	https://ontology.inscriptiones.org/type_of_inscription/Military_diploma	False	
+30980	text.document.military.diploma.type_III.D	Diploma (Type IIID)	RIB-text_type	30940		0		0	3274	https://ontology.inscriptiones.org/type_of_inscription/Military_diploma	False	
+95430	form.ring.unspecified	unspecified type	RIB-object_form	91260		0		0	0		False	
+12100	object.instrumentum.chest	Chest	RIB-object_type	10010		0		0	6087		False	
+21380	material.wood.ash	Ash	RIB-material	20140		0		0	2032		False	Q156907
+93310	form.ceram.grimes.leg_20.09	Grimes type 9	RIB-object_form	93220		0		0	0		False	
+93320	form.ceram.grimes.leg_20.10	Grimes type 10	RIB-object_form	93220		0		0	0		False	
+93330	form.ceram.grimes.leg_20.11	Grimes type 11	RIB-object_form	93220		0		0	0		False	
+93340	form.ceram.grimes.leg_20.12	Grimes type 12	RIB-object_form	93220		0		0	0		False	
+93350	form.ceram.grimes.leg_20.13	Grimes type 13	RIB-object_form	93220		0		0	0		False	
+93360	form.ceram.grimes.leg_20.14	Grimes type 14	RIB-object_form	93220		0		0	0		False	
+93370	form.ceram.grimes.leg_20.15	Grimes type 15	RIB-object_form	93220		0		0	0		False	
+93380	form.ceram.grimes.leg_20.16	Grimes type 16	RIB-object_form	93220		0		0	0		False	
+93390	form.ceram.grimes.leg_20.17	Grimes type 17	RIB-object_form	93220		0		0	0		False	
+93400	form.ceram.grimes.leg_20.18	Grimes type 18	RIB-object_form	93220		0		0	0		False	
+93410	form.ceram.grimes.leg_20.19	Grimes type 19	RIB-object_form	93220		0		0	0		False	
+93420	form.ceram.grimes.leg_20.20	Grimes type 20	RIB-object_form	93220		0		0	0		False	
+93430	form.ceram.grimes.leg_20.21	Grimes type 21	RIB-object_form	93220		0		0	0		False	
+93440	form.ceram.grimes.leg_20.22	Grimes type 22	RIB-object_form	93220		0		0	0		False	
+93450	form.ceram.grimes.leg_20.23	Grimes type 23	RIB-object_form	93220		0		0	0		False	
+93460	form.ceram.grimes.leg_20.24	Grimes type 24	RIB-object_form	93220		0		0	0		False	
+93470	form.ceram.grimes.leg_20.25	Grimes type 25	RIB-object_form	93220		0		0	0		False	
+93480	form.ceram.grimes.leg_20.26	Grimes type 26	RIB-object_form	93220		0		0	0		False	
+93490	form.ceram.grimes.leg_20.27	Grimes type 27	RIB-object_form	93220		0		0	0		False	
+93500	form.ceram.grimes.leg_20.28	Grimes type 28	RIB-object_form	93220		0		0	0		False	
+93510	form.ceram.grimes.leg_20.29	Grimes type 29	RIB-object_form	93220		0		0	0		False	
+93520	form.ceram.grimes.leg_20.30	Grimes type 30	RIB-object_form	93220		0		0	0		False	
+93530	form.ceram.grimes.leg_20.32	Grimes type 32	RIB-object_form	93220		0		0	0		False	
+93540	form.ceram.kitchenham	Kitchenham Farm tile forms	RIB-object_form	90020		0		0	0		False	
+93550	form.ceram.kitchenham.1	Kitchenham Farm Type 1	RIB-object_form	93540		0		0	0		False	
+93560	form.ceram.kitchenham.2	Kitchenham Farm Type 2	RIB-object_form	93540		0		0	0		False	
+93570	form.ceram.kitchenham.3	Kitchenham Farm Type 3	RIB-object_form	93540		0		0	0		False	
+93580	form.ceram.kitchenham.4	Kitchenham Farm Type 4	RIB-object_form	93540		0		0	0		False	
+93590	form.ceram.kitchenham.5	Kitchenham Farm Type 5	RIB-object_form	93540		0		0	0		False	
+93600	form.ceram.kitchenham.6	Kitchenham Farm Type 6	RIB-object_form	93540		0		0	0		False	
+93610	form.ceram.lowther	Lowther relief-patterned tile stamp dies	RIB-object_form	90020		0		0	0		False	
+93620	form.ceram.lowther.06	Lowther die 6	RIB-object_form	93610		0		0	0		False	
+93630	form.ceram.lowther.07	Lowther die 7	RIB-object_form	93610		0		0	0		False	
+93640	form.ceram.lowther.13	Lowther die 13	RIB-object_form	93610		0		0	0		False	
+93650	form.ceram.lowther.31	Lowther die 31	RIB-object_form	93610		0		0	0		False	
+93660	form.ceram.lowther.33	Lowther die 33	RIB-object_form	93610		0		0	0		False	
+93670	form.ceram.parker	Parker civic tile stamp forms	RIB-object_form	90020		0		0	0		False	
+93680	form.ceram.parker.A-01	Parker type A 1	RIB-object_form	93670		0		0	0		False	
+93690	form.ceram.parker.A-02	Parker type A 2	RIB-object_form	93670		0		0	0		False	
+93700	form.ceram.parker.A-03	Parker type A 3	RIB-object_form	93670		0		0	0		False	
+93710	form.ceram.parker.A-04	Parker type A 4	RIB-object_form	93670		0		0	0		False	
+93720	form.ceram.parker.B-01	Parker type B 1	RIB-object_form	93670		0		0	0		False	
+93730	form.ceram.parker.B-02	Parker type B 2	RIB-object_form	93670		0		0	0		False	
+93740	form.ceram.parker.B-03	Parker type B 3	RIB-object_form	93670		0		0	0		False	
+93750	form.ceram.parker.B-04	Parker type B 4	RIB-object_form	93670		0		0	0		False	
+93760	form.ceram.parker.B-05	Parker type B 5	RIB-object_form	93670		0		0	0		False	
+93770	form.ceram.parker.B-06	Parker type B 6	RIB-object_form	93670		0		0	0		False	
+93780	form.ceram.parker.B-07	Parker type B 7	RIB-object_form	93670		0		0	0		False	
+93790	form.ceram.parker.B-08	Parker type B 8	RIB-object_form	93670		0		0	0		False	
+93800	form.ceram.parker.B-09	Parker type B 9	RIB-object_form	93670		0		0	0		False	
+93810	form.ceram.parker.B-10	Parker type B 10	RIB-object_form	93670		0		0	0		False	
+93820	form.ceram.parker.B-11	Parker type B 11	RIB-object_form	93670		0		0	0		False	
+93830	form.ceram.parker.B-12	Parker type B 12	RIB-object_form	93670		0		0	0		False	
+93840	form.ceram.parker.B-13	Parker type B 13	RIB-object_form	93670		0		0	0		False	
+93850	form.ceram.parker.B-14	Parker type B 14	RIB-object_form	93670		0		0	0		False	
+93860	form.ceram.parker.B-15	Parker type B 15	RIB-object_form	93670		0		0	0		False	
+93870	form.ceram.parker.B-16	Parker type B 16	RIB-object_form	93670		0		0	0		False	
+93880	form.ceram.parker.B-17	Parker type B 17	RIB-object_form	93670		0		0	0		False	
+93890	form.ceram.parker.B-18	Parker type B 18	RIB-object_form	93670		0		0	0		False	
+93900	form.ceram.parker.B-19	Parker type B 19	RIB-object_form	93670		0		0	0		False	
+93910	form.ceram.parker.B-20	Parker type B 20	RIB-object_form	93670		0		0	0		False	
+93920	form.ceram.parker.B-21	Parker type B 21	RIB-object_form	93670		0		0	0		False	
+93930	form.ceram.parker.B-22	Parker type B 22	RIB-object_form	93670		0		0	0		False	
+93940	form.ceram.parker.B-23	Parker type B 23	RIB-object_form	93670		0		0	0		False	
+93950	form.ceram.parker.B-24	Parker type B 24	RIB-object_form	93670		0		0	0		False	
+93960	form.ceram.parker.B-25	Parker type B 25	RIB-object_form	93670		0		0	0		False	
+93970	form.ceram.parker.C-01	Parker type C 1	RIB-object_form	93670		0		0	0		False	
+93980	form.ceram.parker.C-02	Parker type C 2	RIB-object_form	93670		0		0	0		False	
+93990	form.ceram.parker.C-03	Parker type C 3	RIB-object_form	93670		0		0	0		False	
+94000	form.ceram.parker.C-04	Parker type C 4	RIB-object_form	93670		0		0	0		False	
+94010	form.ceram.parker.C-05	Parker type C 5	RIB-object_form	93670		0		0	0		False	
+94020	form.ceram.parker.C-06	Parker type C 6	RIB-object_form	93670		0		0	0		False	
+94030	form.ceram.parker.C-07	Parker type C 7	RIB-object_form	93670		0		0	0		False	
+94040	form.ceram.parker.C-08	Parker type C 8	RIB-object_form	93670		0		0	0		False	
+94050	form.ceram.parker.C-09	Parker type C 9	RIB-object_form	93670		0		0	0		False	
+94060	form.ceram.parker.C-10	Parker type C 10	RIB-object_form	93670		0		0	0		False	
+94070	form.ceram.parker.C-11	Parker type C 11	RIB-object_form	93670		0		0	0		False	
+94080	form.ceram.parker.C-12	Parker type C 12	RIB-object_form	93670		0		0	0		False	
+94090	form.ceram.parker.C-13	Parker type C 13	RIB-object_form	93670		0		0	0		False	
+94100	form.ceram.parker.C-14	Parker type C 14	RIB-object_form	93670		0		0	0		False	
+94110	form.ceram.parker.C-15	Parker type C 15	RIB-object_form	93670		0		0	0		False	
+94120	form.ceram.parker.C-16	Parker type C 16	RIB-object_form	93670		0		0	0		False	
+94130	form.ceram.parker.C-17	Parker type C 17	RIB-object_form	93670		0		0	0		False	
+94140	form.ceram.parker.C-18	Parker type C 18	RIB-object_form	93670		0		0	0		False	
+94150	form.ceram.parker.C-19	Parker type C 19	RIB-object_form	93670		0		0	0		False	
+94160	form.ceram.parker.C-20	Parker type C 20	RIB-object_form	93670		0		0	0		False	
+94170	form.ceram.parker.C-21	Parker type C 21	RIB-object_form	93670		0		0	0		False	
+94180	form.ceram.parker.C-22	Parker type C 22	RIB-object_form	93670		0		0	0		False	
+94190	form.ceram.parker.C-23	Parker type C 23	RIB-object_form	93670		0		0	0		False	
+94200	form.ceram.parker.C-24	Parker type C 24	RIB-object_form	93670		0		0	0		False	
+94210	form.ceram.parker.C-25	Parker type C 25	RIB-object_form	93670		0		0	0		False	
+94220	form.ceram.parker.C-26	Parker type C 26	RIB-object_form	93670		0		0	0		False	
+94230	form.ceram.parker.C-27	Parker type C 27	RIB-object_form	93670		0		0	0		False	
+94240	form.ceram.parker.C-28	Parker type C 28	RIB-object_form	93670		0		0	0		False	
+94250	form.ceram.parker.C-29	Parker type C 29	RIB-object_form	93670		0		0	0		False	
+94260	form.ceram.parker.C-30	Parker type C 30	RIB-object_form	93670		0		0	0		False	
+94270	form.ceram.parker.C-31	Parker type C 31	RIB-object_form	93670		0		0	0		False	
+94280	form.ceram.parker.C-32	Parker type C 32	RIB-object_form	93670		0		0	0		False	
+94290	form.ceram.parker.C-33	Parker type C 33	RIB-object_form	93670		0		0	0		False	
+94300	form.ceram.parker.C-34	Parker type C 34	RIB-object_form	93670		0		0	0		False	
+94310	form.ceram.parker.C-35	Parker type C 35	RIB-object_form	93670		0		0	0		False	
+94320	form.ceram.parker.C-36	Parker type C 36	RIB-object_form	93670		0		0	0		False	
+94330	form.ceram.parker.C-37	Parker type C 37	RIB-object_form	93670		0		0	0		False	
+94340	form.ceram.parker.C-38	Parker type C 38	RIB-object_form	93670		0		0	0		False	
+94350	form.ceram.parker.C-39	Parker type C 39	RIB-object_form	93670		0		0	0		False	
+94360	form.ceram.parker.C-40	Parker type C 40	RIB-object_form	93670		0		0	0		False	
+94370	form.ceram.parker.D-01	Parker type D 1	RIB-object_form	93670		0		0	0		False	
+94380	form.ceram.parker.D-02	Parker type D 2	RIB-object_form	93670		0		0	0		False	
+94390	form.ceram.wright.leg_6	Wright tile forms (Leg. VI)	RIB-object_form	90020		0		0	0		False	
+94400	form.ceram.wright.leg_6.01	Wright type 1 (Leg. VI)	RIB-object_form	94390		0		0	0		False	
+94410	form.ceram.wright.leg_6.02	Wright type 2 (Leg. VI)	RIB-object_form	94390		0		0	0		False	
+94420	form.ceram.wright.leg_6.03	Wright type 3 (Leg. VI)	RIB-object_form	94390		0		0	0		False	
+94430	form.ceram.wright.leg_6.04	Wright type 4 (Leg. VI)	RIB-object_form	94390		0		0	0		False	
+94440	form.ceram.wright.leg_6.05	Wright type 5 (Leg. VI)	RIB-object_form	94390		0		0	0		False	
+94450	form.ceram.wright.leg_6.06	Wright type 6 (Leg. VI)	RIB-object_form	94390		0		0	0		False	
+94460	form.ceram.wright.leg_6.07	Wright type 7 (Leg. VI)	RIB-object_form	94390		0		0	0		False	
+94470	form.ceram.wright.leg_6.08	Wright type 8 (Leg. VI)	RIB-object_form	94390		0		0	0		False	
+94480	form.ceram.wright.leg_6.09	Wright type 9 (Leg. VI)	RIB-object_form	94390		0		0	0		False	
+94490	form.ceram.wright.leg_6.10	Wright type 10 (Leg. VI)	RIB-object_form	94390		0		0	0		False	
+94500	form.ceram.wright.leg_6.11	Wright type 11 (Leg. VI)	RIB-object_form	94390		0		0	0		False	
+94510	form.ceram.wright.leg_6.12	Wright type 12 (Leg. VI)	RIB-object_form	94390		0		0	0		False	
+94520	form.ceram.wright.leg_6.13	Wright type 13 (Leg. VI)	RIB-object_form	94390		0		0	0		False	
+94530	form.ceram.wright.leg_6.14	Wright type 14 (Leg. VI)	RIB-object_form	94390		0		0	0		False	
+94540	form.ceram.wright.leg_6.15	Wright type 15 (Leg. VI)	RIB-object_form	94390		0		0	0		False	
+94550	form.ceram.wright.leg_6.16	Wright type 16 (Leg. VI)	RIB-object_form	94390		0		0	0		False	
+94560	form.ceram.wright.leg_6.17	Wright type 17 (Leg. VI)	RIB-object_form	94390		0		0	0		False	
+94570	form.ceram.wright.leg_6.18	Wright type 18 (Leg. VI)	RIB-object_form	94390		0		0	0		False	
+94580	form.ceram.wright.leg_6.19	Wright type 19 (Leg. VI)	RIB-object_form	94390		0		0	0		False	
+94590	form.ceram.wright.leg_6.20	Wright type 20 (Leg. VI)	RIB-object_form	94390		0		0	0		False	
+94600	form.ceram.wright.leg_6.21	Wright type 21 (Leg. VI)	RIB-object_form	94390		0		0	0		False	
+94610	form.ceram.wright.leg_6.22	Wright type 22 (Leg. VI)	RIB-object_form	94390		0		0	0		False	
+94620	form.ceram.wright.leg_6.23	Wright type 23 (Leg. VI)	RIB-object_form	94390		0		0	0		False	
+94630	form.ceram.wright.leg_6.24	Wright type 24 (Leg. VI)	RIB-object_form	94390		0		0	0		False	
+94640	form.ceram.wright.leg_6.25	Wright type 25 (Leg. VI)	RIB-object_form	94390		0		0	0		False	
+94650	form.ceram.wright.leg_6.26	Wright type 26 (Leg. VI)	RIB-object_form	94390		0		0	0		False	
+94660	form.ceram.wright.leg_6.27	Wright type 27 (Leg. VI)	RIB-object_form	94390		0		0	0		False	
+94670	form.ceram.wright.leg_6.28	Wright type 28 (Leg. VI)	RIB-object_form	94390		0		0	0		False	
+94680	form.ceram.wright.leg_6.29	Wright type 29 (Leg. VI)	RIB-object_form	94390		0		0	0		False	
+94690	form.ceram.wright.leg_6.30	Wright type 30 (Leg. VI)	RIB-object_form	94390		0		0	0		False	
+94700	form.ceram.wright.leg_6.31	Wright type 31 (Leg. VI)	RIB-object_form	94390		0		0	0		False	
+94710	form.ceram.wright.leg_6.32	Wright type 32 (Leg. VI)	RIB-object_form	94390		0		0	0		False	
+94720	form.ceram.wright.leg_6.33	Wright type 33 (Leg. VI)	RIB-object_form	94390		0		0	0		False	
+94730	form.ceram.wright.leg_6.33-A	Wright type 33 A (Leg. VI)	RIB-object_form	94390		0		0	0		False	
+94740	form.ceram.wright.leg_6.34	Wright type 34 (Leg. VI)	RIB-object_form	94390		0		0	0		False	
+94750	form.ceram.wright.leg_6.35	Wright type 35 (Leg. VI)	RIB-object_form	94390		0		0	0		False	
+94760	form.ceram.wright.leg_6.36	Wright type 36 (Leg. VI)	RIB-object_form	94390		0		0	0		False	
+94770	form.ceram.wright.leg_6.37	Wright type 37 (Leg. VI)	RIB-object_form	94390		0		0	0		False	
+94780	form.ceram.wright.leg_6.38	Wright type 38 (Leg. VI)	RIB-object_form	94390		0		0	0		False	
+94790	form.ceram.wright.leg_6.39	Wright type 39 (Leg. VI)	RIB-object_form	94390		0		0	0		False	
+94800	form.ceram.wright.leg_6.40	Wright type 40 (Leg. VI)	RIB-object_form	94390		0		0	0		False	
+94810	form.ceram.wright.leg_6.41	Wright type 41 (Leg. VI)	RIB-object_form	94390		0		0	0		False	
+94820	form.ceram.wright.leg_6.42	Wright type 42 (Leg. VI)	RIB-object_form	94390		0		0	0		False	
+94830	form.ceram.wright.leg_6.43	Wright type 43 (Leg. VI)	RIB-object_form	94390		0		0	0		False	
+94840	form.ceram.wright.leg_6.44	Wright type 44 (Leg. VI)	RIB-object_form	94390		0		0	0		False	
+94850	form.ceram.wright.leg_6.45	Wright type 45 (Leg. VI)	RIB-object_form	94390		0		0	0		False	
+94860	form.ceram.wright.leg_6.46	Wright type 46 (Leg. VI)	RIB-object_form	94390		0		0	0		False	
+94870	form.ceram.wright.leg_6.47	Wright type 47 (Leg. VI)	RIB-object_form	94390		0		0	0		False	
+94880	form.ceram.wright.leg_6.47-A	Wright type 47 A (Leg. VI)	RIB-object_form	94390		0		0	0		False	
+94890	form.ceram.wright.leg_6.48	Wright type 48 (Leg. VI)	RIB-object_form	94390		0		0	0		False	
+94900	form.ceram.wright.leg_6.49	Wright type 49 (Leg. VI)	RIB-object_form	94390		0		0	0		False	
+94910	form.ceram.wright.leg_6.50	Wright type 50 (Leg. VI)	RIB-object_form	94390		0		0	0		False	
+94920	form.ceram.wright.leg_6.51	Wright type 51 (Leg. VI)	RIB-object_form	94390		0		0	0		False	
+94930	form.ceram.wright.leg_6.52	Wright type 52 (Leg. VI)	RIB-object_form	94390		0		0	0		False	
+94940	form.ceram.wright.leg_6.53	Wright type 53 (Leg. VI)	RIB-object_form	94390		0		0	0		False	
+94950	form.ceram.wright.leg_6.54	Wright type 54 (Leg. VI)	RIB-object_form	94390		0		0	0		False	
+94960	form.ceram.wright.leg_6.55	Wright type 55 (Leg. VI)	RIB-object_form	94390		0		0	0		False	
+94970	form.ceram.wright.leg_6.56	Wright type 56 (Leg. VI)	RIB-object_form	94390		0		0	0		False	
+94980	form.ceram.wright.leg_6.57	Wright type 57 (Leg. VI)	RIB-object_form	94390		0		0	0		False	
+94990	form.ceram.wright.leg_6.58	Wright type 58 (Leg. VI)	RIB-object_form	94390		0		0	0		False	
+95000	form.ceram.wright.leg_6.59	Wright type 59 (Leg. VI)	RIB-object_form	94390		0		0	0		False	
+95010	form.ceram.wright.leg_6.60	Wright type 60 (Leg. VI)	RIB-object_form	94390		0		0	0		False	
+95020	form.ceram.wright.leg_6.61	Wright type 61 (Leg. VI)	RIB-object_form	94390		0		0	0		False	
+95030	form.ceram.wright.leg_6.62	Wright type 62 (Leg. VI)	RIB-object_form	94390		0		0	0		False	
+95040	form.ceram.wright.leg_6.63	Wright type 63 (Leg. VI)	RIB-object_form	94390		0		0	0		False	
+95050	form.ceram.wright.leg_6.64	Wright type 64 (Leg. VI)	RIB-object_form	94390		0		0	0		False	
+95060	form.ceram.wright.leg_6.65	Wright type 65 (Leg. VI)	RIB-object_form	94390		0		0	0		False	
+95070	form.ceram.wright.leg_6.66	Wright type 66 (Leg. VI)	RIB-object_form	94390		0		0	0		False	
+95080	form.ceram.wright.leg_6.67	Wright type 67 (Leg. VI)	RIB-object_form	94390		0		0	0		False	
+95090	form.ceram.wright.leg_6.68	Wright type 68 (Leg. VI)	RIB-object_form	94390		0		0	0		False	
+95100	form.ceram.wright.leg_6.69	Wright type 69 (Leg. VI)	RIB-object_form	94390		0		0	0		False	
+95110	form.ceram.wright.leg_6.70	Wright type 70 (Leg. VI)	RIB-object_form	94390		0		0	0		False	
+95120	form.ceram.wright.leg_6.71	Wright type 71 (Leg. VI)	RIB-object_form	94390		0		0	0		False	
+95130	form.ceram.wright.leg_6.72	Wright type 72 (Leg. VI)	RIB-object_form	94390		0		0	0		False	
+95140	form.ceram.wright.leg_6.72-A	Wright type 72 A (Leg. VI)	RIB-object_form	94390		0		0	0		False	
+95150	form.ceram.wright.leg_6.73	Wright type 73 (Leg. VI)	RIB-object_form	94390		0		0	0		False	
+95160	form.ceram.wright.leg_6.74	Wright type 74 (Leg. VI)	RIB-object_form	94390		0		0	0		False	
+95170	form.ceram.wright.leg_6.75	Wright type 75 (Leg. VI)	RIB-object_form	94390		0		0	0		False	
+95180	form.ceram.wright.leg_6.76	Wright type 76 (Leg. VI)	RIB-object_form	94390		0		0	0		False	
+95190	form.ceram.wright.leg_6.77	Wright type 77 (Leg. VI)	RIB-object_form	94390		0		0	0		False	
+95200	form.ceram.wright.leg_6.78	Wright type 78 (Leg. VI)	RIB-object_form	94390		0		0	0		False	
+95210	form.ceram.wright.leg_6.79	Wright type 79 (Leg. VI)	RIB-object_form	94390		0		0	0		False	
+95220	form.ceram.wright.leg_9	Wright tile forms (Leg. IX)	RIB-object_form	90020		0		0	0		False	
+95230	form.ceram.wright.leg_9.01	Wright type 1 (Leg. IX)	RIB-object_form	95220		0		0	0		False	
+95240	form.ceram.wright.leg_9.02	Wright type 2 (Leg. IX)	RIB-object_form	95220		0		0	0		False	
+95250	form.ceram.wright.leg_9.03	Wright type 3 (Leg. IX)	RIB-object_form	95220		0		0	0		False	
+95260	form.ceram.wright.leg_9.04	Wright type 4 (Leg. IX)	RIB-object_form	95220		0		0	0		False	
+95270	form.ceram.wright.leg_9.05	Wright type 5 (Leg. IX)	RIB-object_form	95220		0		0	0		False	
+95280	form.ceram.wright.leg_9.06	Wright type 6 (Leg. IX)	RIB-object_form	95220		0		0	0		False	
+95290	form.ceram.wright.leg_9.07	Wright type 7 (Leg. IX)	RIB-object_form	95220		0		0	0		False	
+95300	form.ceram.wright.leg_9.08	Wright type 8 (Leg. IX)	RIB-object_form	95220		0		0	0		False	
+95310	form.ceram.wright.leg_9.09	Wright type 9 (Leg. IX)	RIB-object_form	95220		0		0	0		False	
+95320	form.ceram.wright.leg_9.10	Wright type 10 (Leg. IX)	RIB-object_form	95220		0		0	0		False	
+95330	form.ceram.wright.leg_9.11	Wright type 11 (Leg. IX)	RIB-object_form	95220		0		0	0		False	
+95340	form.ceram.wright.leg_9.12	Wright type 12 (Leg. IX)	RIB-object_form	95220		0		0	0		False	
+95350	form.ceram.wright.leg_9.13	Wright type 13 (Leg. IX)	RIB-object_form	95220		0		0	0		False	
+95360	form.ceram.wright.leg_9.14	Wright type 14 (Leg. IX)	RIB-object_form	95220		0		0	0		False	
+95370	form.ceram.wright.leg_9.15	Wright type 15 (Leg. IX)	RIB-object_form	95220		0		0	0		False	
+95380	form.fibula.knee	Knee	RIB-object_form	91300		0		0	0		False	Q111700417
+95390	form.fibula.dolphin	Dolphin	RIB-object_form	91300		0		0	0		False	Q111700098
+100000	period	Dating period	RIB-period	0		0		0	0		False	
+100010	period.Julio-Claudian	Julio-Claudian (27 b.c. - a.d. 68)	RIB-period	100000		0		0	0		False	
+100020	period.Augustan	Augustan (27 b.c. - a.d. 14)	RIB-period	100000		0		0	0		False	
+100030	period.Tiberian	Tiberian (a.d. 14 - a.d. 37)	RIB-period	100000		0		0	0		False	
+100040	period.Caligulan	Caligulan (a.d. 37 - a.d. 41)	RIB-period	100000		0		0	0		False	
+100050	period.Claudian	Claudian (a.d. 41 - a.d. 54)	RIB-period	100000		0		0	0		False	
+100060	period.Neronian	Neronian (a.d. 54 - a.d. 68)	RIB-period	100000		0		0	0		False	
+100070	period.Flavian	Flavian (a.d. 69 - a.d. 96)	RIB-period	100000		0		0	0		False	
+100080	period.Vespasianic	Vespasianic (a.d. 69 - a.d. 79)	RIB-period	100000		0		0	0		False	
+100090	period.Domitianic	Domitianic (a.d. 81 - a.d. 96)	RIB-period	100000		0		0	0		False	
+100100	period.Nervan	Nervan (a.d. 96 - a.d. 98)	RIB-period	100000		0		0	0		False	
+100110	period.Trajanic	Trajanic (a.d. 98 - a.d. 117)	RIB-period	100000		0		0	0		False	
+100120	period.Hadrianic	Hadrianic (a.d. 117 - a.d. 138)	RIB-period	100000		0		0	0		False	
+100130	period.Antonine	Antonine (a.d. 138 - a.d. 161)	RIB-period	100000		0		0	0		False	
+100140	period.Antonine.I	Antonine I (a.d. 142 - a.d. 155)	RIB-period	100130		0		0	0		False	
+100150	period.Antonine.II	Antonine II (a.d. 158 - a.d. 164)	RIB-period	100130		0		0	0		False	
+100160	period.Severan	Severan (a.d. 193 - a.d. 211)	RIB-period	100000		0		0	0		False	
+100170	period.Valentinian	Valentinian (a.d. 364 - 392)	RIB-period	100000		0		0	0		False	
+100180	period.Tetrarchy	Tetrarchy (a.d. 284 - 313)	RIB-period	100000		0		0	0		False	
+100190	period.Sub-Roman	Sub-Roman (c. a.d. 407 - 577)	RIB-period	100000		0		0	0		False	
+100200	period.Romano-British	Romano-British (a.d. 43 - 410)	RIB-period	100000		0		0	0		False	
+100210	period.Late-Roman	Late Roman (a.d. 235 - 410)	RIB-period	100000		0		0	0		False	
+100220	period.Gallic-Empire	Gallic Empire (a.d. 260 - 274)	RIB-period	100000		0		0	0		False	
+100230	period.Diocletianic	Diocletianic (a.d. 284 - 305)	RIB-period	100000		0		0	0		False	
+100240	period.Constantian	Constantian (a.d. 307 - 364)	RIB-period	100000		0		0	0		False	
+110000	other	Other	RIB-other	0		0		133	0		False	
+120000	multilingual	Multilingual Attributes	RIB-multilingual	0		0		0	0		False	
+120100	multilingual.bigraphic	Bigraphic text	RIB-multilingual	120000		0		0	12005		False	
+120200	multilingual.bilingual_phenomena	Text with bilingual phenomena	RIB-multilingual	120000		0		0	12002		False	
+120210	multilingual.bilingual_phenomena.borrowing	Borrowing	RIB-multilingual	120200		0		0	12014		False	
+120220	multilingual.bilingual_phenomena.code-switching	Code-switching	RIB-multilingual	120200		0		0	12012		False	Q255615
+120221	multilingual.bilingual_phenomena.code-switching.inter-sentential	Inter-sentential	RIB-multilingual	120220		0		0	12020		False	
+120222	multilingual.bilingual_phenomena.code-switching.intra-sentential	Intra-sentential	RIB-multilingual	120220		0		0	12021		False	
+120223	multilingual.bilingual_phenomena.code-switching.tag-switching	Tag-switching	RIB-multilingual	120220		0		0	12019		False	
+120230	multilingual.bilingual_phenomena.interference	Interference	RIB-multilingual	120200		0		0	12013		False	
+120240	multilingual.bilingual_phenomena.translingualism	Translingualism	RIB-multilingual	120200		0		0	12015		False	
+120300	multilingual.bi-version_bilingual	Bi-version bilingual text	RIB-multilingual	120000		0		0	12001		False	
+120310	multilingual.bi-version_bilingual.complementary	Complementary	RIB-multilingual	120300		0		0	12011		False	
+120320	multilingual.bi-version_bilingual.duplicating	Duplicating	RIB-multilingual	120300		0		0	12008		False	
+120330	multilingual.bi-version_bilingual.overlapping	Overlapping	RIB-multilingual	120300		0		0	12010		False	
+120340	multilingual.bi-version_bilingual.partial	Partial	RIB-multilingual	120300		0		0	12009		False	
+120400	multilingual.graphic_phenomena	Text with graphic phenomena	RIB-multilingual	120000		0		0	12007		False	
+120410	multilingual.graphic_phenomena.graphic_borrowing_code-switching	Graphic borrowing/code-switching	RIB-multilingual	120400		0		0	12018		False	
+120420	multilingual.graphic_phenomena.graphic_interference	Graphic interference	RIB-multilingual	120400		0		0	12016		False	
+120430	multilingual.graphic_phenomena.transliteration	Transliteration	RIB-multilingual	120400		0		0	12017		False	
+120500	multilingual.mixed_language	Mixed-language text	RIB-multilingual	120000		0		0	12003		False	
+120600	multilingual.translingual	Translingual text	RIB-multilingual	120000		0		0	12004		False	
+120700	multilingual.transliterated	Transliterated text	RIB-multilingual	120000		0		0	12006		False	
+130000	text_condition	Text Condition	RIB-text_condition	0		0		0	0		False	
+130010	text_condition.complete	Complete	RIB-text_condition	130000		0		0	0		False	
+130020	text_condition.incomplete	Incomplete	RIB-text_condition	130000		0		0	0		False	
+130030	text_condition.legible	Legible	RIB-text_condition	130000		0		0	0		False	
+130040	text_condition.illegible_partly	Partly illegible	RIB-text_condition	130000		0		0	0		False	
+130050	text_condition.illegible	Illegible	RIB-text_condition	130000		0		0	0		False	
+130060	text_condition.deteriorated	Deteriorated	RIB-text_condition	130000		0		0	0		False	
+130070	text_condition.lost	Lost	RIB-text_condition	130000		0		0	0		False	
+130080	text_condition.unknown	Unknown text condition	RIB-text_condition	130000		0		0	0		False	
+140000	sociolinguistic	Sociolinguistic Attributes	RIB-sociolinguistic	0		0		0	0		False	
+140010	sociolinguistic.non-latin_word	Non-Latin word	RIB-sociolinguistic	140000		0		0	7001		False	
+140020	sociolinguistic.vowel_in_hiatus	Vowel in hiatus	RIB-sociolinguistic	140000		0		0	7007		False	
+140030	sociolinguistic.B-V	B/V confusion	RIB-sociolinguistic	140000		0		0	7009		False	
+140040	sociolinguistic.loss_intervocalic-G	Loss of intervocalic G	RIB-sociolinguistic	140000		0		0	7014		False	
+140050	sociolinguistic.nom_plural_in-as	Nominative plural in -as	RIB-sociolinguistic	140000		0		0	7017		False	
+140060	sociolinguistic.abus_for-is_ibus_for-is	-abus for -is/-ibus and -(i)bus for -is	RIB-sociolinguistic	140000		0		0	7018		False	
+80380	lang.tungrian	Tungrian	RIB-lang	80080		0		0	0		False	Q133850588
+30990	text.souvenir	Souvenir	RIB-text_type	30000		0		0	3325	https://ontology.inscriptiones.org/type_of_inscription/Souvenir_inscription	False	
+80370	lang.proto-germanic	Proto-Germanic	RIB-lang	80080		0		0	1036		False	Q669623
+21390	material.metal.alloy	Metal alloy	RIB-material	20080		0		0	2174		False	Q37756
+10330	object.instrumentum.plaque	Plaque (instrumentum)	RIB-object_type	10010		0		78	6291		False	
+10320	object.instrumentum.pebble	Pebble	RIB-object_type	10010		0		77	6449		False	
+10310	object.instrumentum.pavement	Pavement	RIB-object_type	10010		0		76	6257		False	
+10300	object.instrumentum.other	Other	RIB-object_type	10010		0		75	6212		False	
+10290	object.instrumentum.oculist_stamp	Oculist’s Stamp	RIB-object_type	10010		0		74	6416		False	
+10280	object.instrumentum.musical	Musical instrument	RIB-object_type	10010		0		73	6439		False	
+10270	object.instrumentum.measure	Weights and measures	RIB-object_type	10010		0		66	6437		False	
+10260	object.instrumentum.leather	Leather object	RIB-object_type	10010		0		61	6435		False	
+10250	object.instrumentum.lamp	Lamp	RIB-object_type	10010		0		60	6226		False	
+10240	object.instrumentum.label	Label	RIB-object_type	10010		0		59	6432		False	
+10230	object.instrumentum.key	Key	RIB-object_type	10010		0		49	6098		False	
+10220	object.instrumentum.jewelry	Jewelry	RIB-object_type	10010		0		50	6221		False	
+10210	object.instrumentum.ingot	Ingot	RIB-object_type	10010		0		48	6040		False	
+10200	object.instrumentum.incense_burner	Incense burner	RIB-object_type	10010		0		47	6203		False	Q111514811
+10190	object.instrumentum.implement	Implements	RIB-object_type	10010		0		40	6426		False	
+10180	object.instrumentum.horse_tack	Horse Tack	RIB-object_type	10010		0		38	6412		False	Q950799
+10170	object.instrumentum.handmill	Handmill	RIB-object_type	10010		0		37	6253		False	
+10160	object.instrumentum.handle	Handle	RIB-object_type	10010		0		36	6238		False	
+10150	object.instrumentum.gaming	Gaming	RIB-object_type	10010		0		34	6166		False	
+10140	object.instrumentum.fitting	Fitting	RIB-object_type	10010		0		30	6196		False	
+10130	object.instrumentum.figurine	Figurine	RIB-object_type	10010		0		28	6167		False	Q1066288
+10120	object.instrumentum.fibula	Fibula/Brooch	RIB-object_type	10010		0		27	6165		False	Q324926
+10110	object.instrumentum.disc	Disc	RIB-object_type	10010		0		25	6145		False	
+10100	object.instrumentum.diploma	Diploma	RIB-object_type	10010		0		26	6350		False	Q1754258
+10090	object.instrumentum.die	Die	RIB-object_type	10010		0		24	6423		False	
+10080	object.instrumentum.box	Box	RIB-object_type	10010		0		23	6422		False	
+10070	object.instrumentum.bell	Bell	RIB-object_type	10010		0		22	6421		False	
+10060	object.instrumentum.armor	Armor	RIB-object_type	10010		0		19	6420		False	
+10050	object.unknown	Unknown	RIB-object_type	10000		0		193	6204		False	
+10040	object.other	Other	RIB-object_type	10000		0		192	0		False	
+10030	object.fragment	Fragment	RIB-object_type	10000		0		191	6171		False	
+10020	object.monumental	Monumental	RIB-object_type	10000		0		164	6469		False	
+10010	object.instrumentum	Instrumentum	RIB-object_type	10000		0		18	6212		False	
+10000	object	Object Type	RIB-object_type	0		0		484	0		False	

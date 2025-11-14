@@ -1,0 +1,8 @@
+﻿1	C	EDCS
+2	E	EDH
+3	G	GeoNames
+4	L	LatinNow
+5	O	Original
+6	P	Pleiades
+7	T	Trismegistos
+8	V	Vanderbilt

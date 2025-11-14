@@ -1,0 +1,3 @@
+﻿1	P	Point
+2	L	Linear
+3	Y	Polygonal
