@@ -10,7 +10,7 @@ This repo consists of the database of inscribed epigraphic objects created by th
 Each table in the LatinNow database has been exported as a tab-delimited file encoded in the UTF-8 character set. One table, lawtnow_source, has been compressed into a ZIP file to circumvent GitHub's 100 MB file size limit.
 
 ## Documentation
-An SQL DDL file in MySQL format (LatinNowDB.sql) has been provided to allow recreation of the database. An entity relationship diagram (ERD) representing the database schema has also been provided to facilitate an understanding of the database structure. You may contact [Scott Vanderbilt](https://github.com/sarcanon) if you encounter any difficulties.
+An SQL DDL file in MySQL format (LatinNowDB.sql) has been provided to allow recreation of the database. An entity relationship diagram (LatinNowDB Schema.pdf) representing the database schema has also been provided to facilitate an understanding of the database structure. Please report any errors to [Scott Vanderbilt](https://github.com/sarcanon).
 
 ## Authors
 
