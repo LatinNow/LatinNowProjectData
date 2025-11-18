@@ -7,7 +7,10 @@ This repo consists of the database of inscribed epigraphic objects created by th
 
 ## Getting Started
 
-Please note that at present, this repo consists only of the database table exports. The DDL of the database schema, a data dictionary, and further information about how to independently recreate the database will be added to this respository in the near future.
+Each table in the LatinNow database has been exported as a tab-delimited file encoded in the UTF-8 character set. One table, lawtnow_source, has been compressed into a ZIP file to circumvent GitHub's 100 MB file size limit.
+
+## Documentation
+An SQL DDL file in MySQL format (LatinNowDB.sql) has been provided to allow recreation of the database. An entity relationship diagram (ERD) representing the database schema has also been provided to facilitate an understanding of the database structure. You may contact [Scott Vanderbilt](https://github.com/sarcanon) if you encounter any difficulties.
 
 ## Authors
 
@@ -20,11 +23,11 @@ Alex Mullen, Scott Vanderbilt, Anna Willi, Pieter Houten, Simona Stoyanova (all 
 
 ## License
 
-This project is licensed under the the Creative Commons Attribute License (CC-BY-4.0) - https://creativecommons.org/licenses/by/4.0/deed.en
+The data released in this repository is licensed under the the Creative Commons Attribute License (CC-BY-4.0) - https://creativecommons.org/licenses/by/4.0/deed.en
 
 ## Acknowledgments
 
-EAGLE Europeana Project, Francesca Cotugno, María José Estarán Tolosa, Javier Herrera Rando, Joaquín Gorrochategui, Frank Grieshaber, Pietro Liuzzo, Michael Loy, Noemí Monunill, Silvia Orlandi, María Paz de Hoz, Nathalie Prévôt, Coline Ruiz Darasse, Corinna Salomon, José Ángel Zamora.
+EAGLE Europeana Project, Francesca Cotugno, María José Estarán Tolosa, Javier Herrera Rando, Joaquín Gorrochategui, Frank Grieshaber, Pietro Liuzzo, Michael Loy, Noemí Monunill, Silvia Orlandi, María Paz de Hoz, Nathalie Prévôt, Coline Ruiz Darasse, Corinna Salomon, José Ángel Zamora.
 
 [1]:https://latinnow.eu
 [2]:https://latinnow.eu/publications-and-online-resources/
