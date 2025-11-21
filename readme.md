@@ -23,7 +23,7 @@ Alex Mullen, Scott Vanderbilt, Anna Willi, Pieter Houten, Simona Stoyanova (all 
 
 ## License
 
-The data released in this repository is licensed under the the Creative Commons Attribute License (CC-BY-4.0) - https://creativecommons.org/licenses/by/4.0/deed.en
+The data released in this repository is licensed under the Creative Commons Attribute License (CC-BY-4.0) - https://creativecommons.org/licenses/by/4.0/deed.en
 
 ## Acknowledgments
 
